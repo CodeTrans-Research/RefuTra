@@ -1,0 +1,198 @@
+[
+    {
+        "stdout": "",
+        "stderr": "result2/repair/starchat/python2java/java_repair_eval/MAXIMUM_DIFFERENCE_BETWEEN_FREQUENCY_OF_TWO_ELEMENTS_SUCH_THAT_ELEMENT_HAVING_GREATER_FREQUENCY_IS_ALSO_GREATER.java:36: error: array required, but HashMap<Integer,Integer> found\n            freq [ arr [ i ] ] = freq.getOrDefault ( arr [ i ], 0 ) + 1;\n                 ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MAXIMUM_DIFFERENCE_BETWEEN_FREQUENCY_OF_TWO_ELEMENTS_SUCH_THAT_ELEMENT_HAVING_GREATER_FREQUENCY_IS_ALSO_GREATER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_SUM_NODES_GIVEN_PERFECT_BINARY_TREE_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_PALINDROMIC_SUBSEQUENCE_GIVEN_STRING"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/repair/starchat/python2java/java_repair_eval/PROGRAM_OCTAL_DECIMAL_CONVERSION.java:30: error: cannot find symbol\n        while (temp){\n               ^\n  symbol:   variable temp\n  location: class PROGRAM_OCTAL_DECIMAL_CONVERSION\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "PROGRAM_OCTAL_DECIMAL_CONVERSION"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_FOR_SURFACE_AREA_OF_OCTAHEDRON"
+    },
+    {
+        "stdout": "#Results:4, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MAXIMUM_WEIGHT_PATH_ENDING_ELEMENT_LAST_ROW_MATRIX"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "COUNT_DIGITS_FACTORIAL_SET_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/repair/starchat/python2java/java_repair_eval/COUNT_OPERATIONS_MAKE_STRINGAB_FREE.java:34: error: '(' expected\n            if s.charAt( ~ i ) == 'a' {\n              ^\nresult2/repair/starchat/python2java/java_repair_eval/COUNT_OPERATIONS_MAKE_STRINGAB_FREE.java:34: error: ')' expected\n            if s.charAt( ~ i ) == 'a' {\n                                     ^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_OPERATIONS_MAKE_STRINGAB_FREE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COMPUTE_NCR_P_SET_1_INTRODUCTION_AND_DYNAMIC_PROGRAMMING_SOLUTION"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/repair/starchat/python2java/java_repair_eval/NTH_EVEN_LENGTH_PALINDROME.java:45: error: method f_filled in class NTH_EVEN_LENGTH_PALINDROME cannot be applied to given types;\n        if(f_filled(param0.get(i)).equals(f_gold(param0.get(i))))\n           ^\n  required: int[]\n  found:    String\n  reason: argument mismatch; String cannot be converted to int[]\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "NTH_EVEN_LENGTH_PALINDROME"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_THE_MISSING_NUMBER_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_OF_ALL_SUBSTRINGS_OF_A_STRING_REPRESENTING_A_NUMBER"
+    },
+    {
+        "stdout": "#Results:1, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "LONGEST_EVEN_LENGTH_SUBSTRING_SUM_FIRST_SECOND_HALF"
+    },
+    {
+        "stdout": "#Results:9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "DICE_THROW_PROBLEM"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_DISTINCT_NON_NEGATIVE_PAIRS_X_Y_SATISFY_INEQUALITY_XX_YY_N_2_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_DISTINCT_OCCURRENCES_AS_A_SUBSEQUENCE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_CALCULATE_AREA_OCTAGON"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/repair/starchat/python2java/java_repair_eval/MARKOV_MATRIX.java:55: error: method f_filled in class MARKOV_MATRIX cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: int[][]\n  found:    double[][]\n  reason: argument mismatch; double[][] cannot be converted to int[][]\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MARKOV_MATRIX"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_NUMBER_OF_SQUARES_WHOSE_SUM_EQUALS_TO_GIVEN_NUMBER_N_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/repair/starchat/python2java/java_repair_eval/FORM_MINIMUM_NUMBER_FROM_GIVEN_SEQUENCE_1.java:42: error: incompatible types: char cannot be converted to String\n                    result [ j + 1 ] = ( char ) ( '0' + count );\n                                       ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FORM_MINIMUM_NUMBER_FROM_GIVEN_SEQUENCE_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_WAYS_DIVIDE_CIRCLE_USING_N_NON_INTERSECTING_CHORDS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "WAYS_TO_WRITE_N_AS_SUM_OF_TWO_OR_MORE_POSITIVE_INTEGERS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/repair/starchat/python2java/java_repair_eval/SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER.java:47: error: not a statement\n                evenArr [ ] = arr [ i ];\n                        ^\nresult2/repair/starchat/python2java/java_repair_eval/SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER.java:47: error: ';' expected\n                evenArr [ ] = arr [ i ];\n                           ^\nresult2/repair/starchat/python2java/java_repair_eval/SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER.java:47: error: not a statement\n                evenArr [ ] = arr [ i ];\n                                  ^\nresult2/repair/starchat/python2java/java_repair_eval/SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER.java:49: error: not a statement\n                oddArr [ ] = arr [ i ];\n                       ^\nresult2/repair/starchat/python2java/java_repair_eval/SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER.java:49: error: ';' expected\n                oddArr [ ] = arr [ i ];\n                          ^\nresult2/repair/starchat/python2java/java_repair_eval/SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER.java:49: error: not a statement\n                oddArr [ ] = arr [ i ];\n                                 ^\n6 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_BINOMIAL_COEFFICIENTS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_NATURAL_NUMBERS_WHOSE_PERMUTATION_GREATER_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_REVERSING_SUB_ARRAY_MAKE_ARRAY_SORTED_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4\n\tat FIND_NUMBER_TIMES_STRING_OCCURS_GIVEN_STRING_1.f_filled(FIND_NUMBER_TIMES_STRING_OCCURS_GIVEN_STRING_1.java:45)\n\tat FIND_NUMBER_TIMES_STRING_OCCURS_GIVEN_STRING_1.main(FIND_NUMBER_TIMES_STRING_OCCURS_GIVEN_STRING_1.java:85)\n",
+        "state": "RuntimeError",
+        "WhyError": "RuntimeError_",
+        "filename": "FIND_NUMBER_TIMES_STRING_OCCURS_GIVEN_STRING_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_POSSIBLE_PATHS_TOP_LEFT_BOTTOM_RIGHT_NXM_MATRIX_3"
+    }
+]

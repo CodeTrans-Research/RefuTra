@@ -1,0 +1,1979 @@
+{
+    "COUNT_NUMBERS_CAN_CONSTRUCTED_USING_TWO_NUMBERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LONGEST_INCREASING_ODD_EVEN_SUBSEQUENCE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_MATRIX_ELEMENT_ABSOLUTE_DIFFERENCE_ROW_COLUMN_NUMBERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "WAYS_TO_WRITE_N_AS_SUM_OF_TWO_OR_MORE_POSITIVE_INTEGERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "STOOGE_SORT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SEARCHING_ARRAY_ADJACENT_DIFFER_K": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_TO_CHECK_IF_A_GIVEN_NUMBER_IS_LUCKY_ALL_DIGITS_ARE_DIFFERENT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_THE_ELEMENT_THAT_APPEARS_ONCE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "STEINS_ALGORITHM_FOR_FINDING_GCD_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "C_PROGRAM_FIND_LARGEST_ELEMENT_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SMALLEST_POWER_OF_2_GREATER_THAN_OR_EQUAL_TO_N_2": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_THREE_ELEMENT_FROM_DIFFERENT_THREE_ARRAYS_SUCH_THAT_THAT_A_B_C_K_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_COST_CONNECT_WEIGHTED_NODES_REPRESENTED_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_WHETHER_GIVEN_INTEGER_POWER_3_NOT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_POSSIBLE_GROUPS_SIZE_2_3_SUM_MULTIPLE_3": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_THE_LARGEST_SUBARRAY_WITH_0_SUM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MULTIPLY_AN_INTEGER_WITH_3_5": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_TIME_WRITE_CHARACTERS_USING_INSERT_DELETE_COPY_OPERATION": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": "dp",
+                "changetype": "arrinit"
+            },
+            {
+                "type": "add",
+                "line": 5,
+                "content": "memset(dp,0,sizeof(dp));",
+                "changetype": "arrinit"
+            },
+            {
+                "type": "replace",
+                "line": 4,
+                "old": "*dp = new int[N + 1]",
+                "new": " dp [N+1]",
+                "changetype": "arrinit"
+            }
+        ],
+        "mypyoutput": ""
+    },
+    "FIND_VALUE_OF_Y_MOD_2_RAISED_TO_POWER_X": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_PAIR_MAXIMUM_GCD_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_DERANGEMENTS_PERMUTATION_SUCH_THAT_NO_ELEMENT_APPEARS_IN_ITS_ORIGINAL_POSITION_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_DIGITS_PRODUCT_TWO_NUMBERS_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_NUMBER_TIMES_STRING_OCCURS_GIVEN_STRING_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_NUMBER_PERFECT_SQUARES_TWO_GIVEN_NUMBERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROBABILITY_THREE_RANDOMLY_CHOSEN_NUMBERS_AP": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "REMOVE_MINIMUM_ELEMENTS_EITHER_SIDE_2MIN_MAX": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_SERIES_23_45_67_89_UPTO_N_TERMS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_PAIRS_DIFFERENCE_EQUAL_K": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_WORDS_APPEAR_EXACTLY_TWO_TIMES_ARRAY_WORDS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PRIME_NUMBERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "ANALYSIS_OF_ALGORITHMS_SET_2_ASYMPTOTIC_ANALYSIS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_FIBONACCI_NUMBERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_K_TH_GROUP_ODD_POSITIVE_NUMBERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_DISTANCE_TWO_OCCURRENCES_ELEMENT_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "HEIGHT_COMPLETE_BINARY_TREE_HEAP_N_NODES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_UNIQUE_RECTANGLES_FORMED_USING_N_UNIT_SQUARES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DOUBLE_FACTORIAL_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_BINARY_DIGIT_NUMBERS_SMALLER_N": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CASSINIS_IDENTITY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_POINTS_INTERSECTION_N_CIRCLES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_N_TH_ELEMENT_FROM_STERNS_DIATOMIC_SERIES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "EVEN_FIBONACCI_NUMBERS_SUM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CALCULATE_SUM_OF_ALL_NUMBERS_PRESENT_IN_A_STRING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FRIENDS_PAIRING_PROBLEM_2": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DYNAMIC_PROGRAMMING_SET_3_LONGEST_INCREASING_SUBSEQUENCE_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_HARMONIC_MEAN_USING_ARITHMETIC_MEAN_GEOMETRIC_MEAN": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "RECURSIVE_PROGRAM_PRIME_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_IF_X_CAN_GIVE_CHANGE_TO_EVERY_PERSON_IN_THE_QUEUE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PYTHON_PROGRAM_FIND_PERIMETER_CIRCUMFERENCE_SQUARE_RECTANGLE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_MINIMUM_RADIUS_ATLEAST_K_POINT_LIE_INSIDE_CIRCLE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_PAIRS_WHOSE_PRODUCTS_EXIST_IN_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DELANNOY_NUMBER_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_SUBARRAY_SUM_USING_PREFIX_SUM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_DIVISORS_1_N_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_SUM_SUBARRAY_REMOVING_ONE_ELEMENT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_IF_STRING_REMAINS_PALINDROME_AFTER_REMOVING_GIVEN_NUMBER_OF_CHARACTERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LONGEST_REPEATING_SUBSEQUENCE": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": "dp",
+                "changetype": "arrinit"
+            },
+            {
+                "type": "replace",
+                "line": 5,
+                "old": "dp[i] = new int[n + 1]",
+                "new": "dp[i] = new int[n + 1]()",
+                "changetype": "arrinit"
+            }
+        ],
+        "mypyoutput": ""
+    },
+    "CEILING_IN_A_SORTED_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_MAXIMUM_AVERAGE_SUBARRAY_OF_K_LENGTH_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_NUMBER_OF_SQUARES_WHOSE_SUM_EQUALS_TO_GIVEN_NUMBER_N_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_NUMBER_SUBSETS_DISTINCT_ELEMENTS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_SUM_SUBSEQUENCE_LEAST_ONE_EVERY_FOUR_CONSECUTIVE_ELEMENTS_PICKED": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "POSSIBLE_FORM_TRIANGLE_ARRAY_VALUES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_STRINGS_CAN_FORMED_USING_B_C_GIVEN_CONSTRAINTS_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LARGEST_SUBSEQUENCE_GCD_GREATER_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "TEMPLE_OFFERINGS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "GCD_ELEMENTS_GIVEN_RANGE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_VALUE_CHOICE_EITHER_DIVIDING_CONSIDERING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PAPER_CUT_MINIMUM_NUMBER_SQUARES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SEARCH_AN_ELEMENT_IN_A_SORTED_AND_PIVOTED_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_MAXIMUM_PRODUCT_OF_A_TRIPLET_IN_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "GIVEN_TWO_STRINGS_FIND_FIRST_STRING_SUBSEQUENCE_SECOND": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "HYPERCUBE_GRAPH": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DIFFERENCE_BETWEEN_HIGHEST_AND_LEAST_FREQUENCIES_IN_AN_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "AREA_OF_THE_CIRCLE_THAT_HAS_A_SQUARE_AND_A_CIRCLE_INSCRIBED_IN_IT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_CALCULATE_VOLUME_OCTAHEDRON": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DECIMAL_BINARY_CONVERSION_WITHOUT_USING_ARITHMETIC_OPERATORS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_DIVISIBILITY_LARGE_NUMBER_999": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LONGEST_SUBSEQUENCE_DIFFERENCE_ADJACENTS_ONE_SET_2": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "GIVEN_LARGE_NUMBER_CHECK_SUBSEQUENCE_DIGITS_DIVISIBLE_8_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_CHECK_ISBN": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PERMUTE_TWO_ARRAYS_SUM_EVERY_PAIR_GREATER_EQUAL_K": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PANGRAM_CHECKING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "ARRAY_ELEMENT_MOVED_K_USING_SINGLE_MOVES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_PERIMETER_N_BLOCKS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_MINIMUM_ELEMENT_IN_A_SORTED_AND_ROTATED_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LONGEST_PREFIX_ALSO_SUFFIX_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_XOR_VALUE_PAIR_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_PAIRWISE_PRODUCTS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_POSSIBLE_PATHS_TOP_LEFT_BOTTOM_RIGHT_NXM_MATRIX_3": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_NUMBER_OF_OCCURRENCES_OR_FREQUENCY_IN_A_SORTED_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_AVERAGE_SUM_PARTITION_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_PRODUCT_SUBSET_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "ZECKENDORFS_THEOREM_NON_NEIGHBOURING_FIBONACCI_REPRESENTATION": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_SUM_ODD_FACTORS_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_WAYS_BUILD_STREET_GIVEN_CONSTRAINTS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "QUICK_WAY_CHECK_CHARACTERS_STRING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_PAIRWISE_PRODUCTS_2": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LCS_FORMED_CONSECUTIVE_SEGMENTS_LEAST_LENGTH_K": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": "lcs",
+                "changetype": "arrinit"
+            },
+            {
+                "type": "add",
+                "line": 5,
+                "content": "memset(lcs,0,sizeof(lcs));",
+                "changetype": "arrinit"
+            },
+            {
+                "type": "replace",
+                "line": 4,
+                "old": "lcs[n + 1][m + 1]",
+                "new": "lcs[n + 1][m + 1] = {0}",
+                "changetype": "arrinit"
+            },
+            {
+                "type": "add",
+                "line": -1,
+                "content": "cnt",
+                "changetype": "arrinit"
+            },
+            {
+                "type": "add",
+                "line": 6,
+                "content": "memset(cnt,0,sizeof(cnt));",
+                "changetype": "arrinit"
+            },
+            {
+                "type": "replace",
+                "line": 5,
+                "old": "cnt[n + 1][m + 1]",
+                "new": "cnt[n + 1][m + 1] = {0}",
+                "changetype": "arrinit"
+            }
+        ],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_BINOMIAL_COEFFICIENT_TERM_VALUE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CAESAR_CIPHER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_RECTANGLES_NM_GRID": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_LARGE_NUMBER_DIVISIBLE_9_NOT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_2": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LONGEST_INCREASING_SUBSEQUENCE_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MIRROR_CHARACTERS_STRING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_SUBSTRINGS_STRING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "HORNERS_METHOD_POLYNOMIAL_EVALUATION": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_REPETITIVE_ELEMENT_1_N_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LONGEST_REPEATED_SUBSEQUENCE_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_WHETHER_GIVEN_DEGREES_VERTICES_REPRESENT_GRAPH_TREE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_OF_SUB_STRINGS_THAT_DO_NOT_CONTAIN_ALL_THE_CHARACTERS_FROM_THE_SET_A_B_C_AT_THE_SAME_TIME": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_LARGEST_PRIME_FACTOR_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "ADD_1_TO_A_GIVEN_NUMBER_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_COST_MAKE_ARRAY_SIZE_1_REMOVING_LARGER_PAIRS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NEWMAN_CONWAY_SEQUENCE_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DISTRIBUTING_M_ITEMS_CIRCLE_SIZE_N_STARTING_K_TH_POSITION": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_BINOMIAL_COEFFICIENTS_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DYNAMIC_PROGRAMMING_SET_36_CUT_A_ROPE_TO_MAXIMIZE_PRODUCT_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_SUM_ALTERNATING_SUBSEQUENCE_SUM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_NATURAL_NUMBERS_WHOSE_PERMUTATION_GREATER_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NON_REPEATING_ELEMENT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CALCULATE_ANGLE_HOUR_HAND_MINUTE_HAND": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMIZE_ARRAY_ELEMENTS_UPTO_GIVEN_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "TRIANGULAR_NUMBERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_NUMBER_INCREASING_SUBSEQUENCES_SIZE_K": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_WAYS_DIVIDE_CIRCLE_USING_N_NON_INTERSECTING_CHORDS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_THE_MISSING_NUMBER_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LEONARDO_NUMBER_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUBSET_SUM_PROBLEM_OSUM_SPACE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_NUMBER_WAYS_REACH_GIVEN_SCORE_GAME": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_ROTATION_COUNT_ROTATED_SORTED_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "WRITE_AN_EFFICIENT_METHOD_TO_CHECK_IF_A_NUMBER_IS_MULTIPLE_OF_3": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_SUBARRAY_WITH_GIVEN_SUM_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DYNAMIC_PROGRAMMING_SET_28_MINIMUM_INSERTIONS_TO_FORM_A_PALINDROME": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "HIGHWAY_BILLBOARD_PROBLEM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_N_DIGITS_NON_DECREASING_INTEGERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_FIND_SLOPE_LINE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "HOW_TO_BEGIN_WITH_COMPETITIVE_PROGRAMMING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_NUMBER_WAYS_TILE_FLOOR_SIZE_N_X_M_USING_1_X_M_SIZE_TILES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_COUNT_OCCURRENCE_GIVEN_CHARACTER_STRING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NEXT_POWER_OF_2_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SORT_ARRAY_TWO_HALVES_SORTED": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_STEPS_MINIMIZE_N_PER_GIVEN_CONDITION": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DYNAMIC_PROGRAMMING_SET_11_EGG_DROPPING_PUZZLE_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_POSSIBLE_PATHS_TOP_LEFT_BOTTOM_RIGHT_NXM_MATRIX_2": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COMPUTE_AVERAGE_TWO_NUMBERS_WITHOUT_OVERFLOW": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_FREQUENCY_K_MATRIX_SIZE_N_MATRIXI_J_IJ": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_CHARACTERS_STRING_DISTANCE_ENGLISH_ALPHABETS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "TOTAL_NUMBER_OF_NON_DECREASING_NUMBERS_WITH_N_DIGITS_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CALCULATE_MAXIMUM_VALUE_USING_SIGN_TWO_NUMBERS_STRING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DIVISIBILITY_BY_7": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_WHETHER_GIVEN_NUMBER_EVEN_ODD": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUBARRAYS_DISTINCT_ELEMENTS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_SUBARRAY_SUM_ARRAY_CREATED_REPEATED_CONCATENATION": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_DIGITS_REMOVED_MAKE_NUMBER_DIVISIBLE_3": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "BASIC_AND_EXTENDED_EUCLIDEAN_ALGORITHMS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MULTIPLY_LARGE_INTEGERS_UNDER_LARGE_MODULO": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LONGEST_SUBARRAY_COUNT_1S_ONE_COUNT_0S": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_ROTATIONS_REQUIRED_GET_STRING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "GIVEN_A_SORTED_AND_ROTATED_ARRAY_FIND_IF_THERE_IS_A_PAIR_WITH_A_GIVEN_SUM_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "REARRANGE_ARRAY_MAXIMUM_MINIMUM_FORM_SET_2_O1_EXTRA_SPACE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_FIND_REMAINDER_LARGE_NUMBER_DIVIDED_11": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "ELEMENTS_TO_BE_ADDED_SO_THAT_ALL_ELEMENTS_OF_A_RANGE_ARE_PRESENT_IN_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FINDING_POWER_PRIME_NUMBER_P_N": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "TILING_WITH_DOMINOES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_GIVEN_STRING_CAN_SPLIT_FOUR_DISTINCT_STRINGS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MIDDLE_OF_THREE_USING_MINIMUM_COMPARISONS_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SWAP_TWO_NIBBLES_BYTE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_IS_DIVISIBLE_BY_29_OR_NOT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DISTRIBUTING_ITEMS_PERSON_CANNOT_TAKE_TWO_ITEMS_TYPE_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_AREA_RECTANGLE_PICKING_FOUR_SIDES_ARRAY": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": "arr Integer[]",
+                "changetype": "type"
+            },
+            {
+                "type": "add",
+                "line": 1,
+                "content": "int f_gold(int arr [],int n){",
+                "changetype": "type"
+            },
+            {
+                "type": "del",
+                "line": 1,
+                "changetype": "type"
+            }
+        ],
+        "mypyoutput": ""
+    },
+    "CHECK_GIVEN_STRING_ROTATION_PALINDROME": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_ARRAY_REPRESENTS_INORDER_BINARY_SEARCH_TREE_NOT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_EXPRESSION_DUPLICATE_PARENTHESIS_NOT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_ONE_EXTRA_CHARACTER_STRING_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_PAIRS_WHOSE_PRODUCTS_EXIST_IN_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_N_DIGIT_STEPPING_NUMBERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_SET_BITS_IN_AN_INTEGER_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "REMAINDER_7_LARGE_NUMBERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_STRINGS_WITH_CONSECUTIVE_1S": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "STRING_CONTAINING_FIRST_LETTER_EVERY_WORD_GIVEN_STRING_SPACES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_LENGTH_SUBSEQUENCE_DIFFERENCE_ADJACENT_ELEMENTS_EITHER_0_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "K_TH_LARGEST_SUM_CONTIGUOUS_SUBARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SORT_EVEN_NUMBERS_ASCENDING_ORDER_SORT_ODD_NUMBERS_DESCENDING_ORDER_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_SERIES_0_6_0_06_0_006_0_0006_N_TERMS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SMALLEST_OF_THREE_INTEGERS_WITHOUT_COMPARISON_OPERATORS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_INCREMENT_K_OPERATIONS_MAKE_ELEMENTS_EQUAL": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PARTITION_INTO_TWO_SUBARRAYS_OF_LENGTHS_K_AND_N_K_SUCH_THAT_THE_DIFFERENCE_OF_SUMS_IS_MAXIMUM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAMMING_PUZZLE_ASSIGN_VALUE_WITHOUT_CONTROL_STATEMENT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAKE_LARGEST_PALINDROME_CHANGING_K_DIGITS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_SUM_IARRI_AMONG_ROTATIONS_GIVEN_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NEXT_POWER_OF_2": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_GIVEN_CIRCLE_LIES_COMPLETELY_INSIDE_RING_FORMED_TWO_CONCENTRIC_CIRCLES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "EFFICIENT_SEARCH_IN_AN_ARRAY_WHERE_DIFFERENCE_BETWEEN_ADJACENT_IS_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_WHETHER_A_GIVEN_NUMBER_IS_A_POWER_OF_4_OR_NOT_2": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_SUM_PRODUCT_TWO_ARRAYS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_SUBSEQUENCES_AB_STRING_REPEATED_K_TIMES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_SUM_UNIQUE_SUB_ARRAY_SUM_GIVEN_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "OVERLAPPING_SUM_TWO_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_SUM_PAIRS_SPECIFIC_DIFFERENCE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN_2": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_RECTANGLE_BINARY_MATRIX_CORNERS_1_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_CONSECUTIVE_NUMBERS_PRESENT_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_FIRST_NATURAL_NUMBER_WHOSE_FACTORIAL_DIVISIBLE_X": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_WHICH_HAS_THE_MAXIMUM_NUMBER_OF_DISTINCT_PRIME_FACTORS_IN_RANGE_M_TO_N": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SPACE_OPTIMIZED_DP_SOLUTION_0_1_KNAPSACK_PROBLEM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SEQUENCES_GIVEN_LENGTH_EVERY_ELEMENT_EQUAL_TWICE_PREVIOUS_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_DIVISIBILITY_BINARY_STRING_2K": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_NUMBER_CHOCOLATES_DISTRIBUTED_EQUALLY_AMONG_K_STUDENTS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CALCULATE_VOLUME_DODECAHEDRON": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_POSSIBLE_DIFFERENCE_TWO_SUBSETS_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_NUMBER_OF_SQUARES_THAT_CAN_BE_FIT_IN_A_RIGHT_ANGLE_ISOSCELES_TRIANGLE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_FACTORS_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "HOW_TO_CHECK_IF_A_GIVEN_ARRAY_REPRESENTS_A_BINARY_HEAP": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_TO_FIND_THE_AREA_OF_PENTAGON": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_FOR_SURFACE_AREA_OF_OCTAHEDRON": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_SUM_SUBSEQUENCE_LEAST_K_DISTANT_ELEMENTS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "EQUILIBRIUM_INDEX_OF_AN_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LENGTH_LONGEST_BALANCED_SUBSEQUENCE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_MAXIMUM_PRODUCT_OF_A_TRIPLET_IN_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_WHETHER_ARITHMETIC_PROGRESSION_CAN_FORMED_GIVEN_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_PALINDROME_SUB_STRINGS_STRING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "K_TH_DIGIT_RAISED_POWER_B": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DIVIDE_LARGE_NUMBER_REPRESENTED_STRING": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": "num constchar*",
+                "changetype": "type"
+            },
+            {
+                "type": "add",
+                "line": 4,
+                "content": "vector<char> num =  number.c_str();",
+                "changetype": "type"
+            },
+            {
+                "type": "del",
+                "line": 4,
+                "changetype": "type"
+            }
+        ],
+        "mypyoutput": ""
+    },
+    "MAXIMIZE_VOLUME_CUBOID_GIVEN_SUM_SIDES_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MIDDLE_OF_THREE_USING_MINIMUM_COMPARISONS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_RECTANGLE_BINARY_MATRIX_CORNERS_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_SERIES_12_32_52_2N_12": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_PRODUCT_K_INTEGERS_ARRAY_POSITIVE_INTEGERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_AREA_SQUARE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "AREA_SQUARE_CIRCUMSCRIBED_CIRCLE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DYNAMIC_PROGRAMMING_SET_8_MATRIX_CHAIN_MULTIPLICATION": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SEARCH_ALMOST_SORTED_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DECODE_STRING_RECURSIVELY_ENCODED_COUNT_FOLLOWED_SUBSTRING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_ROTATIONS_DIVISIBLE_4": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "RECURSIVELY_BREAK_NUMBER_3_PARTS_GET_MAXIMUM_SUM_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PAIR_WITH_GIVEN_PRODUCT_SET_1_FIND_IF_ANY_PAIR_EXISTS_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_THE_MAXIMUM_ELEMENT_IN_AN_ARRAY_WHICH_IS_FIRST_INCREASING_AND_THEN_DECREASING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_INTEGER_OVERFLOW_MULTIPLICATION": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_MANHATTAN_DISTANCES_PAIRS_POINTS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "HOW_TO_CHECK_IF_A_GIVEN_ARRAY_REPRESENTS_A_BINARY_HEAP_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LEXICOGRAPHICALLY_NEXT_STRING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_SUM_EVEN_FACTORS_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_MINIMUM_NUMBER_DIVIDED_MAKE_NUMBER_PERFECT_SQUARE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MODULUS_TWO_FLOAT_DOUBLE_NUMBERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_FIND_SMALLEST_DIFFERENCE_ANGLES_TWO_PARTS_GIVEN_CIRCLE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DETECT_IF_TWO_INTEGERS_HAVE_OPPOSITE_SIGNS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_AREA_RECTANGLES_POSSIBLE_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMIZE_SUM_PRODUCT_TWO_ARRAYS_PERMUTATIONS_ALLOWED": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_REPETITIVE_ELEMENT_1_N_1_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PRIMALITY_TEST_SET_5USING_LUCAS_LEHMER_SERIES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LENGTH_LONGEST_BALANCED_SUBSEQUENCE_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "RECURSIVELY_BREAK_NUMBER_3_PARTS_GET_MAXIMUM_SUM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COMPUTE_MODULUS_DIVISION_BY_A_POWER_OF_2_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_SUBARRAYS_WITH_SAME_EVEN_AND_ODD_ELEMENTS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SORT_ARRAY_APPLYING_GIVEN_EQUATION": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_SUBSTRINGS_WITH_SAME_FIRST_AND_LAST_CHARACTERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DYNAMIC_PROGRAMMING_HIGH_EFFORT_VS_LOW_EFFORT_TASKS_PROBLEM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FORM_MINIMUM_NUMBER_FROM_GIVEN_SEQUENCE_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_POSSIBLE_SUM_WINDOW_ARRAY_ELEMENTS_WINDOW_ARRAY_UNIQUE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "ARRAY_RANGE_QUERIES_ELEMENTS_FREQUENCY_VALUE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_BINARY_DECIMAL_CONVERSION_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "QUERIES_COUNTS_ARRAY_ELEMENTS_VALUES_GIVEN_RANGE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_POSSIBLE_DIFFERENCE_TWO_SUBSETS_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SIZE_SUBARRAY_MAXIMUM_SUM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_DIFFERENCE_BETWEEN_FREQUENCY_OF_TWO_ELEMENTS_SUCH_THAT_ELEMENT_HAVING_GREATER_FREQUENCY_IS_ALSO_GREATER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_TRAILING_ZEROES_FACTORIAL_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DISCRETE_LOGARITHM_FIND_INTEGER_K_AK_CONGRUENT_MODULO_B": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_SUM_PAIRS_SPECIFIC_DIFFERENCE_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_SUM_TWO_NUMBERS_FORMED_DIGITS_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PRIMALITY_TEST_SET_1_INTRODUCTION_AND_SCHOOL_METHOD_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FRIENDS_PAIRING_PROBLEM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_WHETHER_TRIANGLE_VALID_NOT_SIDES_GIVEN": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "K_TH_PRIME_FACTOR_GIVEN_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SEARCH_AN_ELEMENT_IN_AN_ARRAY_WHERE_DIFFERENCE_BETWEEN_ADJACENT_ELEMENTS_IS_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_THE_ELEMENT_THAT_APPEARS_ONCE_2": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_STRING_CAN_OBTAINED_ROTATING_ANOTHER_STRING_2_PLACES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_SUM_EVEN_INDEX_BINOMIAL_COEFFICIENTS_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SQUARE_PYRAMIDAL_NUMBER_SUM_SQUARES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_SUBSEQUENCES_STRING_DIVISIBLE_N": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SMALLEST_POWER_OF_2_GREATER_THAN_OR_EQUAL_TO_N_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_INVERSIONS_OF_SIZE_THREE_IN_A_GIVE_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_INDEX_GIVEN_FIBONACCI_NUMBER_CONSTANT_TIME": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_OCTAL_DECIMAL_CONVERSION": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "REPLACE_CHARACTER_C1_C2_C2_C1_STRING_S": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_ROTATIONS_UNLOCK_CIRCULAR_LOCK": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_SET_BITS_IN_AN_INTEGER_3": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_NUMBER_IS_PERFECT_SQUARE_USING_ADDITIONSUBTRACTION": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_CONSECUTIVE_REPEATING_CHARACTER_STRING_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIRST_UPPERCASE_LETTER_IN_A_STRING_ITERATIVE_AND_RECURSIVE_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_DIGITS_PRODUCT_TWO_NUMBERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_THE_MAXIMUM_SUBARRAY_XOR_IN_A_GIVEN_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_A_ROTATION_WITH_MAXIMUM_HAMMING_DISTANCE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_OF_PAIRS_IN_AN_ARRAY_HAVING_SUM_EQUAL_TO_PRODUCT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SMALLEST_DIFFERENCE_PAIR_VALUES_TWO_UNSORTED_ARRAYS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_A_TRIPLET_THAT_SUM_TO_A_GIVEN_VALUE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_NODES_K_TH_LEVEL_TREE_REPRESENTED_STRING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_CALCULATE_AREA_OCTAGON": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHANGE_BITS_CAN_MADE_ONE_FLIP": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DYNAMIC_PROGRAMMING_SUBSET_SUM_PROBLEM_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FLOOR_IN_A_SORTED_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "HEXAGONAL_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SORT_ARRAY_CONTAIN_1_N_VALUES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_IF_A_NUMBER_IS_POWER_OF_ANOTHER_NUMBER_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SQUARE_ROOT_OF_AN_INTEGER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_PRINT_SUM_GIVEN_NTH_TERM_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_POSITION_GIVEN_NUMBER_AMONG_NUMBERS_MADE_4_7": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_ARRAY_MAJORITY_ELEMENT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_SUM_EVEN_INDEX_BINOMIAL_COEFFICIENTS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LEXICOGRAPHICAL_CONCATENATION_SUBSTRINGS_STRING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_MAXIMUM_DOT_PRODUCT_TWO_ARRAYS_INSERTION_0S": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "WAYS_REMOVE_ONE_ELEMENT_BINARY_STRING_XOR_BECOMES_ZERO": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FINDING_POWER_PRIME_NUMBER_P_N_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_ROTATIONS_DIVISIBLE_8": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CONVERT_DECIMAL_FRACTION_BINARY_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "C_PROGRAM_FACTORIAL_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_PALINDROMIC_SUBSEQUENCE_GIVEN_STRING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_INDEX_PAIRS_EQUAL_ELEMENTS_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_THE_FIRST_MISSING_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PIZZA_CUT_PROBLEM_CIRCLE_DIVISION_LINES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_CHECK_INPUT_INTEGER_STRING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DYNAMIC_PROGRAMMING_SET_15_LONGEST_BITONIC_SUBSEQUENCE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SPLIT_ARRAY_ADD_FIRST_PART_END": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_LENGTH_PREFIX_ONE_STRING_OCCURS_SUBSEQUENCE_ANOTHER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "EULERS_CRITERION_CHECK_IF_SQUARE_ROOT_UNDER_MODULO_P_EXISTS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_SQUARES_BINOMIAL_COEFFICIENTS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_MINIMUM_NUMBER_SUBSETS_SUBSEQUENCES_CONSECUTIVE_NUMBERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMIZE_THE_SUM_OF_DIGITS_OF_A_AND_B_SUCH_THAT_A_B_N": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_STRING_FOLLOWS_ANBN_PATTERN_NOT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FREQUENT_ELEMENT_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_THE_MINIMUM_DISTANCE_BETWEEN_TWO_NUMBERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SEARCH_INSERT_AND_DELETE_IN_A_SORTED_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_LARGE_NUMBER_DIVISIBLE_11_NOT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_MAXIMUM_AVERAGE_SUBARRAY_OF_K_LENGTH": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_DISTINCT_OCCURRENCES_AS_A_SUBSEQUENCE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SEARCH_INSERT_AND_DELETE_IN_A_SORTED_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_TO_FIND_REMAINDER_WITHOUT_USING_MODULO_OR_OPERATOR": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_TOTAL_SET_BITS_IN_ALL_NUMBERS_FROM_1_TO_N": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DYNAMIC_PROGRAMMING_SET_37_BOOLEAN_PARENTHESIZATION_PROBLEM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SQUARED_TRIANGULAR_NUMBER_SUM_CUBES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_GAMES_PLAYED_WINNER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "K_TH_ELEMENT_TWO_SORTED_ARRAYS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DIFFERENCE_BETWEEN_HIGHEST_AND_LEAST_FREQUENCIES_IN_AN_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_REVERSING_SUB_ARRAY_MAKE_ARRAY_SORTED_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MIDDLE_OF_THREE_USING_MINIMUM_COMPARISONS_2": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LONGEST_SUBARRAY_SUM_DIVISIBLE_K": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_LAST_DIGIT_FACTORIAL_DIVIDES_FACTORIAL_B": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_DISTINCT_NON_NEGATIVE_PAIRS_X_Y_SATISFY_INEQUALITY_XX_YY_N_2": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_PATTERNS_101_GIVEN_STRING": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_PAIRS_TWO_SORTED_ARRAYS_WHOSE_SUM_EQUAL_GIVEN_VALUE_X_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_PRODUCT_SUBSET_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "POSITIVE_ELEMENTS_EVEN_NEGATIVE_ODD_POSITIONS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_MINIMUM_DIFFERENCE_PAIR_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_IF_A_GIVEN_ARRAY_CAN_REPRESENT_PREORDER_TRAVERSAL_OF_BINARY_SEARCH_TREE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PRINT_MAXIMUM_SHORTEST_DISTANCE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NON_REPEATING_ELEMENT_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DIVISIBILITY_BY_12_FOR_A_LARGE_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "N_TH_TERM_SERIES_2_12_36_80_150": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DYNAMIC_PROGRAMMING_SET_10_0_1_KNAPSACK_PROBLEM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LENGTH_LONGEST_SUB_STRING_CAN_MAKE_REMOVED": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NTH_PENTAGONAL_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_POSSIBLE_TRANSFORM_ONE_STRING_ANOTHER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_OF_ALL_ELEMENTS_UP_TO_NTH_ROW_IN_A_PASCALS_TRIANGLE_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "RECURSIVE_C_PROGRAM_LINEARLY_SEARCH_ELEMENT_GIVEN_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_PAIR_MAXIMUM_GCD_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_SUBARRAY_WITH_GIVEN_SUM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_INSERTIONS_SORT_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_PAIR_WITH_GREATEST_PRODUCT_IN_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNTING_PAIRS_PERSON_CAN_FORM_PAIR_ONE_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_WHETHER_A_GIVEN_NUMBER_IS_A_POWER_OF_4_OR_NOT_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SPACE_OPTIMIZED_DP_SOLUTION_0_1_KNAPSACK_PROBLEM_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_TWO_GIVEN_CIRCLES_TOUCH_INTERSECT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIBONACCI_MODULO_P": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_FOR_FACTORIAL_OF_A_NUMBER_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_NON_NEGATIVE_INTEGRAL_SOLUTIONS_B_C_N": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DIVISIBILITY_9_USING_BITWISE_OPERATORS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_PROFIT_BY_BUYING_AND_SELLING_A_SHARE_AT_MOST_TWICE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DIFFERENT_WAYS_SUM_N_USING_NUMBERS_GREATER_EQUAL_M": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_ROOMS_FOR_M_EVENTS_OF_N_BATCHES_WITH_GIVEN_SCHEDULE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_SUM_BITONIC_SUBARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_CHECK_ARRAY_SORTED_NOT_ITERATIVE_RECURSIVE_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_XOR_VALUE_PAIR": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SWAP_BITS_IN_A_GIVEN_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DYNAMIC_PROGRAMMING_SET_14_MAXIMUM_SUM_INCREASING_SUBSEQUENCE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CONVERT_STRICTLY_INCREASING_ARRAY_MINIMUM_CHANGES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "ADD_1_TO_A_GIVEN_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_PAIRS_DIFFERENCE_EQUAL_K_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_LENGTH_SUBARRAY_SUM_GREATER_GIVEN_VALUE_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_NUMBER_SEGMENTS_LENGTHS_B_C": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LONGEST_SUBSEQUENCE_SUCH_THAT_DIFFERENCE_BETWEEN_ADJACENTS_IS_ONE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_TRIPLET_SUM_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_FOR_DEADLOCK_FREE_CONDITION_IN_OPERATING_SYSTEM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NTH_NON_FIBONACCI_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_PAIRWISE_PRODUCTS_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "EQUILIBRIUM_INDEX_OF_AN_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_NUMBER_SUBSETS_DISTINCT_ELEMENTS_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_WHETHER_GIVEN_NUMBER_EVEN_ODD_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "HARDY_RAMANUJAN_THEOREM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SMALLEST_OF_THREE_INTEGERS_WITHOUT_COMPARISON_OPERATORS_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_VISIBLE_BOXES_PUTTING_ONE_INSIDE_ANOTHER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MODULAR_EXPONENTIATION_POWER_IN_MODULAR_ARITHMETIC": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_INDEX_PAIRS_EQUAL_ELEMENTS_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_LARGE_NUMBER_DIVISIBLE_4_NOT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_EVEN_LENGTH_BINARY_SEQUENCES_WITH_SAME_SUM_OF_FIRST_AND_SECOND_HALF_BITS_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_PAIRS_TWO_SORTED_ARRAYS_WHOSE_SUM_EQUAL_GIVEN_VALUE_X": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LENGTH_OF_THE_LONGEST_ARITHMATIC_PROGRESSION_IN_A_SORTED_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FAST_MULTIPLICATION_METHOD_WITHOUT_USING_MULTIPLICATION_OPERATOR_RUSSIAN_PEASANTS_ALGORITHM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_REPEATING_ELEMENT_SORTED_ARRAY_SIZE_N": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_DISTINCT_NON_NEGATIVE_PAIRS_X_Y_SATISFY_INEQUALITY_XX_YY_N_2_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NTH_EVEN_LENGTH_PALINDROME": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIRST_ELEMENT_OCCURRING_K_TIMES_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_TRIPLET_SUM_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIRST_UPPERCASE_LETTER_IN_A_STRING_ITERATIVE_AND_RECURSIVE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MEDIAN_OF_TWO_SORTED_ARRAYS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_SUM_IARRI_AMONG_ROTATIONS_GIVEN_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "HOW_TO_TURN_OFF_A_PARTICULAR_BIT_IN_A_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_NUMBER_BINARY_STRINGS_WITHOUT_CONSECUTIVE_1S": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "DICE_THROW_PROBLEM": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_CALCULATE_VOLUME_ELLIPSOID": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_TWO_LARGE_NUMBERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_SUBSEQUENCE_SUM_SUCH_THAT_NO_THREE_ARE_CONSECUTIVE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_DIGITS_FACTORIAL_SET_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_FOR_FACTORIAL_OF_A_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHANGE_BITS_CAN_MADE_ONE_FLIP_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "TRIANGULAR_MATCHSTICK_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_WORDS_WHOSE_TH_LETTER_EITHER_1_TH_TH_I1_TH_LETTER_GIVEN_WORD": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "LEXICOGRAPHICALLY_MINIMUM_STRING_ROTATION": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "C_PROGRAM_CONCATENATE_STRING_GIVEN_NUMBER_TIMES": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "INTEGER_POSITIVE_VALUE_POSITIVE_NEGATIVE_VALUE_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NUMBER_INDEXES_EQUAL_ELEMENTS_GIVEN_RANGE": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_MATRIX_ELEMENT_ELEMENT_INTEGER_DIVISION_ROW_COLUMN_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_INDEX_OF_AN_EXTRA_ELEMENT_PRESENT_IN_ONE_SORTED_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_NUMBER_PAIRS_N_B_N_GCD_B_B": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_MATRIX_ELEMENT_ABSOLUTE_DIFFERENCE_ROW_COLUMN_NUMBERS_2": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMUM_SUM_CHOOSING_MINIMUM_PAIRS_ARRAY": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_IF_ALL_THE_ELEMENTS_CAN_BE_MADE_OF_SAME_PARITY_BY_INVERTING_ADJACENT_ELEMENTS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "TURN_OFF_THE_RIGHTMOST_SET_BIT": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_SUM_MODULO_K_FIRST_N_NATURAL_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_MAXIMUM_SUM_POSSIBLE_EQUAL_SUM_THREE_STACKS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "BINARY_SEARCH": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COMPUTE_NCR_P_SET_1_INTRODUCTION_AND_DYNAMIC_PROGRAMMING_SOLUTION": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "HOW_TO_PRINT_MAXIMUM_NUMBER_OF_A_USING_GIVEN_FOUR_KEYS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_MINIMUM_DIFFERENCE_PAIR": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "PROGRAM_FIND_STRING_START_END_GEEKS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "WRITE_ONE_LINE_C_FUNCTION_TO_FIND_WHETHER_A_NO_IS_POWER_OF_TWO": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "MINIMIZE_THE_MAXIMUM_DIFFERENCE_BETWEEN_THE_HEIGHTS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "FIND_MINIMUM_NUMBER_OF_COINS_THAT_MAKE_A_CHANGE_1": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "CHECK_IF_A_NUMBER_IS_POWER_OF_ANOTHER_NUMBER": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "EFFICIENT_WAY_CHECK_WHETHER_N_TH_FIBONACCI_NUMBER_MULTIPLE_10": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "NEXT_POWER_OF_2_2": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "WAYS_TRANSFORMING_ONE_STRING_REMOVING_0_CHARACTERS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "SUM_BINOMIAL_COEFFICIENTS": {
+        "change": [],
+        "mypyoutput": ""
+    },
+    "COUNT_POSSIBLE_PATHS_TOP_LEFT_BOTTOM_RIGHT_NXM_MATRIX_1": {
+        "change": [],
+        "mypyoutput": ""
+    }
+}

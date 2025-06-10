@@ -1,0 +1,3376 @@
+[
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_SUBARRAYS_WITH_SAME_EVEN_AND_ODD_ELEMENTS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_PAIR_WITH_GREATEST_PRODUCT_IN_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MODULAR_EXPONENTIATION_POWER_IN_MODULAR_ARITHMETIC"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUM_SUBSEQUENCE_LEAST_K_DISTANT_ELEMENTS"
+    },
+    {
+        "stdout": "Sum found between indexes\n3 and 4\nSum found between indexes 3 and 4\nNo subarray found\nNo subarray found\nSum found between indexes\n0 and 29\nSum found between indexes 0 and 29\nSum found between indexes\n8 and 10\nSum found between indexes 8 and 10\nNo subarray found\nNo subarray found\nSum found between indexes\n0 and 16\nSum found between indexes 0 and 16\nSum found between indexes\n9 and 9\nSum found between indexes 9 and 9\nSum found between indexes\n0 and 0\nSum found between indexes 0 and 0\nSum found between indexes\n0 and 0\nSum found between indexes 0 and 0\nSum found between indexes\n10 and 13\nSum found between indexes 10 and 13\n#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_SUBARRAY_WITH_GIVEN_SUM_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SEARCH_INSERT_AND_DELETE_IN_A_SORTED_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NUMBER_NON_NEGATIVE_INTEGRAL_SOLUTIONS_B_C_N"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_MINIMUM_DIFFERENCE_PAIR"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_MINIMUM_NUMBER_DIVIDED_MAKE_NUMBER_PERFECT_SQUARE"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_THE_ELEMENT_THAT_APPEARS_ONCE_2"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.NumberFormatException: For input string: \"t\"\n\tat java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)\n\tat java.base/java.lang.Integer.parseInt(Integer.java:665)\n\tat java.base/java.lang.Integer.parseInt(Integer.java:781)\n\tat DIVISIBILITY_BY_12_FOR_A_LARGE_NUMBER.f_filled(DIVISIBILITY_BY_12_FOR_A_LARGE_NUMBER.java:33)\n\tat DIVISIBILITY_BY_12_FOR_A_LARGE_NUMBER.main(DIVISIBILITY_BY_12_FOR_A_LARGE_NUMBER.java:64)\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "DIVISIBILITY_BY_12_FOR_A_LARGE_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_NUMBER_CHOCOLATES_DISTRIBUTED_EQUALLY_AMONG_K_STUDENTS"
+    },
+    {
+        "stdout": "#Results:1, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "COUNT_POSSIBLE_PATHS_TOP_LEFT_BOTTOM_RIGHT_NXM_MATRIX_2"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/FIND_VALUE_OF_Y_MOD_2_RAISED_TO_POWER_X.java:50: error: method f_filled in class FIND_VALUE_OF_Y_MOD_2_RAISED_TO_POWER_X cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: int,int\n  found:    Long,Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_VALUE_OF_Y_MOD_2_RAISED_TO_POWER_X"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "HARDY_RAMANUJAN_THEOREM"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_TO_CHECK_IF_A_GIVEN_NUMBER_IS_LUCKY_ALL_DIGITS_ARE_DIFFERENT"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/COUNT_PAIRS_WHOSE_PRODUCTS_EXIST_IN_ARRAY_1.java:46: error: ')' expected\n                if ( product in Hash ) {\n                            ^\nresult2/translate/starchat/python2java/java_eval/COUNT_PAIRS_WHOSE_PRODUCTS_EXIST_IN_ARRAY_1.java:46: error: ';' expected\n                if ( product in Hash ) {\n                                    ^\nresult2/translate/starchat/python2java/java_eval/COUNT_PAIRS_WHOSE_PRODUCTS_EXIST_IN_ARRAY_1.java:46: error: variable declaration not allowed here\n                if ( product in Hash ) {\n                                ^\n3 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_PAIRS_WHOSE_PRODUCTS_EXIST_IN_ARRAY_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_PAIRWISE_PRODUCTS_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/LONGEST_INCREASING_ODD_EVEN_SUBSEQUENCE.java:31: error: ',', ')', or '[' expected\nstatic int f_filled ( int arr [ ] : int n ) {\n                                 ^\nresult2/translate/starchat/python2java/java_eval/LONGEST_INCREASING_ODD_EVEN_SUBSEQUENCE.java:31: error: ';' expected\nstatic int f_filled ( int arr [ ] : int n ) {\n                                         ^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "LONGEST_INCREASING_ODD_EVEN_SUBSEQUENCE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "GCD_ELEMENTS_GIVEN_RANGE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_IF_A_GIVEN_ARRAY_CAN_REPRESENT_PREORDER_TRAVERSAL_OF_BINARY_SEARCH_TREE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "ADD_1_TO_A_GIVEN_NUMBER"
+    },
+    {
+        "stdout": "0\nto\n-1\n0 to -1\n0\nto\n-1\n0 to -1\n9\nto\n18\n9 to 18\n0\nto\n-1\n0 to -1\n0\nto\n-1\n0 to -1\n0\nto\n-1\n0 to -1\n0\nto\n-1\n0 to -1\n10\nto\n11\n10 to 11\n7\nto\n8\n7 to 8\n0\nto\n-1\n0 to -1\n#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CEILING_IN_A_SORTED_ARRAY_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_DIVISORS_1_N_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_NUMBER_BINARY_STRINGS_WITHOUT_CONSECUTIVE_1S"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COMPUTE_MODULUS_DIVISION_BY_A_POWER_OF_2_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_MAXIMUM_AVERAGE_SUBARRAY_OF_K_LENGTH_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MULTIPLY_TWO_NUMBERS_WITHOUT_USING_MULTIPLY_DIVISION_BITWISE_OPERATORS_AND_NO_LOOPS.java:31: error: missing return statement\n    }\n    ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MULTIPLY_TWO_NUMBERS_WITHOUT_USING_MULTIPLY_DIVISION_BITWISE_OPERATORS_AND_NO_LOOPS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "C_PROGRAM_FACTORIAL_NUMBER"
+    },
+    {
+        "stdout": "#Results:8, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "NTH_MULTIPLE_NUMBER_FIBONACCI_SERIES"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "RECURSIVELY_BREAK_NUMBER_3_PARTS_GET_MAXIMUM_SUM"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_WHETHER_A_GIVEN_NUMBER_IS_A_POWER_OF_4_OR_NOT_2"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_FIND_SMALLEST_DIFFERENCE_ANGLES_TWO_PARTS_GIVEN_CIRCLE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_REVERSING_SUB_ARRAY_MAKE_ARRAY_SORTED_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DIFFERENCE_BETWEEN_HIGHEST_AND_LEAST_FREQUENCIES_IN_AN_ARRAY"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/LONGEST_REPEATED_SUBSEQUENCE_1.java:67: error: illegal start of expression\n            } else if ( dp[i][j] == dp[i -}\n                                          ^\nresult2/translate/starchat/python2java/java_eval/LONGEST_REPEATED_SUBSEQUENCE_1.java:69: error: illegal start of expression\npublic static void main(String args[]) {\n^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "LONGEST_REPEATED_SUBSEQUENCE_1"
+    },
+    {
+        "stdout": "#Results:2, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "COUNT_DIGITS_FACTORIAL_SET_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/LONGEST_SUBARRAY_SUM_DIVISIBLE_K.java:47: error: ')' expected\n        } else if ( mod_arr [ i ] in um ) {\n                                 ^\nresult2/translate/starchat/python2java/java_eval/LONGEST_SUBARRAY_SUM_DIVISIBLE_K.java:47: error: ';' expected\n        } else if ( mod_arr [ i ] in um ) {\n                                       ^\nresult2/translate/starchat/python2java/java_eval/LONGEST_SUBARRAY_SUM_DIVISIBLE_K.java:47: error: variable declaration not allowed here\n        } else if ( mod_arr [ i ] in um ) {\n                                     ^\nresult2/translate/starchat/python2java/java_eval/LONGEST_SUBARRAY_SUM_DIVISIBLE_K.java:49: error: 'else' without 'if'\n        } else {\n          ^\n4 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "LONGEST_SUBARRAY_SUM_DIVISIBLE_K"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/FIND_LAST_DIGIT_FACTORIAL_DIVIDES_FACTORIAL_B.java:66: error: method f_filled in class FIND_LAST_DIGIT_FACTORIAL_DIVIDES_FACTORIAL_B cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: int,int\n  found:    Long,Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_LAST_DIGIT_FACTORIAL_DIVIDES_FACTORIAL_B"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_SUM_ODD_FACTORS_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "HOW_TO_CHECK_IF_A_GIVEN_ARRAY_REPRESENTS_A_BINARY_HEAP"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/FIND_THREE_ELEMENT_FROM_DIFFERENT_THREE_ARRAYS_SUCH_THAT_THAT_A_B_C_K_1.java:41: error: ')' expected\n                if ( sum - a2 [ i ] - a3 [ j ] in s ) return true;\n                                              ^\nresult2/translate/starchat/python2java/java_eval/FIND_THREE_ELEMENT_FROM_DIFFERENT_THREE_ARRAYS_SUCH_THAT_THAT_A_B_C_K_1.java:41: error: ';' expected\n                if ( sum - a2 [ i ] - a3 [ j ] in s ) return true;\n                                                   ^\nresult2/translate/starchat/python2java/java_eval/FIND_THREE_ELEMENT_FROM_DIFFERENT_THREE_ARRAYS_SUCH_THAT_THAT_A_B_C_K_1.java:41: error: variable declaration not allowed here\n                if ( sum - a2 [ i ] - a3 [ j ] in s ) return true;\n                                                  ^\n3 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_THREE_ELEMENT_FROM_DIFFERENT_THREE_ARRAYS_SUCH_THAT_THAT_A_B_C_K_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "UNIQUE_CELLS_BINARY_MATRIX"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "TRIANGULAR_MATCHSTICK_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_LARGE_NUMBER_DIVISIBLE_9_NOT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_TIME_WRITE_CHARACTERS_USING_INSERT_DELETE_COPY_OPERATION"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "COUNT_ARRAYS_CONSECUTIVE_ELEMENT_DIFFERENT_VALUES"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "POSITIVE_ELEMENTS_EVEN_NEGATIVE_ODD_POSITIONS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/WAYS_TRANSFORMING_ONE_STRING_REMOVING_0_CHARACTERS.java:64: error: illegal start of expression\npublic static void main(String args[]) {\n^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "WAYS_TRANSFORMING_ONE_STRING_REMOVING_0_CHARACTERS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_XOR_VALUE_PAIR_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CASSINIS_IDENTITY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "QUERIES_COUNTS_ARRAY_ELEMENTS_VALUES_GIVEN_RANGE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_NEGATIVE_NUMBERS_IN_A_COLUMN_WISE_ROW_WISE_SORTED_MATRIX_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_WHETHER_A_GIVEN_NUMBER_IS_A_POWER_OF_4_OR_NOT"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MAXIMUM_POSSIBLE_SUM_WINDOW_ARRAY_ELEMENTS_WINDOW_ARRAY_UNIQUE.java:37: error: bad operand types for binary operator '!='\n            while ( A [ i ]!= mp.iterator ( ) ) {\n                           ^\n  first type:  int\n  second type: Iterator<Integer>\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MAXIMUM_POSSIBLE_SUM_WINDOW_ARRAY_ELEMENTS_WINDOW_ARRAY_UNIQUE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_CHECK_ISBN"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_FOR_FACTORIAL_OF_A_NUMBER"
+    },
+    {
+        "stdout": "Median is 9\nMedian is 97\nMedian is 99\nMedian is 97\nMedian is 98\nMedian is 76\nMedian is 98\nMedian is 97\nMedian is 98\nMedian is 98\n#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_MEDIAN_ROW_WISE_SORTED_MATRIX"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_2"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SEARCH_INSERT_AND_DELETE_IN_A_SORTED_ARRAY_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SMALLEST_POWER_OF_2_GREATER_THAN_OR_EQUAL_TO_N_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_INVERSIONS_OF_SIZE_THREE_IN_A_GIVE_ARRAY_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_IF_A_NUMBER_IS_POWER_OF_ANOTHER_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "REMOVE_ARRAY_END_ELEMENT_MAXIMIZE_SUM_PRODUCT"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MAXIMUM_SUM_BITONIC_SUBARRAY.java:55: error: illegal start of expression\n            if ( max_sum < ( msis [}\n                                   ^\nresult2/translate/starchat/python2java/java_eval/MAXIMUM_SUM_BITONIC_SUBARRAY.java:57: error: illegal start of expression\npublic static void main(String args[]) {\n^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MAXIMUM_SUM_BITONIC_SUBARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_REPEATING_ELEMENT_SORTED_ARRAY_SIZE_N"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LONGEST_REPEATING_SUBSEQUENCE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "WAYS_REMOVE_ONE_ELEMENT_BINARY_STRING_XOR_BECOMES_ZERO"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_SUM_PRODUCT_TWO_ARRAYS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/HOW_TO_AVOID_OVERFLOW_IN_MODULAR_MULTIPLICATION.java:77: error: method f_filled in class HOW_TO_AVOID_OVERFLOW_IN_MODULAR_MULTIPLICATION cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i),param2.get(i)) == f_gold(param0.get(i),param1.get(i),param2.get(i)))\n           ^\n  required: int,int,int\n  found:    Long,Long,Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "HOW_TO_AVOID_OVERFLOW_IN_MODULAR_MULTIPLICATION"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_NUMBER_SUBSETS_DISTINCT_ELEMENTS_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_NUMBER_PAIRS_N_B_N_GCD_B_B"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NON_REPEATING_ELEMENT_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_PAIR_MAXIMUM_GCD_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_TO_FIND_THE_AREA_OF_PENTAGON"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/CHECK_WHETHER_GIVEN_NUMBER_EVEN_ODD_1.java:20: error: bad operand type int for unary operator '!'\n        return!( n & 1 );\n              ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CHECK_WHETHER_GIVEN_NUMBER_EVEN_ODD_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SEARCH_ALMOST_SORTED_ARRAY"
+    },
+    {
+        "stdout": "No subarray found\nNo subarray found\nNo subarray found\nNo subarray found\nNo subarray found\nNo subarray found\nNo subarray found\nNo subarray found\nNo subarray found\nNo subarray found\nNo subarray found\nNo subarray found\nSum found between\nindexes 1 and 1\nSum found between indexes 1 and 1\nNo subarray found\nNo subarray found\nNo subarray found\nNo subarray found\nNo subarray found\nNo subarray found\n#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_SUBARRAY_WITH_GIVEN_SUM"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MINIMUM_SUM_CHOOSING_MINIMUM_PAIRS_ARRAY.java:19: error: ',', ')', or '[' expected\nstatic int f_filled ( int A [ ] : int n ) {\n                               ^\nresult2/translate/starchat/python2java/java_eval/MINIMUM_SUM_CHOOSING_MINIMUM_PAIRS_ARRAY.java:19: error: ';' expected\nstatic int f_filled ( int A [ ] : int n ) {\n                                       ^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MINIMUM_SUM_CHOOSING_MINIMUM_PAIRS_ARRAY"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MINIMUM_COST_MAKE_ARRAY_SIZE_1_REMOVING_LARGER_PAIRS.java:25: error: no suitable method found for min(int[])\n        return ( ( n - 1 ) * Math.min ( a ) );\n                                 ^\n    method Math.min(int,int) is not applicable\n      (actual and formal argument lists differ in length)\n    method Math.min(long,long) is not applicable\n      (actual and formal argument lists differ in length)\n    method Math.min(float,float) is not applicable\n      (actual and formal argument lists differ in length)\n    method Math.min(double,double) is not applicable\n      (actual and formal argument lists differ in length)\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MINIMUM_COST_MAKE_ARRAY_SIZE_1_REMOVING_LARGER_PAIRS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_SUM_MODULO_K_FIRST_N_NATURAL_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIRST_ELEMENT_OCCURRING_K_TIMES_ARRAY"
+    },
+    {
+        "stdout": "#Results:5, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_NUMBER_TIMES_STRING_OCCURS_GIVEN_STRING_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_CONSECUTIVE_REPEATING_CHARACTER_STRING_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "STEINS_ALGORITHM_FOR_FINDING_GCD"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_1S_SORTED_BINARY_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FRIENDS_PAIRING_PROBLEM_2"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.StringIndexOutOfBoundsException: Index -1 out of bounds for length 6\n\tat java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)\n\tat java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)\n\tat java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)\n\tat java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)\n\tat java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)\n\tat java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)\n\tat java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)\n\tat java.base/java.lang.String.checkIndex(String.java:4570)\n\tat java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)\n\tat java.base/java.lang.String.charAt(String.java:1527)\n\tat CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT.f_filled(CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT.java:59)\n\tat CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT.main(CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT.java:84)\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MINIMUM_PRODUCT_SUBSET_ARRAY.java:71: error: ')' expected\n        if ((count_neg & 1)}\n                           ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MINIMUM_PRODUCT_SUBSET_ARRAY"
+    },
+    {
+        "stdout": "#Results:5, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "DOUBLE_FACTORIAL_1"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "NUMBER_N_DIGIT_STEPPING_NUMBERS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_PAIRS_DIFFERENCE_EQUAL_K_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_MANHATTAN_DISTANCES_PAIRS_POINTS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FINDING_POWER_PRIME_NUMBER_P_N"
+    },
+    {
+        "stdout": "#Results:2, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_MAXIMUM_DOT_PRODUCT_TWO_ARRAYS_INSERTION_0S"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DIVISIBILITY_9_USING_BITWISE_OPERATORS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SMALLEST_OF_THREE_INTEGERS_WITHOUT_COMPARISON_OPERATORS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_DISTANCE_TWO_OCCURRENCES_ELEMENT_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_WHETHER_GIVEN_NUMBER_EVEN_ODD"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/COUNT_INDEX_PAIRS_EQUAL_ELEMENTS_ARRAY_1.java:30: error: ',', ')', or '[' expected\nstatic int f_filled ( int arr [ ] : int n ) {\n                                 ^\nresult2/translate/starchat/python2java/java_eval/COUNT_INDEX_PAIRS_EQUAL_ELEMENTS_ARRAY_1.java:30: error: ';' expected\nstatic int f_filled ( int arr [ ] : int n ) {\n                                         ^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_INDEX_PAIRS_EQUAL_ELEMENTS_ARRAY_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "HOW_TO_TURN_OFF_A_PARTICULAR_BIT_IN_A_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LEXICOGRAPHICAL_CONCATENATION_SUBSTRINGS_STRING"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "ZECKENDORFS_THEOREM_NON_NEIGHBOURING_FIBONACCI_REPRESENTATION"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUM_IARRI_AMONG_ROTATIONS_GIVEN_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_SET_BITS_IN_AN_INTEGER_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "HEXAGONAL_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "WRITE_ONE_LINE_C_FUNCTION_TO_FIND_WHETHER_A_NO_IS_POWER_OF_TWO_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUM_SUBARRAY_REMOVING_ONE_ELEMENT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FAST_MULTIPLICATION_METHOD_WITHOUT_USING_MULTIPLICATION_OPERATOR_RUSSIAN_PEASANTS_ALGORITHM"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "BINARY_SEARCH"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_INDEX_GIVEN_FIBONACCI_NUMBER_CONSTANT_TIME"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MARKOV_MATRIX.java:55: error: method f_filled in class MARKOV_MATRIX cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: int[][]\n  found:    double[][]\n  reason: argument mismatch; double[][] cannot be converted to int[][]\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MARKOV_MATRIX"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_MAXIMUM_PRODUCT_OF_A_TRIPLET_IN_ARRAY"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/NTH_EVEN_LENGTH_PALINDROME.java:45: error: method f_filled in class NTH_EVEN_LENGTH_PALINDROME cannot be applied to given types;\n        if(f_filled(param0.get(i)).equals(f_gold(param0.get(i))))\n           ^\n  required: int[]\n  found:    String\n  reason: argument mismatch; String cannot be converted to int[]\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "NTH_EVEN_LENGTH_PALINDROME"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_K_TH_GROUP_ODD_POSITIVE_NUMBERS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_PAIRS_DIFFERENCE_EQUAL_K"
+    },
+    {
+        "stdout": "#Results:1, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MAXIMIZE_ARRJ_ARRI_ARRL_ARRK_SUCH_THAT_I_J_K_L"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MODULUS_TWO_FLOAT_DOUBLE_NUMBERS.java:66: error: method f_filled in class MODULUS_TWO_FLOAT_DOUBLE_NUMBERS cannot be applied to given types;\n        if(Math.abs(1 - (0.0000001 + Math.abs(f_gold(param0.get(i),param1.get(i))) )/ (Math.abs(f_filled(param0.get(i),param1.get(i))) + 0.0000001)) < 0.001)\n                                                                                                ^\n  required: int,int\n  found:    Double,Double\n  reason: argument mismatch; Double cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MODULUS_TWO_FLOAT_DOUBLE_NUMBERS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_THE_MAXIMUM_ELEMENT_IN_AN_ARRAY_WHICH_IS_FIRST_INCREASING_AND_THEN_DECREASING"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_NUMBER_OF_SQUARES_THAT_CAN_BE_FIT_IN_A_RIGHT_ANGLE_ISOSCELES_TRIANGLE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_SERIES_23_45_67_89_UPTO_N_TERMS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_ROTATIONS_UNLOCK_CIRCULAR_LOCK"
+    },
+    {
+        "stdout": "#Results:9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "REPLACE_CHARACTER_C1_C2_C2_C1_STRING_S"
+    },
+    {
+        "stdout": "#Results:1, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_HARMONIC_MEAN_USING_ARITHMETIC_MEAN_GEOMETRIC_MEAN"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/CHECK_IF_X_CAN_GIVE_CHANGE_TO_EVERY_PERSON_IN_THE_QUEUE.java:88: error: incomparable types: boolean and int\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n                                                 ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CHECK_IF_X_CAN_GIVE_CHANGE_TO_EVERY_PERSON_IN_THE_QUEUE"
+    },
+    {
+        "stdout": "#Results:9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "PRIMALITY_TEST_SET_5USING_LUCAS_LEHMER_SERIES"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_FIND_REMAINDER_LARGE_NUMBER_DIVIDED_11"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_REPETITIVE_ELEMENT_1_N_1"
+    },
+    {
+        "stdout": "#Results:1, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "ARRAY_RANGE_QUERIES_ELEMENTS_FREQUENCY_VALUE"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D.java:92: error: method f_filled in class FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: String,int\n  found:    int[],Integer\n  reason: argument mismatch; int[] cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DYNAMIC_PROGRAMMING_SET_3_LONGEST_INCREASING_SUBSEQUENCE_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/SMALLEST_OF_THREE_INTEGERS_WITHOUT_COMPARISON_OPERATORS_1.java:20: error: bad operand type int for unary operator '!'\n        if (! (y/x) % 1) return y;\n            ^\nresult2/translate/starchat/python2java/java_eval/SMALLEST_OF_THREE_INTEGERS_WITHOUT_COMPARISON_OPERATORS_1.java:21: error: bad operand type int for unary operator '!'\n        if (! (y/z) % 1) return z;\n            ^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "SMALLEST_OF_THREE_INTEGERS_WITHOUT_COMPARISON_OPERATORS_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/HOW_TO_BEGIN_WITH_COMPETITIVE_PROGRAMMING.java:70: error: method f_filled in class HOW_TO_BEGIN_WITH_COMPETITIVE_PROGRAMMING cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i),param2.get(i)) == f_gold(param0.get(i),param1.get(i),param2.get(i)))\n           ^\n  required: int[],int\n  found:    int[],Integer,Integer\n  reason: actual and formal argument lists differ in length\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "HOW_TO_BEGIN_WITH_COMPETITIVE_PROGRAMMING"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MAXIMUM_BINOMIAL_COEFFICIENT_TERM_VALUE.java:36: error: cannot find symbol\n            for (int j = 0; j <= min(i, n); j++) {\n                                 ^\n  symbol:   method min(int,int)\n  location: class MAXIMUM_BINOMIAL_COEFFICIENT_TERM_VALUE\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MAXIMUM_BINOMIAL_COEFFICIENT_TERM_VALUE"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/SUBARRAYS_DISTINCT_ELEMENTS.java:29: error: ',', ')', or '[' expected\nstatic int f_filled ( int arr [ ] : int n ) {\n                                 ^\nresult2/translate/starchat/python2java/java_eval/SUBARRAYS_DISTINCT_ELEMENTS.java:29: error: ';' expected\nstatic int f_filled ( int arr [ ] : int n ) {\n                                         ^\nresult2/translate/starchat/python2java/java_eval/SUBARRAYS_DISTINCT_ELEMENTS.java:34: error: ')' expected\n            while ( j < n && ( arr [ j ] not in s ) ) {\n                                        ^\nresult2/translate/starchat/python2java/java_eval/SUBARRAYS_DISTINCT_ELEMENTS.java:34: error: ';' expected\n            while ( j < n && ( arr [ j ] not in s ) ) {\n                                               ^\nresult2/translate/starchat/python2java/java_eval/SUBARRAYS_DISTINCT_ELEMENTS.java:34: error: variable declaration not allowed here\n            while ( j < n && ( arr [ j ] not in s ) ) {\n                                             ^\nresult2/translate/starchat/python2java/java_eval/SUBARRAYS_DISTINCT_ELEMENTS.java:34: error: not a statement\n            while ( j < n && ( arr [ j ] not in s ) ) {\n                                                ^\nresult2/translate/starchat/python2java/java_eval/SUBARRAYS_DISTINCT_ELEMENTS.java:34: error: ';' expected\n            while ( j < n && ( arr [ j ] not in s ) ) {\n                                                 ^\n7 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "SUBARRAYS_DISTINCT_ELEMENTS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NUMBER_SUBSEQUENCES_STRING_DIVISIBLE_N"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LONGEST_SUBSEQUENCE_SUCH_THAT_DIFFERENCE_BETWEEN_ADJACENTS_IS_ONE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "OVERLAPPING_SUM_TWO_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FRIENDS_PAIRING_PROBLEM"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/PERMUTE_TWO_ARRAYS_SUM_EVERY_PAIR_GREATER_EQUAL_K.java:28: error: no suitable method found for sort(int[],Comparator<Object>)\n        Arrays.sort(a, Collections.reverseOrder());\n              ^\n    method Arrays.sort(int[]) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.sort(int[],int,int) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.sort(long[]) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.sort(long[],int,int) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.sort(short[]) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.sort(short[],int,int) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.sort(char[]) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.sort(char[],int,int) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.sort(byte[]) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.sort(byte[],int,int) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.sort(float[]) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.sort(float[],int,int) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.sort(double[]) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.sort(double[],int,int) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.sort(Object[]) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.sort(Object[],int,int) is not applicable\n      (actual and formal argument lists differ in length)\n    method Arrays.<T#1>sort(T#1[],Comparator<? super T#1>) is not applicable\n      (inference variable T#1 has incompatible bounds\n        equality constraints: int\n        upper bounds: Object)\n    method Arrays.<T#2>sort(T#2[],int,int,Comparator<? super T#2>) is not applicable\n      (cannot infer type-variable(s) T#2\n        (actual and formal argument lists differ in length))\n  where T#1,T#2 are type-variables:\n    T#1 extends Object declared in method <T#1>sort(T#1[],Comparator<? super T#1>)\n    T#2 extends Object declared in method <T#2>sort(T#2[],int,int,Comparator<? super T#2>)\nresult2/translate/starchat/python2java/java_eval/PERMUTE_TWO_ARRAYS_SUM_EVERY_PAIR_GREATER_EQUAL_K.java:86: error: method f_filled in class PERMUTE_TWO_ARRAYS_SUM_EVERY_PAIR_GREATER_EQUAL_K cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i),param2.get(i),param3.get(i)) == f_gold(param0.get(i),param1.get(i),param2.get(i),param3.get(i)))\n           ^\n  required: int[],int[],int,int\n  found:    Integer[],int[],Integer,Integer\n  reason: argument mismatch; Integer[] cannot be converted to int[]\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "PERMUTE_TWO_ARRAYS_SUM_EVERY_PAIR_GREATER_EQUAL_K"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_TRAILING_ZEROES_FACTORIAL_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "RECURSIVE_PROGRAM_PRIME_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SMALLEST_DIFFERENCE_PAIR_VALUES_TWO_UNSORTED_ARRAYS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SORT_EVEN_NUMBERS_ASCENDING_ORDER_SORT_ODD_NUMBERS_DESCENDING_ORDER_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMIZE_THE_SUM_OF_DIGITS_OF_A_AND_B_SUCH_THAT_A_B_N"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MIDDLE_OF_THREE_USING_MINIMUM_COMPARISONS_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_POSSIBLE_DIFFERENCE_TWO_SUBSETS_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NTH_PENTAGONAL_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NUMBER_N_DIGITS_NON_DECREASING_INTEGERS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PRIMALITY_TEST_SET_1_INTRODUCTION_AND_SCHOOL_METHOD_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 6\n\tat COMPUTE_NCR_P_SET_1_INTRODUCTION_AND_DYNAMIC_PROGRAMMING_SOLUTION.f_filled(COMPUTE_NCR_P_SET_1_INTRODUCTION_AND_DYNAMIC_PROGRAMMING_SOLUTION.java:33)\n\tat COMPUTE_NCR_P_SET_1_INTRODUCTION_AND_DYNAMIC_PROGRAMMING_SOLUTION.main(COMPUTE_NCR_P_SET_1_INTRODUCTION_AND_DYNAMIC_PROGRAMMING_SOLUTION.java:76)\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COMPUTE_NCR_P_SET_1_INTRODUCTION_AND_DYNAMIC_PROGRAMMING_SOLUTION"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NEXT_HIGHER_NUMBER_WITH_SAME_NUMBER_OF_SET_BITS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LEONARDO_NUMBER_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NUMBER_SUBSEQUENCES_AB_STRING_REPEATED_K_TIMES"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DETECT_IF_TWO_INTEGERS_HAVE_OPPOSITE_SIGNS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "WRITE_AN_EFFICIENT_METHOD_TO_CHECK_IF_A_NUMBER_IS_MULTIPLE_OF_3"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_ARRAY_MAJORITY_ELEMENT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "REMAINDER_7_LARGE_NUMBERS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_THE_ELEMENT_THAT_APPEARS_ONCE"
+    },
+    {
+        "stdout": "#Results:1, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "NUMBER_DIGITS_PRODUCT_TWO_NUMBERS_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_INDEX_PAIRS_EQUAL_ELEMENTS_ARRAY"
+    },
+    {
+        "stdout": "#Results:1, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MINIMUM_FLIP_REQUIRED_MAKE_BINARY_MATRIX_SYMMETRIC_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NUMBER_DIGITS_PRODUCT_TWO_NUMBERS"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MAXIMIZE_VOLUME_CUBOID_GIVEN_SUM_SIDES_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/CHECK_INTEGER_OVERFLOW_MULTIPLICATION.java:59: error: method f_filled in class CHECK_INTEGER_OVERFLOW_MULTIPLICATION cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)).equals(f_gold(param0.get(i),param1.get(i))))\n           ^\n  required: int,int\n  found:    Long,Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CHECK_INTEGER_OVERFLOW_MULTIPLICATION"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_TOTAL_SET_BITS_IN_ALL_NUMBERS_FROM_1_TO_N"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "WAYS_TO_WRITE_N_AS_SUM_OF_TWO_OR_MORE_POSITIVE_INTEGERS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/CHECK_VALID_SEQUENCE_DIVISIBLE_M_1.java:40: error: incomparable types: boolean and int\n        if ( dp[index][modulo]!= -1 ) {\n                              ^\nresult2/translate/starchat/python2java/java_eval/CHECK_VALID_SEQUENCE_DIVISIBLE_M_1.java:120: error: method f_filled in class CHECK_VALID_SEQUENCE_DIVISIBLE_M_1 cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i),param2.get(i),param3.get(i),param4.get(i),param5.get(i)) == f_gold(param0.get(i),param1.get(i),param2.get(i),param3.get(i),param4.get(i),param5.get(i)))\n           ^\n  required: int,int,int,int,int[],boolean[][]\n  found:    Integer,Integer,Integer,Integer,int[],int[][]\n  reason: argument mismatch; int[][] cannot be converted to boolean[][]\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CHECK_VALID_SEQUENCE_DIVISIBLE_M_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NEXT_POWER_OF_2_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "STEINS_ALGORITHM_FOR_FINDING_GCD_1"
+    },
+    {
+        "stdout": "#Results:2, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "COUNT_WAYS_BUILD_STREET_GIVEN_CONSTRAINTS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "AREA_SQUARE_CIRCUMSCRIBED_CIRCLE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FINDING_POWER_PRIME_NUMBER_P_N_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/LENGTH_OF_THE_LONGEST_ARITHMATIC_PROGRESSION_IN_A_SORTED_ARRAY.java:71: error: illegal start of expression\n            while (}\n                   ^\nresult2/translate/starchat/python2java/java_eval/LENGTH_OF_THE_LONGEST_ARITHMATIC_PROGRESSION_IN_A_SORTED_ARRAY.java:73: error: illegal start of expression\npublic static void main(String args[]) {\n^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "LENGTH_OF_THE_LONGEST_ARITHMATIC_PROGRESSION_IN_A_SORTED_ARRAY"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/LCS_FORMED_CONSECUTIVE_SEGMENTS_LEAST_LENGTH_K.java:54: error: illegal start of expression\npublic static void main(String args[]) {\n^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "LCS_FORMED_CONSECUTIVE_SEGMENTS_LEAST_LENGTH_K"
+    },
+    {
+        "stdout": "number is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\n#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SEARCH_AN_ELEMENT_IN_AN_ARRAY_WHERE_DIFFERENCE_BETWEEN_ADJACENT_ELEMENTS_IS_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_CONSECUTIVE_NUMBERS_PRESENT_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DIVISIBILITY_BY_7"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_THE_MISSING_NUMBER_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/CHECK_DIVISIBILITY_LARGE_NUMBER_999.java:59: error: incompatible types: boolean cannot be converted to int\n            gSum = f_filled ( num );\n                            ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CHECK_DIVISIBILITY_LARGE_NUMBER_999"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NUMBER_SUBSTRINGS_STRING"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "HIGHWAY_BILLBOARD_PROBLEM"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/STRING_CONTAINING_FIRST_LETTER_EVERY_WORD_GIVEN_STRING_SPACES.java:35: error: empty character literal\n            if ( str. charAt ( i ) =='' ) {\n                                     ^\nresult2/translate/starchat/python2java/java_eval/STRING_CONTAINING_FIRST_LETTER_EVERY_WORD_GIVEN_STRING_SPACES.java:37: error: empty character literal\n            } else if ( str. charAt ( i )!='' && v == true ) {\n                                           ^\nresult2/translate/starchat/python2java/java_eval/STRING_CONTAINING_FIRST_LETTER_EVERY_WORD_GIVEN_STRING_SPACES.java:37: error: 'else' without 'if'\n            } else if ( str. charAt ( i )!='' && v == true ) {\n              ^\nresult2/translate/starchat/python2java/java_eval/STRING_CONTAINING_FIRST_LETTER_EVERY_WORD_GIVEN_STRING_SPACES.java:37: error: not a statement\n            } else if ( str. charAt ( i )!='' && v == true ) {\n                                                   ^\nresult2/translate/starchat/python2java/java_eval/STRING_CONTAINING_FIRST_LETTER_EVERY_WORD_GIVEN_STRING_SPACES.java:37: error: ';' expected\n            } else if ( str. charAt ( i )!='' && v == true ) {\n                                                          ^\nresult2/translate/starchat/python2java/java_eval/STRING_CONTAINING_FIRST_LETTER_EVERY_WORD_GIVEN_STRING_SPACES.java:42: error: illegal start of expression\npublic static void main(String args[]) {\n^\n6 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "STRING_CONTAINING_FIRST_LETTER_EVERY_WORD_GIVEN_STRING_SPACES"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DYNAMIC_PROGRAMMING_SET_36_CUT_A_ROPE_TO_MAXIMIZE_PRODUCT_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/COUNT_OF_SUB_STRINGS_THAT_DO_NOT_CONTAIN_ALL_THE_CHARACTERS_FROM_THE_SET_A_B_C_AT_THE_SAME_TIME.java:84: error: method f_filled in class COUNT_OF_SUB_STRINGS_THAT_DO_NOT_CONTAIN_ALL_THE_CHARACTERS_FROM_THE_SET_A_B_C_AT_THE_SAME_TIME cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: String,int\n  found:    char[],Integer\n  reason: argument mismatch; char[] cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_OF_SUB_STRINGS_THAT_DO_NOT_CONTAIN_ALL_THE_CHARACTERS_FROM_THE_SET_A_B_C_AT_THE_SAME_TIME"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_BINOMIAL_COEFFICIENTS_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_CALCULATE_VOLUME_OCTAHEDRON"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "COUNT_POSSIBLE_PATHS_TOP_LEFT_BOTTOM_RIGHT_NXM_MATRIX_3"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "TRIANGULAR_NUMBERS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_SUM_UNIQUE_SUB_ARRAY_SUM_GIVEN_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_NUMBER_OF_OCCURRENCES_OR_FREQUENCY_IN_A_SORTED_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_DISTINCT_NON_NEGATIVE_PAIRS_X_Y_SATISFY_INEQUALITY_XX_YY_N_2"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "BASIC_AND_EXTENDED_EUCLIDEAN_ALGORITHMS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/PROGRAM_FOR_SURFACE_AREA_OF_OCTAHEDRON.java:37: error: method f_filled in class PROGRAM_FOR_SURFACE_AREA_OF_OCTAHEDRON cannot be applied to given types;\n        if(Math.abs(1 - (0.0000001 + Math.abs(f_gold(param0.get(i))) )/ (Math.abs(f_filled(param0.get(i))) + 0.0000001)) < 0.001)\n                                                                                  ^\n  required: int\n  found:    Double\n  reason: argument mismatch; Double cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "PROGRAM_FOR_SURFACE_AREA_OF_OCTAHEDRON"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/C_PROGRAM_CONCATENATE_STRING_GIVEN_NUMBER_TIMES.java:56: error: int cannot be dereferenced\n        if(f_filled(param0.get(i),param1.get(i)).equals(f_gold(param0.get(i),param1.get(i))))\n                                                ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "C_PROGRAM_CONCATENATE_STRING_GIVEN_NUMBER_TIMES"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MINIMUM_PRODUCT_K_INTEGERS_ARRAY_POSITIVE_INTEGERS.java:28: error: ',', ')', or '[' expected\nstatic int f_filled ( int arr [ ] arr, int n, int k ) {\n                                 ^\nresult2/translate/starchat/python2java/java_eval/MINIMUM_PRODUCT_K_INTEGERS_ARRAY_POSITIVE_INTEGERS.java:28: error: <identifier> expected\nstatic int f_filled ( int arr [ ] arr, int n, int k ) {\n                                             ^\nresult2/translate/starchat/python2java/java_eval/MINIMUM_PRODUCT_K_INTEGERS_ARRAY_POSITIVE_INTEGERS.java:28: error: ';' expected\nstatic int f_filled ( int arr [ ] arr, int n, int k ) {\n                                                   ^\n3 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MINIMUM_PRODUCT_K_INTEGERS_ARRAY_POSITIVE_INTEGERS"
+    },
+    {
+        "stdout": "#Results:9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MAXIMUM_AVERAGE_SUM_PARTITION_ARRAY"
+    },
+    {
+        "stdout": "#Results:7, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "GIVEN_LARGE_NUMBER_CHECK_SUBSEQUENCE_DIGITS_DIVISIBLE_8"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "RECURSIVELY_BREAK_NUMBER_3_PARTS_GET_MAXIMUM_SUM_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_SUM_EVEN_FACTORS_NUMBER"
+    },
+    {
+        "stdout": "#Results:1, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "NEWMAN_CONWAY_SEQUENCE_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CENTER_ELEMENT_OF_MATRIX_EQUALS_SUMS_OF_HALF_DIAGONALS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MAKE_LARGEST_PALINDROME_CHANGING_K_DIGITS.java:69: error: ';' expected\n        l = 0, r = palin.length - 1;\n             ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MAKE_LARGEST_PALINDROME_CHANGING_K_DIGITS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2.java:33: error: <identifier> expected\nExplanation:\n           ^\nresult2/translate/starchat/python2java/java_eval/FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2.java:34: error: ';' expected\nThe logic is same as in python. We iterate over the array and xor all the elements together to get the final result.\n         ^\nresult2/translate/starchat/python2java/java_eval/FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2.java:34: error: ';' expected\nThe logic is same as in python. We iterate over the array and xor all the elements together to get the final result.\n                 ^\nresult2/translate/starchat/python2java/java_eval/FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2.java:34: error: ';' expected\nThe logic is same as in python. We iterate over the array and xor all the elements together to get the final result.\n                       ^\nresult2/translate/starchat/python2java/java_eval/FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2.java:34: error: ';' expected\nThe logic is same as in python. We iterate over the array and xor all the elements together to get the final result.\n                                          ^\nresult2/translate/starchat/python2java/java_eval/FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2.java:34: error: ';' expected\nThe logic is same as in python. We iterate over the array and xor all the elements together to get the final result.\n                                                   ^\nresult2/translate/starchat/python2java/java_eval/FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2.java:34: error: ';' expected\nThe logic is same as in python. We iterate over the array and xor all the elements together to get the final result.\n                                                             ^\nresult2/translate/starchat/python2java/java_eval/FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2.java:34: error: ';' expected\nThe logic is same as in python. We iterate over the array and xor all the elements together to get the final result.\n                                                                     ^\nresult2/translate/starchat/python2java/java_eval/FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2.java:34: error: ';' expected\nThe logic is same as in python. We iterate over the array and xor all the elements together to get the final result.\n                                                                                  ^\nresult2/translate/starchat/python2java/java_eval/FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2.java:34: error: ';' expected\nThe logic is same as in python. We iterate over the array and xor all the elements together to get the final result.\n                                                                                              ^\nresult2/translate/starchat/python2java/java_eval/FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2.java:34: error: ';' expected\nThe logic is same as in python. We iterate over the array and xor all the elements together to get the final result.\n                                                                                                      ^\nresult2/translate/starchat/python2java/java_eval/FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2.java:34: error: <identifier> expected\nThe logic is same as in python. We iterate over the array and xor all the elements together to get the final result.\n                                                                                                                    ^\n12 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "HOW_TO_PRINT_MAXIMUM_NUMBER_OF_A_USING_GIVEN_FOUR_KEYS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/FIND_THE_MINIMUM_DISTANCE_BETWEEN_TWO_NUMBERS.java:29: error: ',', ')', or '[' expected\nstatic int f_filled ( int arr [ ] arr_size, int n, int x, int y ) {\n                                 ^\nresult2/translate/starchat/python2java/java_eval/FIND_THE_MINIMUM_DISTANCE_BETWEEN_TWO_NUMBERS.java:29: error: <identifier> expected\nstatic int f_filled ( int arr [ ] arr_size, int n, int x, int y ) {\n                                                  ^\nresult2/translate/starchat/python2java/java_eval/FIND_THE_MINIMUM_DISTANCE_BETWEEN_TWO_NUMBERS.java:29: error: <identifier> expected\nstatic int f_filled ( int arr [ ] arr_size, int n, int x, int y ) {\n                                                         ^\nresult2/translate/starchat/python2java/java_eval/FIND_THE_MINIMUM_DISTANCE_BETWEEN_TWO_NUMBERS.java:29: error: ';' expected\nstatic int f_filled ( int arr [ ] arr_size, int n, int x, int y ) {\n                                                               ^\n4 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_THE_MINIMUM_DISTANCE_BETWEEN_TWO_NUMBERS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/BREAK_NUMBER_THREE_PARTS.java:55: error: method f_filled in class BREAK_NUMBER_THREE_PARTS cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: int\n  found:    Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "BREAK_NUMBER_THREE_PARTS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NUMBER_RECTANGLES_NM_GRID"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_PALINDROMIC_SUBSEQUENCE_GIVEN_STRING"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MAXIMUM_DIFFERENCE_BETWEEN_FREQUENCY_OF_TWO_ELEMENTS_SUCH_THAT_ELEMENT_HAVING_GREATER_FREQUENCY_IS_ALSO_GREATER.java:36: error: array required, but HashMap<Integer,Integer> found\n            freq [ arr [ i ] ] = freq.getOrDefault ( arr [ i ], 0 ) + 1;\n                 ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MAXIMUM_DIFFERENCE_BETWEEN_FREQUENCY_OF_TWO_ELEMENTS_SUCH_THAT_ELEMENT_HAVING_GREATER_FREQUENCY_IS_ALSO_GREATER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "REARRANGE_POSITIVE_AND_NEGATIVE_NUMBERS_PUBLISH"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "SUM_TWO_LARGE_NUMBERS"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "COUNT_WAYS_DIVIDE_CIRCLE_USING_N_NON_INTERSECTING_CHORDS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_OCTAL_DECIMAL_CONVERSION"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_OF_ALL_ELEMENTS_UP_TO_NTH_ROW_IN_A_PASCALS_TRIANGLE_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LONGEST_EVEN_LENGTH_SUBSTRING_SUM_FIRST_SECOND_HALF_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_PAIRS_WHOSE_PRODUCTS_EXIST_IN_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NUMBER_UNIQUE_RECTANGLES_FORMED_USING_N_UNIT_SQUARES"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S.java:39: error: ',', ')', or '[' expected\nstatic int f_filled ( int arr [ ] arr, int n ) {\n                                 ^\nresult2/translate/starchat/python2java/java_eval/LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S.java:39: error: ';' expected\nstatic int f_filled ( int arr [ ] arr, int n ) {\n                                            ^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/CHECK_STRING_FOLLOWS_ANBN_PATTERN_NOT.java:38: error: cannot find symbol\n        if ( i * 2!= n ) {\n             ^\n  symbol:   variable i\n  location: class CHECK_STRING_FOLLOWS_ANBN_PATTERN_NOT\nresult2/translate/starchat/python2java/java_eval/CHECK_STRING_FOLLOWS_ANBN_PATTERN_NOT.java:41: error: cannot find symbol\n        for ( int j = i; j < n; j++ ) {\n                      ^\n  symbol:   variable i\n  location: class CHECK_STRING_FOLLOWS_ANBN_PATTERN_NOT\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CHECK_STRING_FOLLOWS_ANBN_PATTERN_NOT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_EXPRESSION_DUPLICATE_PARENTHESIS_NOT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_NODES_K_TH_LEVEL_TREE_REPRESENTED_STRING"
+    },
+    {
+        "stdout": "Triplet is28, 6, -16\nTriplet is 28, 6, -16Triplet is19, 6, 4\nTriplet is 19, 6, 4Triplet is40, -76, 54\nTriplet is 40, -76, 54#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_A_TRIPLET_THAT_SUM_TO_A_GIVEN_VALUE"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/COUNT_OPERATIONS_MAKE_STRINGAB_FREE.java:59: error: method f_filled in class COUNT_OPERATIONS_MAKE_STRINGAB_FREE cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: String\n  found:    char[]\n  reason: argument mismatch; char[] cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_OPERATIONS_MAKE_STRINGAB_FREE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "ROW_WISE_COMMON_ELEMENTS_TWO_DIAGONALS_SQUARE_MATRIX"
+    },
+    {
+        "stdout": "#Results:7, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_A_ROTATION_WITH_MAXIMUM_HAMMING_DISTANCE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "EFFICIENT_SEARCH_IN_AN_ARRAY_WHERE_DIFFERENCE_BETWEEN_ADJACENT_IS_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "WRITE_ONE_LINE_C_FUNCTION_TO_FIND_WHETHER_A_NO_IS_POWER_OF_TWO"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "ADD_1_TO_A_GIVEN_NUMBER_1"
+    },
+    {
+        "stdout": "#Results:4, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "NUMBER_VISIBLE_BOXES_PUTTING_ONE_INSIDE_ANOTHER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_XOR_VALUE_PAIR"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/FIND_MAXIMUM_SUM_POSSIBLE_EQUAL_SUM_THREE_STACKS.java:49: error: ')' expected\n        } else if ( sum2 >= sum3 && sum2 >= sum1}\n                                                ^\nresult2/translate/starchat/python2java/java_eval/FIND_MAXIMUM_SUM_POSSIBLE_EQUAL_SUM_THREE_STACKS.java:51: error: illegal start of expression\npublic static void main(String args[]) {\n^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_MAXIMUM_SUM_POSSIBLE_EQUAL_SUM_THREE_STACKS"
+    },
+    {
+        "stdout": "#Results:2, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_SUM_NODES_GIVEN_PERFECT_BINARY_TREE_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "POSSIBLE_FORM_TRIANGLE_ARRAY_VALUES"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/CHECK_WHETHER_TRIANGLE_VALID_NOT_SIDES_GIVEN.java:63: error: incomparable types: boolean and int\n        if(f_filled(param0.get(i),param1.get(i),param2.get(i)) == f_gold(param0.get(i),param1.get(i),param2.get(i)))\n                                                               ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CHECK_WHETHER_TRIANGLE_VALID_NOT_SIDES_GIVEN"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DYNAMIC_PROGRAMMING_SET_8_MATRIX_CHAIN_MULTIPLICATION"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COMPUTE_AVERAGE_TWO_NUMBERS_WITHOUT_OVERFLOW"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUM_2_X_N_GRID_NO_TWO_ELEMENTS_ADJACENT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CALCULATE_VOLUME_DODECAHEDRON"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MINIMUM_STEPS_MINIMIZE_N_PER_GIVEN_CONDITION.java:34: error: bad operand type int for unary operator '!'\n            if (!(i % 2) ) {\n                ^\nresult2/translate/starchat/python2java/java_eval/MINIMUM_STEPS_MINIMIZE_N_PER_GIVEN_CONDITION.java:37: error: bad operand type int for unary operator '!'\n            if (!(i % 3) ) {\n                ^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MINIMUM_STEPS_MINIMIZE_N_PER_GIVEN_CONDITION"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_PROFIT_BY_BUYING_AND_SELLING_A_SHARE_AT_MOST_TWICE"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:41: error: <identifier> expected\nExplanation:\n           ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n        ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n              ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                          ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                         ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                                    ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                                              ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                                                       ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                                                                 ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                                                                          ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                                                                                             ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                                                                                                     ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                                                                                                              ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                                                                                                                       ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                                                                                                                                               ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                                                                                                                                                      ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                                                                                                                                                              ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                                                                                                                                                                          ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                                                                                                                                                                                         ^\nresult2/translate/starchat/python2java/java_eval/PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES.java:43: error: ';' expected\nThe idea is to replace all the characters at indices such that they are not equal to their previous character and not equal to the next character. We increment i till we find a character that satisfies the condition.\n                                                                                                                                                                                                                       ^\n20 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "SMALLEST_POWER_OF_2_GREATER_THAN_OR_EQUAL_TO_N_2"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_FREQUENCY_K_MATRIX_SIZE_N_MATRIXI_J_IJ"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/CALCULATE_ANGLE_HOUR_HAND_MINUTE_HAND.java:69: error: method f_filled in class CALCULATE_ANGLE_HOUR_HAND_MINUTE_HAND cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: int,int\n  found:    Double,Double\n  reason: argument mismatch; Double cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CALCULATE_ANGLE_HOUR_HAND_MINUTE_HAND"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/FORM_MINIMUM_NUMBER_FROM_GIVEN_SEQUENCE_1.java:42: error: incompatible types: char cannot be converted to String\n                    result [ j + 1 ] = ( char ) ( '0' + count );\n                                       ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FORM_MINIMUM_NUMBER_FROM_GIVEN_SEQUENCE_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_NUMBER_WAYS_REACH_GIVEN_SCORE_GAME"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_FIBONACCI_NUMBERS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_SUM_TWO_NUMBERS_FORMED_DIGITS_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_THE_MAXIMUM_SUBARRAY_XOR_IN_A_GIVEN_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_NUMBER_IS_PERFECT_SQUARE_USING_ADDITIONSUBTRACTION"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_INCREMENT_K_OPERATIONS_MAKE_ELEMENTS_EQUAL"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "RECURSIVE_C_PROGRAM_LINEARLY_SEARCH_ELEMENT_GIVEN_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_GIVEN_STRING_ROTATION_PALINDROME"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_SUM_EVEN_INDEX_BINOMIAL_COEFFICIENTS_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_FIRST_NATURAL_NUMBER_WHOSE_FACTORIAL_DIVISIBLE_X"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "TILING_WITH_DOMINOES"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/CHECK_IF_A_NUMBER_IS_POWER_OF_ANOTHER_NUMBER_1.java:23: error: incompatible types: boolean cannot be converted to int\n        return ( int ) ( res1 == res2 )? 1 : 0;\n                       ^\nresult2/translate/starchat/python2java/java_eval/CHECK_IF_A_NUMBER_IS_POWER_OF_ANOTHER_NUMBER_1.java:52: error: incomparable types: int and boolean\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n                                                 ^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CHECK_IF_A_NUMBER_IS_POWER_OF_ANOTHER_NUMBER_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_FOR_FACTORIAL_OF_A_NUMBER_1"
+    },
+    {
+        "stdout": "#Results:6, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "LONGEST_SUBARRAY_COUNT_1S_ONE_COUNT_0S"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/COUNT_WORDS_APPEAR_EXACTLY_TWO_TIMES_ARRAY_WORDS.java:75: error: method f_filled in class COUNT_WORDS_APPEAR_EXACTLY_TWO_TIMES_ARRAY_WORDS cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: String,int\n  found:    String[],Integer\n  reason: argument mismatch; String[] cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_WORDS_APPEAR_EXACTLY_TWO_TIMES_ARRAY_WORDS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_ROTATION_COUNT_ROTATED_SORTED_ARRAY_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LEXICOGRAPHICALLY_NEXT_STRING"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "ANALYSIS_OF_ALGORITHMS_SET_2_ASYMPTOTIC_ANALYSIS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_LENGTH_PREFIX_ONE_STRING_OCCURS_SUBSEQUENCE_ANOTHER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "EULERS_CRITERION_CHECK_IF_SQUARE_ROOT_UNDER_MODULO_P_EXISTS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MINIMUM_LENGTH_SUBARRAY_SUM_GREATER_GIVEN_VALUE_1.java:55: error: missing return statement\n    }}\n     ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MINIMUM_LENGTH_SUBARRAY_SUM_GREATER_GIVEN_VALUE_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/SQUARED_TRIANGULAR_NUMBER_SUM_CUBES.java:49: error: method f_filled in class SQUARED_TRIANGULAR_NUMBER_SUM_CUBES cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: String\n  found:    Integer\n  reason: argument mismatch; Integer cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "SQUARED_TRIANGULAR_NUMBER_SUM_CUBES"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MIDDLE_OF_THREE_USING_MINIMUM_COMPARISONS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_ARRAY_REPRESENTS_INORDER_BINARY_SEARCH_TREE_NOT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PRINT_MAXIMUM_SHORTEST_DISTANCE"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "LONGEST_EVEN_LENGTH_SUBSTRING_SUM_FIRST_SECOND_HALF"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LONGEST_INCREASING_SUBSEQUENCE_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "K_TH_ELEMENT_TWO_SORTED_ARRAYS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_LARGE_NUMBER_DIVISIBLE_11_NOT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "N_TH_TERM_SERIES_2_12_36_80_150"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_NUMBERS_CAN_CONSTRUCTED_USING_TWO_NUMBERS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_TO_CHECK_IF_A_MATRIX_IS_SYMMETRIC"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER.java:47: error: not a statement\n                evenArr [ ] = arr [ i ];\n                        ^\nresult2/translate/starchat/python2java/java_eval/SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER.java:47: error: ';' expected\n                evenArr [ ] = arr [ i ];\n                           ^\nresult2/translate/starchat/python2java/java_eval/SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER.java:47: error: not a statement\n                evenArr [ ] = arr [ i ];\n                                  ^\nresult2/translate/starchat/python2java/java_eval/SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER.java:49: error: not a statement\n                oddArr [ ] = arr [ i ];\n                       ^\nresult2/translate/starchat/python2java/java_eval/SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER.java:49: error: ';' expected\n                oddArr [ ] = arr [ i ];\n                          ^\nresult2/translate/starchat/python2java/java_eval/SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER.java:49: error: not a statement\n                oddArr [ ] = arr [ i ];\n                                 ^\n6 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER"
+    },
+    {
+        "stdout": "#Results:9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_MINIMUM_DIFFERENCE_PAIR_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_ONE_EXTRA_CHARACTER_STRING_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 85\n\tat COUNT_NUMBER_OF_WAYS_TO_PARTITION_A_SET_INTO_K_SUBSETS_1.f_filled(COUNT_NUMBER_OF_WAYS_TO_PARTITION_A_SET_INTO_K_SUBSETS_1.java:38)\n\tat COUNT_NUMBER_OF_WAYS_TO_PARTITION_A_SET_INTO_K_SUBSETS_1.main(COUNT_NUMBER_OF_WAYS_TO_PARTITION_A_SET_INTO_K_SUBSETS_1.java:71)\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_NUMBER_OF_WAYS_TO_PARTITION_A_SET_INTO_K_SUBSETS_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_TO_FIND_REMAINDER_WITHOUT_USING_MODULO_OR_OPERATOR"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "AREA_OF_THE_CIRCLE_THAT_HAS_A_SQUARE_AND_A_CIRCLE_INSCRIBED_IN_IT"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/COUNT_ROTATIONS_DIVISIBLE_8.java:54: error: incompatible types: String cannot be converted to int\n            int first = (int) (n.substring (0, 1)) * 10 + (int) (n.substring (1, 2));\n                              ^\nresult2/translate/starchat/python2java/java_eval/COUNT_ROTATIONS_DIVISIBLE_8.java:54: error: incompatible types: String cannot be converted to int\n            int first = (int) (n.substring (0, 1)) * 10 + (int) (n.substring (1, 2));\n                                                                ^\nresult2/translate/starchat/python2java/java_eval/COUNT_ROTATIONS_DIVISIBLE_8.java:55: error: incompatible types: String cannot be converted to int\n            int second = (int) (n.substring (1, 2)) * 10 + (int) (n.substring (0, 1));\n                               ^\nresult2/translate/starchat/python2java/java_eval/COUNT_ROTATIONS_DIVISIBLE_8.java:55: error: incompatible types: String cannot be converted to int\n            int second = (int) (n.substring (1, 2)) * 10 + (int) (n.substring (0, 1));\n                                                                 ^\nresult2/translate/starchat/python2java/java_eval/COUNT_ROTATIONS_DIVISIBLE_8.java:66: error: incompatible types: String cannot be converted to int\n            threeDigit = (int) (n.substring (i, i + 3)) * 100 + (int) (n.substring (i + 1, i + 2)) * 10 + (int) (n.substring (i + 2, i + 3));\n                               ^\nresult2/translate/starchat/python2java/java_eval/COUNT_ROTATIONS_DIVISIBLE_8.java:66: error: incompatible types: String cannot be converted to int\n            threeDigit = (int) (n.substring (i, i + 3)) * 100 + (int) (n.substring (i + 1, i + 2)) * 10 + (int) (n.substring (i + 2, i + 3));\n                                                                      ^\nresult2/translate/starchat/python2java/java_eval/COUNT_ROTATIONS_DIVISIBLE_8.java:66: error: incompatible types: String cannot be converted to int\n            threeDigit = (int) (n.substring (i, i + 3)) * 100 + (int) (n.substring (i + 1, i + 2)) * 10 + (int) (n.substring (i + 2, i + 3));\n                                                                                                                ^\nresult2/translate/starchat/python2java/java_eval/COUNT_ROTATIONS_DIVISIBLE_8.java:71: error: incompatible types: String cannot be converted to int\n        threeDigit = (int) (n.substring (l - 1, l)) * 100 + (int) (n.substring (0, 1)) * 10 + (int) (n.substring (1, 2));\n                           ^\nresult2/translate/starchat/python2java/java_eval/COUNT_ROTATIONS_DIVISIBLE_8.java:71: error: incompatible types: String cannot be converted to int\n        threeDigit = (int) (n.substring (l - 1, l)) * 100 + (int) (n.substring (0, 1)) * 10 + (int) (n.substring (1, 2));\n                                                                  ^\nresult2/translate/starchat/python2java/java_eval/COUNT_ROTATIONS_DIVISIBLE_8.java:71: error: incompatible types: String cannot be converted to int\n        threeDigit = (int) (n.substring (l - 1, l)) * 100 + (int) (n.substring (0, 1)) * 10 + (int) (n.substring (1, 2));\n                                                                                                    ^\nresult2/translate/starchat/python2java/java_eval/COUNT_ROTATIONS_DIVISIBLE_8.java:75: error: incompatible types: String cannot be converted to int\n        threeDigit = (int) (n.substring (l - 2, l - 1)) * 100 + (int) (n.substring (l - 1, l)) * 10 + (int) (n.substring (0, 1));\n                           ^\nresult2/translate/starchat/python2java/java_eval/COUNT_ROTATIONS_DIVISIBLE_8.java:75: error: incompatible types: String cannot be converted to int\n        threeDigit = (int) (n.substring (l - 2, l - 1)) * 100 + (int) (n.substring (l - 1, l)) * 10 + (int) (n.substring (0, 1));\n                                                                      ^\nresult2/translate/starchat/python2java/java_eval/COUNT_ROTATIONS_DIVISIBLE_8.java:75: error: incompatible types: String cannot be converted to int\n        threeDigit = (int) (n.substring (l - 2, l - 1)) * 100 + (int) (n.substring (l - 1, l)) * 10 + (int) (n.substring (0, 1));\n                                                                                                            ^\n13 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_ROTATIONS_DIVISIBLE_8"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/FIND_LARGEST_PRIME_FACTOR_NUMBER.java:65: error: method f_filled in class FIND_LARGEST_PRIME_FACTOR_NUMBER cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: int\n  found:    Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_LARGEST_PRIME_FACTOR_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_SET_BITS_IN_AN_INTEGER_2"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SQUARE_ROOT_OF_AN_INTEGER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_PERIMETER_N_BLOCKS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_NUMBER_OF_SQUARES_WHOSE_SUM_EQUALS_TO_GIVEN_NUMBER_N_1"
+    },
+    {
+        "stdout": "#Results:5, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "CHECK_IF_ALL_THE_ELEMENTS_CAN_BE_MADE_OF_SAME_PARITY_BY_INVERTING_ADJACENT_ELEMENTS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_PAIRWISE_PRODUCTS"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "COUNT_NEGATIVE_NUMBERS_IN_A_COLUMN_WISE_ROW_WISE_SORTED_MATRIX"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_POSSIBLE_PATHS_TOP_LEFT_BOTTOM_RIGHT_NXM_MATRIX_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_MATRIX_ELEMENT_ABSOLUTE_DIFFERENCE_ROW_COLUMN_NUMBERS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SORT_ARRAY_TWO_HALVES_SORTED"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_DIFFERENCE_SUM_ELEMENTS_TWO_ROWS_MATRIX"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MULTIPLY_LARGE_INTEGERS_UNDER_LARGE_MODULO.java:77: error: method f_filled in class MULTIPLY_LARGE_INTEGERS_UNDER_LARGE_MODULO cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i),param2.get(i)) == f_gold(param0.get(i),param1.get(i),param2.get(i)))\n           ^\n  required: int,int,int\n  found:    Long,Long,Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MULTIPLY_LARGE_INTEGERS_UNDER_LARGE_MODULO"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_ROTATIONS_DIVISIBLE_4"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SEQUENCES_GIVEN_LENGTH_EVERY_ELEMENT_EQUAL_TWICE_PREVIOUS_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "HOW_CAN_WE_SUM_THE_DIGITS_OF_A_GIVEN_NUMBER_IN_SINGLE_STATEMENT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NEXT_POWER_OF_2"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_INDEX_OF_AN_EXTRA_ELEMENT_PRESENT_IN_ONE_SORTED_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_VALUE_CHOICE_EITHER_DIVIDING_CONSIDERING"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "TURN_OFF_THE_RIGHTMOST_SET_BIT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUM_PAIRS_SPECIFIC_DIFFERENCE_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN_2"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_FIND_STRING_START_END_GEEKS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_FACTORS_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_PAIRWISE_PRODUCTS_2"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHANGE_BITS_CAN_MADE_ONE_FLIP"
+    },
+    {
+        "stdout": "#Results:2, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "SIZE_SUBARRAY_MAXIMUM_SUM"
+    },
+    {
+        "stdout": "#Results:4, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "CALCULATE_MAXIMUM_VALUE_USING_SIGN_TWO_NUMBERS_STRING"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PANGRAM_CHECKING"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CONVERT_STRICTLY_INCREASING_ARRAY_MINIMUM_CHANGES"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SORT_ARRAY_CONTAIN_1_N_VALUES"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_WHETHER_ARITHMETIC_PROGRESSION_CAN_FORMED_GIVEN_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_ROTATIONS_REQUIRED_GET_STRING"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_THE_LARGEST_SUBARRAY_WITH_0_SUM"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.java:29: error: array required, but HashMap<Integer,Integer> found\n            Hash [ arr [ i ] ] = Hash.getOrDefault ( arr [ i ], 0 ) + 1;\n                 ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY"
+    },
+    {
+        "stdout": "#Results:6, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "COUNT_SORTED_ROWS_MATRIX"
+    },
+    {
+        "stdout": "",
+        "stderr": "loop",
+        "state": "Loop",
+        "WhyError": "Loop_",
+        "filename": "SQUARE_ROOT_OF_A_PERFECT_SQUARE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_PRINT_IDENTITY_MATRIX_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/FIND_SUM_EVEN_INDEX_BINOMIAL_COEFFICIENTS.java:37: error: cannot find symbol\n            for ( int j = 0; j <= min( i, n ); j++ ) {\n                                  ^\n  symbol:   method min(int,int)\n  location: class FIND_SUM_EVEN_INDEX_BINOMIAL_COEFFICIENTS\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_SUM_EVEN_INDEX_BINOMIAL_COEFFICIENTS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NUMBER_DIGITS_REMOVED_MAKE_NUMBER_DIVISIBLE_3"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DYNAMIC_PROGRAMMING_HIGH_EFFORT_VS_LOW_EFFORT_TASKS_PROBLEM"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DIAGONALLY_DOMINANT_MATRIX"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PIZZA_CUT_PROBLEM_CIRCLE_DIVISION_LINES"
+    },
+    {
+        "stdout": "#Results:4, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIRST_UPPERCASE_LETTER_IN_A_STRING_ITERATIVE_AND_RECURSIVE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_FIND_SLOPE_LINE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "HOW_TO_CHECK_IF_A_GIVEN_ARRAY_REPRESENTS_A_BINARY_HEAP_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUM_PAIRS_SPECIFIC_DIFFERENCE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_GIVEN_CIRCLE_LIES_COMPLETELY_INSIDE_RING_FORMED_TWO_CONCENTRIC_CIRCLES"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "QUICK_WAY_CHECK_CHARACTERS_STRING"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/BREAK_NUMBER_THREE_PARTS_1.java:41: error: method f_filled in class BREAK_NUMBER_THREE_PARTS_1 cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: int\n  found:    Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "BREAK_NUMBER_THREE_PARTS_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.ArithmeticException: / by zero\n\tat K_TH_DIGIT_RAISED_POWER_B.f_filled(K_TH_DIGIT_RAISED_POWER_B.java:29)\n\tat K_TH_DIGIT_RAISED_POWER_B.main(K_TH_DIGIT_RAISED_POWER_B.java:76)\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "K_TH_DIGIT_RAISED_POWER_B"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/NUMBER_IS_DIVISIBLE_BY_29_OR_NOT.java:27: error: cannot find symbol\n            n += last_digit * 3;\n                 ^\n  symbol:   variable last_digit\n  location: class NUMBER_IS_DIVISIBLE_BY_29_OR_NOT\nresult2/translate/starchat/python2java/java_eval/NUMBER_IS_DIVISIBLE_BY_29_OR_NOT.java:47: error: method f_filled in class NUMBER_IS_DIVISIBLE_BY_29_OR_NOT cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: int\n  found:    Long\n  reason: argument mismatch; Long cannot be converted to int\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "NUMBER_IS_DIVISIBLE_BY_29_OR_NOT"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/COUNT_MINIMUM_NUMBER_SUBSETS_SUBSEQUENCES_CONSECUTIVE_NUMBERS.java:25: error: ',', ')', or '[' expected\nstatic int f_filled ( int arr [ ] arr_size ) {\n                                 ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_MINIMUM_NUMBER_SUBSETS_SUBSEQUENCES_CONSECUTIVE_NUMBERS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHANGE_BITS_CAN_MADE_ONE_FLIP_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_THE_FIRST_MISSING_NUMBER"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "PROGRAM_DISTANCE_TWO_POINTS_EARTH"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DIFFERENCE_BETWEEN_HIGHEST_AND_LEAST_FREQUENCIES_IN_AN_ARRAY_1"
+    },
+    {
+        "stdout": "#Results:8, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_WHETHER_A_GIVEN_NUMBER_IS_A_POWER_OF_4_OR_NOT_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUBSEQUENCE_SUM_SUCH_THAT_NO_THREE_ARE_CONSECUTIVE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_CALCULATE_VOLUME_ELLIPSOID"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/SEARCH_AN_ELEMENT_IN_A_SORTED_AND_PIVOTED_ARRAY.java:26: error: ',', ')', or '[' expected\nstatic int f_filled ( int arr [ ] : int n, int l : int, int h : int, int key ) {\n                                 ^\nresult2/translate/starchat/python2java/java_eval/SEARCH_AN_ELEMENT_IN_A_SORTED_AND_PIVOTED_ARRAY.java:26: error: <identifier> expected\nstatic int f_filled ( int arr [ ] : int n, int l : int, int h : int, int key ) {\n                                          ^\nresult2/translate/starchat/python2java/java_eval/SEARCH_AN_ELEMENT_IN_A_SORTED_AND_PIVOTED_ARRAY.java:26: error: ';' expected\nstatic int f_filled ( int arr [ ] : int n, int l : int, int h : int, int key ) {\n                                                ^\nresult2/translate/starchat/python2java/java_eval/SEARCH_AN_ELEMENT_IN_A_SORTED_AND_PIVOTED_ARRAY.java:26: error: <identifier> expected\nstatic int f_filled ( int arr [ ] : int n, int l : int, int h : int, int key ) {\n                                                      ^\nresult2/translate/starchat/python2java/java_eval/SEARCH_AN_ELEMENT_IN_A_SORTED_AND_PIVOTED_ARRAY.java:26: error: <identifier> expected\nstatic int f_filled ( int arr [ ] : int n, int l : int, int h : int, int key ) {\n                                                       ^\nresult2/translate/starchat/python2java/java_eval/SEARCH_AN_ELEMENT_IN_A_SORTED_AND_PIVOTED_ARRAY.java:26: error: ';' expected\nstatic int f_filled ( int arr [ ] : int n, int l : int, int h : int, int key ) {\n                                                             ^\nresult2/translate/starchat/python2java/java_eval/SEARCH_AN_ELEMENT_IN_A_SORTED_AND_PIVOTED_ARRAY.java:26: error: <identifier> expected\nstatic int f_filled ( int arr [ ] : int n, int l : int, int h : int, int key ) {\n                                                                   ^\nresult2/translate/starchat/python2java/java_eval/SEARCH_AN_ELEMENT_IN_A_SORTED_AND_PIVOTED_ARRAY.java:26: error: <identifier> expected\nstatic int f_filled ( int arr [ ] : int n, int l : int, int h : int, int key ) {\n                                                                    ^\nresult2/translate/starchat/python2java/java_eval/SEARCH_AN_ELEMENT_IN_A_SORTED_AND_PIVOTED_ARRAY.java:26: error: ';' expected\nstatic int f_filled ( int arr [ ] : int n, int l : int, int h : int, int key ) {\n                                                                            ^\n9 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "SEARCH_AN_ELEMENT_IN_A_SORTED_AND_PIVOTED_ARRAY"
+    },
+    {
+        "stdout": "#Results:3, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MAXIMUM_NUMBER_SEGMENTS_LENGTHS_B_C"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "TEMPLE_OFFERINGS"
+    },
+    {
+        "stdout": "#Results:4, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MAXIMUM_WEIGHT_PATH_ENDING_ELEMENT_LAST_ROW_MATRIX"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_SERIES_12_32_52_2N_12"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "STOOGE_SORT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_FIND_CIRCUMFERENCE_CIRCLE"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/DYNAMIC_PROGRAMMING_SET_17_PALINDROME_PARTITIONING.java:65: error: ';' expected\n                    C[i][j] = 10000}\n                                   ^\nresult2/translate/starchat/python2java/java_eval/DYNAMIC_PROGRAMMING_SET_17_PALINDROME_PARTITIONING.java:67: error: illegal start of expression\npublic static void main(String args[]) {\n^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "DYNAMIC_PROGRAMMING_SET_17_PALINDROME_PARTITIONING"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_FOR_DEADLOCK_FREE_CONDITION_IN_OPERATING_SYSTEM"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "EVEN_FIBONACCI_NUMBERS_SUM"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_CHARACTERS_STRING_DISTANCE_ENGLISH_ALPHABETS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_DERANGEMENTS_PERMUTATION_SUCH_THAT_NO_ELEMENT_APPEARS_IN_ITS_ORIGINAL_POSITION_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_BINARY_STRINGS_K_TIMES_APPEARING_ADJACENT_TWO_SET_BITS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_SERIES_0_6_0_06_0_006_0_0006_N_TERMS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_BINARY_DIGIT_NUMBERS_SMALLER_N"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_CHECK_ARRAY_SORTED_NOT_ITERATIVE_RECURSIVE_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_LARGE_NUMBER_DIVISIBLE_4_NOT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_STRINGS_CAN_FORMED_USING_B_C_GIVEN_CONSTRAINTS_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/FIND_NUMBER_ENDLESS_POINTS.java:57: error: incompatible types: boolean cannot be converted to int\n                col[i][j] = isEndless;\n                            ^\nresult2/translate/starchat/python2java/java_eval/FIND_NUMBER_ENDLESS_POINTS.java:66: error: incompatible types: boolean cannot be converted to int\n                row[i][j] = isEndless;\n                            ^\nresult2/translate/starchat/python2java/java_eval/FIND_NUMBER_ENDLESS_POINTS.java:72: error: bad operand types for binary operator '&&'\n                if ( row[i][j] && col[i][j] ) {\n                               ^\n  first type:  int\n  second type: int\nresult2/translate/starchat/python2java/java_eval/FIND_NUMBER_ENDLESS_POINTS.java:106: error: method f_filled in class FIND_NUMBER_ENDLESS_POINTS cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: int[][],int\n  found:    boolean[][],Integer\n  reason: argument mismatch; boolean[][] cannot be converted to int[][]\n4 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_NUMBER_ENDLESS_POINTS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MEDIAN_OF_TWO_SORTED_ARRAYS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_NUMBER_PERFECT_SQUARES_TWO_GIVEN_NUMBERS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/COUNT_PAIRS_TWO_SORTED_ARRAYS_WHOSE_SUM_EQUAL_GIVEN_VALUE_X_1.java:30: error: ')' expected\n        for ( int j = 0 ; j < n ; j ++ ) if ( x - arr2 [ j ] in us ) count ++;\n                                                            ^\nresult2/translate/starchat/python2java/java_eval/COUNT_PAIRS_TWO_SORTED_ARRAYS_WHOSE_SUM_EQUAL_GIVEN_VALUE_X_1.java:30: error: ';' expected\n        for ( int j = 0 ; j < n ; j ++ ) if ( x - arr2 [ j ] in us ) count ++;\n                                                                  ^\nresult2/translate/starchat/python2java/java_eval/COUNT_PAIRS_TWO_SORTED_ARRAYS_WHOSE_SUM_EQUAL_GIVEN_VALUE_X_1.java:30: error: variable declaration not allowed here\n        for ( int j = 0 ; j < n ; j ++ ) if ( x - arr2 [ j ] in us ) count ++;\n                                                                ^\n3 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_PAIRS_TWO_SORTED_ARRAYS_WHOSE_SUM_EQUAL_GIVEN_VALUE_X_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MAXIMUM_LENGTH_SUBSEQUENCE_DIFFERENCE_ADJACENT_ELEMENTS_EITHER_0_1.java:30: error: ',', ')', or '[' expected\nstatic int f_filled ( int arr [ ] arr_size, int n ) {\n                                 ^\nresult2/translate/starchat/python2java/java_eval/MAXIMUM_LENGTH_SUBSEQUENCE_DIFFERENCE_ADJACENT_ELEMENTS_EITHER_0_1.java:30: error: ';' expected\nstatic int f_filled ( int arr [ ] arr_size, int n ) {\n                                                 ^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MAXIMUM_LENGTH_SUBSEQUENCE_DIFFERENCE_ADJACENT_ELEMENTS_EITHER_0_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "REARRANGE_ARRAY_MAXIMUM_MINIMUM_FORM_SET_2_O1_EXTRA_SPACE"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "SORT_ARRAY_APPLYING_GIVEN_EQUATION"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LONGEST_PREFIX_ALSO_SUFFIX_1"
+    },
+    {
+        "stdout": "#Results:7, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "DICE_THROW_PROBLEM"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_COUNT_OCCURRENCE_GIVEN_CHARACTER_STRING"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "PARTITION_INTO_TWO_SUBARRAYS_OF_LENGTHS_K_AND_N_K_SUCH_THAT_THE_DIFFERENCE_OF_SUMS_IS_MAXIMUM"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "HEIGHT_COMPLETE_BINARY_TREE_HEAP_N_NODES"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NTH_NON_FIBONACCI_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUBARRAY_SUM_ARRAY_CREATED_REPEATED_CONCATENATION"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "GIVEN_P_AND_N_FIND_THE_LARGEST_X_SUCH_THAT_PX_DIVIDES_N_2"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_PRODUCT_SUBSET_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_TRIPLET_SUM_ARRAY_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNTING_PAIRS_PERSON_CAN_FORM_PAIR_ONE_1"
+    },
+    {
+        "stdout": "#Results:2, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "TOTAL_NUMBER_OF_NON_DECREASING_NUMBERS_WITH_N_DIGITS_1"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "K_TH_LARGEST_SUM_CONTIGUOUS_SUBARRAY"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 10\n\tat SUM_BINOMIAL_COEFFICIENTS.f_filled(SUM_BINOMIAL_COEFFICIENTS.java:40)\n\tat SUM_BINOMIAL_COEFFICIENTS.main(SUM_BINOMIAL_COEFFICIENTS.java:66)\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "SUM_BINOMIAL_COEFFICIENTS"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.NumberFormatException: For input string: \"uEmIAgF\"\n\tat java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)\n\tat java.base/java.lang.Integer.parseInt(Integer.java:665)\n\tat java.base/java.lang.Integer.parseInt(Integer.java:781)\n\tat PROGRAM_BINARY_DECIMAL_CONVERSION_1.f_filled(PROGRAM_BINARY_DECIMAL_CONVERSION_1.java:29)\n\tat PROGRAM_BINARY_DECIMAL_CONVERSION_1.main(PROGRAM_BINARY_DECIMAL_CONVERSION_1.java:57)\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "PROGRAM_BINARY_DECIMAL_CONVERSION_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/FIND_REPETITIVE_ELEMENT_1_N_1_1.java:25: error: ',', ')', or '[' expected\nstatic int f_filled ( int arr [ ] : int n ) {\n                                 ^\nresult2/translate/starchat/python2java/java_eval/FIND_REPETITIVE_ELEMENT_1_N_1_1.java:25: error: ';' expected\nstatic int f_filled ( int arr [ ] : int n ) {\n                                         ^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_REPETITIVE_ELEMENT_1_N_1_1"
+    },
+    {
+        "stdout": "#Results:2, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_N_TH_ELEMENT_FROM_STERNS_DIATOMIC_SERIES"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROBABILITY_THREE_RANDOMLY_CHOSEN_NUMBERS_AP"
+    },
+    {
+        "stdout": "",
+        "stderr": "loop",
+        "state": "Loop",
+        "WhyError": "Loop_",
+        "filename": "GIVEN_A_SORTED_AND_ROTATED_ARRAY_FIND_IF_THERE_IS_A_PAIR_WITH_A_GIVEN_SUM_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/LOWER_CASE_UPPER_CASE_INTERESTING_FACT.java:49: error: method f_filled in class LOWER_CASE_UPPER_CASE_INTERESTING_FACT cannot be applied to given types;\n        if(f_filled(param0.get(i)).equals(f_gold(param0.get(i))))\n           ^\n  required: String\n  found:    char[]\n  reason: argument mismatch; char[] cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "LOWER_CASE_UPPER_CASE_INTERESTING_FACT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_PAIRS_TWO_SORTED_ARRAYS_WHOSE_SUM_EQUAL_GIVEN_VALUE_X"
+    },
+    {
+        "stdout": "#Results:2, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "SUM_AREA_RECTANGLES_POSSIBLE_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "REMOVE_MINIMUM_ELEMENTS_EITHER_SIDE_2MIN_MAX"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NON_REPEATING_ELEMENT"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 3\n\tat LONGEST_SUBSEQUENCE_DIFFERENCE_ADJACENTS_ONE_SET_2.f_filled(LONGEST_SUBSEQUENCE_DIFFERENCE_ADJACENTS_ONE_SET_2.java:34)\n\tat LONGEST_SUBSEQUENCE_DIFFERENCE_ADJACENTS_ONE_SET_2.main(LONGEST_SUBSEQUENCE_DIFFERENCE_ADJACENTS_ONE_SET_2.java:74)\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "LONGEST_SUBSEQUENCE_DIFFERENCE_ADJACENTS_ONE_SET_2"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/COUNT_PALINDROME_SUB_STRINGS_STRING.java:102: error: method f_filled in class COUNT_PALINDROME_SUB_STRINGS_STRING cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: String,int\n  found:    char[],Integer\n  reason: argument mismatch; char[] cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_PALINDROME_SUB_STRINGS_STRING"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "K_TH_MISSING_ELEMENT_INCREASING_SEQUENCE_NOT_PRESENT_GIVEN_SEQUENCE"
+    },
+    {
+        "stdout": "#Results:9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "PROGRAM_CENSOR_WORD_ASTERISKS_SENTENCE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_MATRIX_ELEMENT_ELEMENT_INTEGER_DIVISION_ROW_COLUMN_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_POINTS_INTERSECTION_N_CIRCLES"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_INSERTIONS_SORT_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_TRIPLET_SUM_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LONGEST_COMMON_SUBSTRING"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PRIME_NUMBERS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MAXIMUM_PRODUCT_INCREASING_SUBSEQUENCE.java:47: error: cannot find symbol\n        return max ( mpis );\n               ^\n  symbol:   method max(int[])\n  location: class MAXIMUM_PRODUCT_INCREASING_SUBSEQUENCE\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MAXIMUM_PRODUCT_INCREASING_SUBSEQUENCE"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/PAIR_WITH_GIVEN_PRODUCT_SET_1_FIND_IF_ANY_PAIR_EXISTS_1.java:32: error: ',', ')', or '[' expected\nstatic boolean f_filled ( int arr [ ] : int n, int x ) {\n                                     ^\nresult2/translate/starchat/python2java/java_eval/PAIR_WITH_GIVEN_PRODUCT_SET_1_FIND_IF_ANY_PAIR_EXISTS_1.java:32: error: <identifier> expected\nstatic boolean f_filled ( int arr [ ] : int n, int x ) {\n                                              ^\nresult2/translate/starchat/python2java/java_eval/PAIR_WITH_GIVEN_PRODUCT_SET_1_FIND_IF_ANY_PAIR_EXISTS_1.java:32: error: ';' expected\nstatic boolean f_filled ( int arr [ ] : int n, int x ) {\n                                                    ^\nresult2/translate/starchat/python2java/java_eval/PAIR_WITH_GIVEN_PRODUCT_SET_1_FIND_IF_ANY_PAIR_EXISTS_1.java:41: error: ')' expected\n                if ( x / arr [ i ] in s ) return true;\n                                  ^\nresult2/translate/starchat/python2java/java_eval/PAIR_WITH_GIVEN_PRODUCT_SET_1_FIND_IF_ANY_PAIR_EXISTS_1.java:41: error: ';' expected\n                if ( x / arr [ i ] in s ) return true;\n                                       ^\nresult2/translate/starchat/python2java/java_eval/PAIR_WITH_GIVEN_PRODUCT_SET_1_FIND_IF_ANY_PAIR_EXISTS_1.java:41: error: variable declaration not allowed here\n                if ( x / arr [ i ] in s ) return true;\n                                      ^\n6 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "PAIR_WITH_GIVEN_PRODUCT_SET_1_FIND_IF_ANY_PAIR_EXISTS_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DYNAMIC_PROGRAMMING_SET_14_MAXIMUM_SUM_INCREASING_SUBSEQUENCE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_AREA_SQUARE"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/CONSTRUCT_LEXICOGRAPHICALLY_SMALLEST_PALINDROME.java:90: error: method f_filled in class CONSTRUCT_LEXICOGRAPHICALLY_SMALLEST_PALINDROME cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)).equals(f_gold(param0.get(i),param1.get(i))))\n           ^\n  required: String,int\n  found:    char[],Integer\n  reason: argument mismatch; char[] cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CONSTRUCT_LEXICOGRAPHICALLY_SMALLEST_PALINDROME"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/COUNT_POSSIBLE_DECODINGS_GIVEN_DIGIT_SEQUENCE_1.java:74: error: method f_filled in class COUNT_POSSIBLE_DECODINGS_GIVEN_DIGIT_SEQUENCE_1 cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: String,int\n  found:    char[],Integer\n  reason: argument mismatch; char[] cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_POSSIBLE_DECODINGS_GIVEN_DIGIT_SEQUENCE_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "REMOVE_BRACKETS_ALGEBRAIC_STRING_CONTAINING_OPERATORS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LARGEST_SUBSEQUENCE_GCD_GREATER_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "N_TH_ROOT_NUMBER"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.ArrayIndexOutOfBoundsException: Index 41 out of bounds for length 21\n\tat MINIMUM_COST_TO_FILL_GIVEN_WEIGHT_IN_A_BAG.f_filled(MINIMUM_COST_TO_FILL_GIVEN_WEIGHT_IN_A_BAG.java:56)\n\tat MINIMUM_COST_TO_FILL_GIVEN_WEIGHT_IN_A_BAG.main(MINIMUM_COST_TO_FILL_GIVEN_WEIGHT_IN_A_BAG.java:106)\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MINIMUM_COST_TO_FILL_GIVEN_WEIGHT_IN_A_BAG"
+    },
+    {
+        "stdout": "#Results:1, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "COUNT_NATURAL_NUMBERS_WHOSE_PERMUTATION_GREATER_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SWAP_TWO_NUMBERS_WITHOUT_USING_TEMPORARY_VARIABLE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "EQUILIBRIUM_INDEX_OF_AN_ARRAY_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_TWO_GIVEN_CIRCLES_TOUCH_INTERSECT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "ELEMENTS_TO_BE_ADDED_SO_THAT_ALL_ELEMENTS_OF_A_RANGE_ARE_PRESENT_IN_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_NUMBER_WAYS_TILE_FLOOR_SIZE_N_X_M_USING_1_X_M_SIZE_TILES"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_POSITION_GIVEN_NUMBER_AMONG_NUMBERS_MADE_4_7"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_MINIMUM_ELEMENT_IN_A_SORTED_AND_ROTATED_ARRAY"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "SUM_MATRIX_ELEMENT_ABSOLUTE_DIFFERENCE_ROW_COLUMN_NUMBERS_2"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.StringIndexOutOfBoundsException: Index 2 out of bounds for length 2\n\tat java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)\n\tat java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)\n\tat java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)\n\tat java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)\n\tat java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)\n\tat java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)\n\tat java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)\n\tat java.base/java.lang.String.checkIndex(String.java:4570)\n\tat java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)\n\tat java.base/java.lang.String.charAt(String.java:1527)\n\tat SUM_OF_ALL_SUBSTRINGS_OF_A_STRING_REPRESENTING_A_NUMBER.f_filled(SUM_OF_ALL_SUBSTRINGS_OF_A_STRING_REPRESENTING_A_NUMBER.java:35)\n\tat SUM_OF_ALL_SUBSTRINGS_OF_A_STRING_REPRESENTING_A_NUMBER.main(SUM_OF_ALL_SUBSTRINGS_OF_A_STRING_REPRESENTING_A_NUMBER.java:57)\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "SUM_OF_ALL_SUBSTRINGS_OF_A_STRING_REPRESENTING_A_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_MAXIMUM_AVERAGE_SUBARRAY_OF_K_LENGTH"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/EQUILIBRIUM_INDEX_OF_AN_ARRAY.java:33: error: ',', ')', or '[' expected\nstatic int f_filled ( int arr [ ] : int n ) {\n                                 ^\nresult2/translate/starchat/python2java/java_eval/EQUILIBRIUM_INDEX_OF_AN_ARRAY.java:33: error: ';' expected\nstatic int f_filled ( int arr [ ] : int n ) {\n                                         ^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "EQUILIBRIUM_INDEX_OF_AN_ARRAY"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_COST_SORT_MATRIX_NUMBERS_0_N2_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_CHECK_INPUT_INTEGER_STRING"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/HORNERS_METHOD_POLYNOMIAL_EVALUATION.java:67: error: method f_filled in class HORNERS_METHOD_POLYNOMIAL_EVALUATION cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i),param2.get(i)) == f_gold(param0.get(i),param1.get(i),param2.get(i)))\n           ^\n  required: long[],int,long\n  found:    int[],Integer,Integer\n  reason: argument mismatch; int[] cannot be converted to long[]\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "HORNERS_METHOD_POLYNOMIAL_EVALUATION"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/DECIMAL_BINARY_CONVERSION_WITHOUT_USING_ARITHMETIC_OPERATORS.java:30: error: bad operand types for binary operator '&'\n            if ( n & 1 == 0 ) {\n                   ^\n  first type:  int\n  second type: boolean\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "DECIMAL_BINARY_CONVERSION_WITHOUT_USING_ARITHMETIC_OPERATORS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_IF_STRING_REMAINS_PALINDROME_AFTER_REMOVING_GIVEN_NUMBER_OF_CHARACTERS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_WHETHER_GIVEN_DEGREES_VERTICES_REPRESENT_GRAPH_TREE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_DECIMAL_BINARY_CONVERSION_2"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_WHETHER_GIVEN_INTEGER_POWER_3_NOT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "ELEMENTS_TO_BE_ADDED_SO_THAT_ALL_ELEMENTS_OF_A_RANGE_ARE_PRESENT_IN_ARRAY_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MINIMUM_SUM_SUBSEQUENCE_LEAST_ONE_EVERY_FOUR_CONSECUTIVE_ELEMENTS_PICKED.java:49: error: ')' or ',' expected\n            dp [ i ] = arr [ i ] + Math.min ( Math.min ( dp [ i - 1 ]}\n                                                                     ^\nresult2/translate/starchat/python2java/java_eval/MINIMUM_SUM_SUBSEQUENCE_LEAST_ONE_EVERY_FOUR_CONSECUTIVE_ELEMENTS_PICKED.java:51: error: illegal start of expression\npublic static void main(String args[]) {\n^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MINIMUM_SUM_SUBSEQUENCE_LEAST_ONE_EVERY_FOUR_CONSECUTIVE_ELEMENTS_PICKED"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_EVEN_LENGTH_BINARY_SEQUENCES_WITH_SAME_SUM_OF_FIRST_AND_SECOND_HALF_BITS_1"
+    },
+    {
+        "stdout": "#Results:8, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "CHECK_POSSIBLE_TRANSFORM_ONE_STRING_ANOTHER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DISTRIBUTING_M_ITEMS_CIRCLE_SIZE_N_STARTING_K_TH_POSITION"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUM_IARRI_AMONG_ROTATIONS_GIVEN_ARRAY_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUBARRAY_SUM_USING_PREFIX_SUM"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "C_PROGRAM_FIND_LARGEST_ELEMENT_ARRAY_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_DISTINCT_OCCURRENCES_AS_A_SUBSEQUENCE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "ARRAY_ELEMENT_MOVED_K_USING_SINGLE_MOVES"
+    },
+    {
+        "stdout": "#Results:4, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "DYNAMIC_PROGRAMMING_SET_37_BOOLEAN_PARENTHESIZATION_PROBLEM"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SPLIT_ARRAY_ADD_FIRST_PART_END"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "HYPERCUBE_GRAPH"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MIDDLE_OF_THREE_USING_MINIMUM_COMPARISONS_2"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_DISTINCT_NON_NEGATIVE_PAIRS_X_Y_SATISFY_INEQUALITY_XX_YY_N_2_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_GAMES_PLAYED_WINNER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_MAXIMUM_PRODUCT_OF_A_TRIPLET_IN_ARRAY_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NUMBER_INDEXES_EQUAL_ELEMENTS_GIVEN_RANGE"
+    },
+    {
+        "stdout": "number is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\nnumber is not present!\n#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SEARCHING_ARRAY_ADJACENT_DIFFER_K"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "K_TH_PRIME_FACTOR_GIVEN_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PYTHON_PROGRAM_FIND_PERIMETER_CIRCUMFERENCE_SQUARE_RECTANGLE"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LEXICOGRAPHICALLY_MINIMUM_STRING_ROTATION"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NUMBER_OF_PAIRS_IN_AN_ARRAY_HAVING_SUM_EQUAL_TO_PRODUCT"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MULTIPLY_AN_INTEGER_WITH_3_5"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN.java:44: error: unreachable statement\n        return -1;\n        ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DISTRIBUTING_ITEMS_PERSON_CANNOT_TAKE_TWO_ITEMS_TYPE_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/SQUARE_PYRAMIDAL_NUMBER_SUM_SQUARES.java:51: error: method f_filled in class SQUARE_PYRAMIDAL_NUMBER_SUM_SQUARES cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: String\n  found:    Integer\n  reason: argument mismatch; Integer cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "SQUARE_PYRAMIDAL_NUMBER_SUM_SQUARES"
+    },
+    {
+        "stdout": "",
+        "stderr": "loop",
+        "state": "Loop",
+        "WhyError": "Loop_",
+        "filename": "MINIMUM_NUMBER_SUBSETS_DISTINCT_ELEMENTS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SWAP_BITS_IN_A_GIVEN_NUMBER"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "EFFICIENT_WAY_CHECK_WHETHER_N_TH_FIBONACCI_NUMBER_MULTIPLE_10"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMIZE_SUM_PRODUCT_TWO_ARRAYS_PERMUTATIONS_ALLOWED"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/PROGRAM_PRINT_SUM_GIVEN_NTH_TERM_1.java:37: error: method f_filled in class PROGRAM_PRINT_SUM_GIVEN_NTH_TERM_1 cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: int\n  found:    Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "PROGRAM_PRINT_SUM_GIVEN_NTH_TERM_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/DYNAMIC_PROGRAMMING_SET_28_MINIMUM_INSERTIONS_TO_FORM_A_PALINDROME.java:66: error: method f_filled in class DYNAMIC_PROGRAMMING_SET_28_MINIMUM_INSERTIONS_TO_FORM_A_PALINDROME cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i),param2.get(i)) == f_gold(param0.get(i),param1.get(i),param2.get(i)))\n           ^\n  required: String,int,int\n  found:    char[],Integer,Integer\n  reason: argument mismatch; char[] cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "DYNAMIC_PROGRAMMING_SET_28_MINIMUM_INSERTIONS_TO_FORM_A_PALINDROME"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_ENTRIES_EQUAL_TO_X_IN_A_SPECIAL_MATRIX"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SWAP_TWO_NIBBLES_BYTE"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/PROGRAM_CALCULATE_AREA_OCTAGON.java:19: error: incompatible types: possible lossy conversion from double to int\n        return ( 2 * ( 1 + Math.sqrt ( 2 ) ) * side * side );\n                                                    ^\nresult2/translate/starchat/python2java/java_eval/PROGRAM_CALCULATE_AREA_OCTAGON.java:37: error: method f_filled in class PROGRAM_CALCULATE_AREA_OCTAGON cannot be applied to given types;\n        if(Math.abs(1 - (0.0000001 + Math.abs(f_gold(param0.get(i))) )/ (Math.abs(f_filled(param0.get(i))) + 0.0000001)) < 0.001)\n                                                                                  ^\n  required: int\n  found:    Double\n  reason: argument mismatch; Double cannot be converted to int\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "PROGRAM_CALCULATE_AREA_OCTAGON"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_STRING_CAN_OBTAINED_ROTATING_ANOTHER_STRING_2_PLACES"
+    },
+    {
+        "stdout": "#Results:6, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "CHECK_WHETHER_LARGE_NUMBER_DIVISIBLE_7"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_SET_BITS_IN_AN_INTEGER_3"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_SUBSTRINGS_WITH_SAME_FIRST_AND_LAST_CHARACTERS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_COST_CONNECT_WEIGHTED_NODES_REPRESENTED_ARRAY"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "NEXT_POWER_OF_2_2"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIBONACCI_MODULO_P"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/starchat/python2java/java_eval/MAXIMUM_AREA_RECTANGLE_PICKING_FOUR_SIDES_ARRAY.java:65: error: method f_filled in class MAXIMUM_AREA_RECTANGLE_PICKING_FOUR_SIDES_ARRAY cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: int[],int\n  found:    Integer[],Integer\n  reason: argument mismatch; Integer[] cannot be converted to int[]\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MAXIMUM_AREA_RECTANGLE_PICKING_FOUR_SIDES_ARRAY"
+    }
+]

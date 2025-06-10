@@ -1,0 +1,135 @@
+[
+    {
+        "stdout": "",
+        "stderr": "CompError!result/transcoder/c++_repair_eval_3/CAESAR_CIPHER.cpp: In function 'std::string f_filled(const char*, int)':\nresult/transcoder/c++_repair_eval_3/CAESAR_CIPHER.cpp:35:23: error: no matching function for call to 'std::__cxx11::basic_string<char>::append(char&)'\n   35 |       result . append ( ch ) ;\n      |       ~~~~~~~~~~~~~~~~^~~~~~\nIn file included from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/string:54,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/locale_classes.h:40,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/ios_base.h:41,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ios:44,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ostream:40,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/iostream:41,\n                 from result/transcoder/c++_repair_eval_3/CAESAR_CIPHER.cpp:8:\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1480:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(const _CharT*) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]' (near match)\n 1480 |       append(const _CharT* __s)\n      |       ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1480:7: note:   conversion of argument 1 would be ill-formed:\nresult/transcoder/c++_repair_eval_3/CAESAR_CIPHER.cpp:35:25: error: invalid conversion from 'char' to 'const char*' [-fpermissive]\n   35 |       result . append ( ch ) ;\n      |                         ^~\n      |                         |\n      |                         char\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1529:9: note: candidate: 'template<class _InputIterator, class> std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(_InputIterator, _InputIterator) [with <template-parameter-2-2> = _InputIterator; _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'\n 1529 |         append(_InputIterator __first, _InputIterator __last)\n      |         ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1529:9: note:   candidate expects 2 arguments, 1 provided\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1541:9: note: candidate: 'template<class _Tp> std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::_If_sv<_Tp, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&> std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(const _Tp&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'\n 1541 |         append(const _Tp& __svt)\n      |         ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1541:9: note:   template argument deduction/substitution failed:\nIn file included from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/move.h:37,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/exception_ptr.h:41,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/exception:166,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ios:41:\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/type_traits: In substitution of 'template<bool _Cond, class _Tp> using std::enable_if_t = typename std::enable_if::type [with bool _Cond = false; _Tp = std::__cxx11::basic_string<char>&]':\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:149:8:   required by substitution of 'template<class _CharT, class _Traits, class _Alloc> template<class _Tp, class _Res> using std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::_If_sv = std::enable_if_t<((bool)std::__and_<std::is_convertible<const _Tp&, std::basic_string_view<_CharT, _Traits> >, std::__not_<std::is_convertible<const _Tp*, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>*> >, std::__not_<std::is_convertible<const _Tp&, const _CharT*> > >::value), _Res> [with _Tp = char; _Res = std::__cxx11::basic_string<char>&; _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'\n  149 |         using _If_sv = enable_if_t<\n      |               ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1541:9:   required by substitution of 'template<class _Tp> std::__cxx11::basic_string<char>::_If_sv<_Tp, std::__cxx11::basic_string<char>&> std::__cxx11::basic_string<char>::append(const _Tp&) [with _Tp = char]'\n 1541 |         append(const _Tp& __svt)\n      |         ^~~~~~\nresult/transcoder/c++_repair_eval_3/CAESAR_CIPHER.cpp:35:23:   required from here\n   35 |       result . append ( ch ) ;\n      |       ~~~~~~~~~~~~~~~~^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/type_traits:2696:11: error: no type named 'type' in 'struct std::enable_if<false, std::__cxx11::basic_string<char>&>'\n 2696 |     using enable_if_t = typename enable_if<_Cond, _Tp>::type;\n      |           ^~~~~~~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1557:9: note: candidate: 'template<class _Tp> std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::_If_sv<_Tp, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&> std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(const _Tp&, size_type, size_type) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'\n 1557 |         append(const _Tp& __svt, size_type __pos, size_type __n = npos)\n      |         ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1557:9: note:   candidate expects 2 arguments, 1 provided\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1435:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'\n 1435 |       append(const basic_string& __str)\n      |       ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1435:34: note:   no known conversion for argument 1 from 'char' to 'const std::__cxx11::basic_string<char>&'\n 1435 |       append(const basic_string& __str)\n      |              ~~~~~~~~~~~~~~~~~~~~^~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1453:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, size_type, size_type) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; size_type = long long unsigned int]'\n 1453 |       append(const basic_string& __str, size_type __pos, size_type __n = npos)\n      |       ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1453:7: note:   candidate expects 3 arguments, 1 provided\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1466:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(const _CharT*, size_type) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; size_type = long long unsigned int]'\n 1466 |       append(const _CharT* __s, size_type __n)\n      |       ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1466:7: note:   candidate expects 2 arguments, 1 provided\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1498:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(size_type, _CharT) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; size_type = long long unsigned int]'\n 1498 |       append(size_type __n, _CharT __c)\n      |       ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1498:7: note:   candidate expects 2 arguments, 1 provided\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1509:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(std::initializer_list<_Tp>) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'\n 1509 |       append(initializer_list<_CharT> __l)\n      |       ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1509:39: note:   no known conversion for argument 1 from 'char' to 'std::initializer_list<char>'\n 1509 |       append(initializer_list<_CharT> __l)\n      |              ~~~~~~~~~~~~~~~~~~~~~~~~~^~~\nresult/transcoder/c++_repair_eval_3/CAESAR_CIPHER.cpp:39:23: error: no matching function for call to 'std::__cxx11::basic_string<char>::append(char&)'\n   39 |       result . append ( ch ) ;\n      |       ~~~~~~~~~~~~~~~~^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1480:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(const _CharT*) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]' (near match)\n 1480 |       append(const _CharT* __s)\n      |       ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1480:7: note:   conversion of argument 1 would be ill-formed:\nresult/transcoder/c++_repair_eval_3/CAESAR_CIPHER.cpp:39:25: error: invalid conversion from 'char' to 'const char*' [-fpermissive]\n   39 |       result . append ( ch ) ;\n      |                         ^~\n      |                         |\n      |                         char\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1529:9: note: candidate: 'template<class _InputIterator, class> std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(_InputIterator, _InputIterator) [with <template-parameter-2-2> = _InputIterator; _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'\n 1529 |         append(_InputIterator __first, _InputIterator __last)\n      |         ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1529:9: note:   candidate expects 2 arguments, 1 provided\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1541:9: note: candidate: 'template<class _Tp> std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::_If_sv<_Tp, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&> std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(const _Tp&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'\n 1541 |         append(const _Tp& __svt)\n      |         ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1541:9: note:   template argument deduction/substitution failed:\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1557:9: note: candidate: 'template<class _Tp> std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::_If_sv<_Tp, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&> std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(const _Tp&, size_type, size_type) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'\n 1557 |         append(const _Tp& __svt, size_type __pos, size_type __n = npos)\n      |         ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1557:9: note:   candidate expects 2 arguments, 1 provided\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1435:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'\n 1435 |       append(const basic_string& __str)\n      |       ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1435:34: note:   no known conversion for argument 1 from 'char' to 'const std::__cxx11::basic_string<char>&'\n 1435 |       append(const basic_string& __str)\n      |              ~~~~~~~~~~~~~~~~~~~~^~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1453:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, size_type, size_type) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; size_type = long long unsigned int]'\n 1453 |       append(const basic_string& __str, size_type __pos, size_type __n = npos)\n      |       ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1453:7: note:   candidate expects 3 arguments, 1 provided\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1466:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(const _CharT*, size_type) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; size_type = long long unsigned int]'\n 1466 |       append(const _CharT* __s, size_type __n)\n      |       ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1466:7: note:   candidate expects 2 arguments, 1 provided\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1498:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(size_type, _CharT) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; size_type = long long unsigned int]'\n 1498 |       append(size_type __n, _CharT __c)\n      |       ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1498:7: note:   candidate expects 2 arguments, 1 provided\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1509:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::append(std::initializer_list<_Tp>) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'\n 1509 |       append(initializer_list<_CharT> __l)\n      |       ^~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/basic_string.h:1509:39: note:   no known conversion for argument 1 from 'char' to 'std::initializer_list<char>'\n 1509 |       append(initializer_list<_CharT> __l)\n      |              ~~~~~~~~~~~~~~~~~~~~~~~~~^~~\nresult/transcoder/c++_repair_eval_3/CAESAR_CIPHER.cpp: In function 'int main()':\nresult/transcoder/c++_repair_eval_3/CAESAR_CIPHER.cpp:51:20: error: cannot convert '__gnu_cxx::__alloc_traits<std::allocator<std::__cxx11::basic_string<char> >, std::__cxx11::basic_string<char> >::value_type' {aka 'std::__cxx11::basic_string<char>'} to 'const char*'\n   51 |         if(f_filled(param0[i],param1[i]) == f_gold(param0[i],param1[i]))\n      |            ~~~~~~~~^~~~~~~~~~~~~~~~~~~~~\n      |                    |\n      |                    __gnu_cxx::__alloc_traits<std::allocator<std::__cxx11::basic_string<char> >, std::__cxx11::basic_string<char> >::value_type {aka std::__cxx11::basic_string<char>}\nresult/transcoder/c++_repair_eval_3/CAESAR_CIPHER.cpp:28:29: note:   initializing argument 1 of 'std::string f_filled(const char*, int)'\n   28 | string f_filled(const char* text,int s){\n      |                 ~~~~~~~~~~~~^~~~\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CAESAR_CIPHER"
+    },
+    {
+        "stdout": "#Results: 9, 10",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "CHECK_INTEGER_OVERFLOW_MULTIPLICATION"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_PALINDROME_SUB_STRINGS_STRING"
+    },
+    {
+        "stdout": "#Results: 8, 10",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "COUNT_SUBARRAYS_WITH_SAME_EVEN_AND_ODD_ELEMENTS"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DISCRETE_LOGARITHM_FIND_INTEGER_K_AK_CONGRUENT_MODULO_B"
+    },
+    {
+        "stdout": "",
+        "stderr": "CompError!result/transcoder/c++_repair_eval_3/FIND_EXPRESSION_DUPLICATE_PARENTHESIS_NOT.cpp: In function 'bool f_filled(std::string)':\nresult/transcoder/c++_repair_eval_3/FIND_EXPRESSION_DUPLICATE_PARENTHESIS_NOT.cpp:40:26: error: invalid conversion from 'const char*' to 'char*' [-fpermissive]\n   40 |   char * str = s . c_str ( ) ;\n      |                ~~~~~~~~~~^~~\n      |                          |\n      |                          const char*\nresult/transcoder/c++_repair_eval_3/FIND_EXPRESSION_DUPLICATE_PARENTHESIS_NOT.cpp:41:21: error: 'begin' was not declared in this scope\n   41 |   for ( char ch : * str ) {\n      |                     ^~~\nresult/transcoder/c++_repair_eval_3/FIND_EXPRESSION_DUPLICATE_PARENTHESIS_NOT.cpp:41:21: note: suggested alternatives:\nIn file included from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/stdc++.h:166,\n                 from result/transcoder/c++_repair_eval_3/FIND_EXPRESSION_DUPLICATE_PARENTHESIS_NOT.cpp:14:\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/valarray:1238:5: note:   'std::begin'\n 1238 |     begin(const valarray<_Tp>& __va) noexcept\n      |     ^~~~~\nIn file included from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/filesystem:53,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/stdc++.h:200:\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/fs_dir.h:607:3: note:   'std::filesystem::__cxx11::begin'\n  607 |   begin(recursive_directory_iterator __iter) noexcept\n      |   ^~~~~\nresult/transcoder/c++_repair_eval_3/FIND_EXPRESSION_DUPLICATE_PARENTHESIS_NOT.cpp:41:21: error: 'end' was not declared in this scope\n   41 |   for ( char ch : * str ) {\n      |                     ^~~\nresult/transcoder/c++_repair_eval_3/FIND_EXPRESSION_DUPLICATE_PARENTHESIS_NOT.cpp:41:21: note: suggested alternatives:\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/valarray:1265:5: note:   'std::end'\n 1265 |     end(const valarray<_Tp>& __va) noexcept\n      |     ^~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/fs_dir.h:612:3: note:   'std::filesystem::__cxx11::end'\n  612 |   end(recursive_directory_iterator) noexcept\n      |   ^~~\nresult/transcoder/c++_repair_eval_3/FIND_EXPRESSION_DUPLICATE_PARENTHESIS_NOT.cpp:46:15: error: invalid type argument of unary '*' (have 'char')\n   46 |       while ( * top != '(' ) {\n      |               ^~~~~\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_EXPRESSION_DUPLICATE_PARENTHESIS_NOT"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_MAXIMUM_DOT_PRODUCT_TWO_ARRAYS_INSERTION_0S"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_PAIR_MAXIMUM_GCD_ARRAY"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_PAIR_MAXIMUM_GCD_ARRAY_1"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LCS_FORMED_CONSECUTIVE_SEGMENTS_LEAST_LENGTH_K"
+    },
+    {
+        "stdout": "",
+        "stderr": "CompError!result/transcoder/c++_repair_eval_3/MAKE_LARGEST_PALINDROME_CHANGING_K_DIGITS.cpp: In function 'std::string f_filled(std::string, int)':\nresult/transcoder/c++_repair_eval_3/MAKE_LARGEST_PALINDROME_CHANGING_K_DIGITS.cpp:87:22: error: request for member 'length' in 'palin', which is of non-class type 'char [10]'\n   87 | for (int i=0;i<palin.length();i++){\n      |                      ^~~~~~\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MAKE_LARGEST_PALINDROME_CHANGING_K_DIGITS"
+    },
+    {
+        "stdout": "",
+        "stderr": "CompError!result/transcoder/c++_repair_eval_3/MAXIMUM_AREA_RECTANGLE_PICKING_FOUR_SIDES_ARRAY.cpp: In function 'int f_filled(int*, int)':\nresult/transcoder/c++_repair_eval_3/MAXIMUM_AREA_RECTANGLE_PICKING_FOUR_SIDES_ARRAY.cpp:28:26: error: 'cmp' was not declared in this scope\n   28 |   sort ( arr , arr + n , cmp ) ;\n      |                          ^~~\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MAXIMUM_AREA_RECTANGLE_PICKING_FOUR_SIDES_ARRAY"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_PRODUCT_SUBSET_ARRAY"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUM_BITONIC_SUBARRAY"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_TIME_WRITE_CHARACTERS_USING_INSERT_DELETE_COPY_OPERATION"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NUMBER_SUBSEQUENCES_STRING_DIVISIBLE_N"
+    },
+    {
+        "stdout": "",
+        "stderr": "CompError!result/transcoder/c++_repair_eval_3/PERMUTE_TWO_ARRAYS_SUM_EVERY_PAIR_GREATER_EQUAL_K.cpp: In function 'bool f_filled(int*, int32_t*, int, int)':\nresult/transcoder/c++_repair_eval_3/PERMUTE_TWO_ARRAYS_SUM_EVERY_PAIR_GREATER_EQUAL_K.cpp:27:19: error: cannot convert 'std::ostream_iterator<int>' to 'int*' in assignment\n   27 |   a = std :: copy ( a , a + n , std :: ostream_iterator < int32_t > ( std :: cout , \" \" ) ) ;\n      |       ~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n      |                   |\n      |                   std::ostream_iterator<int>\nresult/transcoder/c++_repair_eval_3/PERMUTE_TWO_ARRAYS_SUM_EVERY_PAIR_GREATER_EQUAL_K.cpp:28:19: error: cannot convert 'std::ostream_iterator<int>' to 'int32_t*' {aka 'int*'} in assignment\n   28 |   b = std :: copy ( b , b + n , std :: ostream_iterator < int32_t > ( std :: cout , \" \" ) ) ;\n      |       ~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n      |                   |\n      |                   std::ostream_iterator<int>\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "PERMUTE_TWO_ARRAYS_SUM_EVERY_PAIR_GREATER_EQUAL_K"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SIZE_SUBARRAY_MAXIMUM_SUM"
+    }
+]

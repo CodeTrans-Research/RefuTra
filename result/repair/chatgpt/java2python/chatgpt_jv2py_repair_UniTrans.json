@@ -1,0 +1,219 @@
+[
+    {
+        "stdout": "#Results: 9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MINIMUM_COST_CONNECT_WEIGHTED_NODES_REPRESENTED_ARRAY"
+    },
+    {
+        "stdout": "#Results: 9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "BREAK_NUMBER_THREE_PARTS_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "Traceback (most recent call last):\n  File \"/data/oyj/cstproject/result2/translate/chatgpt/java2python/python_fails_uni_repair/REMAINDER_7_LARGE_NUMBERS.py\", line 56, in <module>\n    filledres = f_filled(*parameters_set)\n  File \"/data/oyj/cstproject/result2/translate/chatgpt/java2python/python_fails_uni_repair/REMAINDER_7_LARGE_NUMBERS.py\", line 31, in f_filled\n    digit = int(num[i])\nValueError: invalid literal for int() with base 10: 'K'\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "REMAINDER_7_LARGE_NUMBERS"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_CENSOR_WORD_ASTERISKS_SENTENCE"
+    },
+    {
+        "stdout": "#Results: 0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D"
+    },
+    {
+        "stdout": "#Results: 5, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "SORT_ARRAY_APPLYING_GIVEN_EQUATION"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_GAMES_PLAYED_WINNER"
+    },
+    {
+        "stdout": "",
+        "stderr": "Traceback (most recent call last):\n  File \"/data/oyj/cstproject/result2/translate/chatgpt/java2python/python_fails_uni_repair/SORT_AN_ARRAY_OF_0S_1S_AND_2S.py\", line 70, in <module>\n    f_filled(*(filled_function_param[i]))\nTypeError: f_filled() takes 1 positional argument but 2 were given\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "SORT_AN_ARRAY_OF_0S_1S_AND_2S"
+    },
+    {
+        "stdout": "#Results: 0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "PROGRAM_TO_FIND_THE_AREA_OF_PENTAGON"
+    },
+    {
+        "stdout": "#Results: 9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MINIMUM_ROTATIONS_REQUIRED_GET_STRING"
+    },
+    {
+        "stdout": "Sum found between indexes 3 and 4\nSum found between indexes\n3 and 4\nNo subarray found\nNo subarray found\nSum found between indexes 0 and 29\nSum found between indexes\n0 and 29\nSum found between indexes 8 and 10\nSum found between indexes\n8 and 10\nNo subarray found\nNo subarray found\nSum found between indexes 0 and 16\nSum found between indexes\n0 and 16\nSum found between indexes 9 and 9\nSum found between indexes\n9 and 9\nNo subarray found\nSum found between indexes\n0 and 0\nSum found between indexes 0 and 0\nSum found between indexes\n0 and 0\nSum found between indexes 10 and 13\nSum found between indexes\n10 and 13\n#Results: 9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_SUBARRAY_WITH_GIVEN_SUM_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "Traceback (most recent call last):\n  File \"/data/oyj/cstproject/result2/translate/chatgpt/java2python/python_fails_uni_repair/CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT.py\", line 83, in <module>\n    filledres = f_filled(*parameters_set)\n  File \"/data/oyj/cstproject/result2/translate/chatgpt/java2python/python_fails_uni_repair/CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT.py\", line 55, in f_filled\n    i_val = int(num[i])\nValueError: invalid literal for int() with base 10: 'Y'\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT"
+    },
+    {
+        "stdout": "#Results: 7, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_A_ROTATION_WITH_MAXIMUM_HAMMING_DISTANCE"
+    },
+    {
+        "stdout": "#Results: 0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "CALCULATE_VOLUME_DODECAHEDRON"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NON_REPEATING_ELEMENT"
+    },
+    {
+        "stdout": "#Results: 8, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MAXIMUM_SUBARRAY_SUM_ARRAY_CREATED_REPEATED_CONCATENATION"
+    },
+    {
+        "stdout": "#Results: 1, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MINIMIZE_SUM_PRODUCT_TWO_ARRAYS_PERMUTATIONS_ALLOWED"
+    },
+    {
+        "stdout": "#Results: 8, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_MINIMUM_DIFFERENCE_PAIR_1"
+    },
+    {
+        "stdout": "#Results: 9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "PROGRAM_DECIMAL_BINARY_CONVERSION_2"
+    },
+    {
+        "stdout": "#Results: 6, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "ELEMENTS_TO_BE_ADDED_SO_THAT_ALL_ELEMENTS_OF_A_RANGE_ARE_PRESENT_IN_ARRAY"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "GNOME_SORT_A_STUPID_ONE"
+    },
+    {
+        "stdout": "",
+        "stderr": "Traceback (most recent call last):\n  File \"/data/oyj/cstproject/result2/translate/chatgpt/java2python/python_fails_uni_repair/MINIMUM_SUM_SUBSEQUENCE_LEAST_ONE_EVERY_FOUR_CONSECUTIVE_ELEMENTS_PICKED.py\", line 69, in <module>\n    filledres = f_filled(*parameters_set)\nNameError: name 'f_filled' is not defined\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MINIMUM_SUM_SUBSEQUENCE_LEAST_ONE_EVERY_FOUR_CONSECUTIVE_ELEMENTS_PICKED"
+    },
+    {
+        "stdout": "",
+        "stderr": "Traceback (most recent call last):\n  File \"/data/oyj/cstproject/result2/translate/chatgpt/java2python/python_fails_uni_repair/SUM_TWO_LARGE_NUMBERS.py\", line 82, in <module>\n    if f_filled(*parameters_set) == f_gold(*parameters_set):\n  File \"/data/oyj/cstproject/result2/translate/chatgpt/java2python/python_fails_uni_repair/SUM_TWO_LARGE_NUMBERS.py\", line 55, in f_filled\n    sum = (int(str1[i]) - int('0')) + (int(str2[i]) - int('0')) + carry\nValueError: invalid literal for int() with base 10: 'Z'\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "SUM_TWO_LARGE_NUMBERS"
+    },
+    {
+        "stdout": "",
+        "stderr": "Traceback (most recent call last):\n  File \"/data/oyj/cstproject/result2/translate/chatgpt/java2python/python_fails_uni_repair/MAXIMUM_SUM_ALTERNATING_SUBSEQUENCE_SUM.py\", line 74, in <module>\n    filledres = f_filled(*parameters_set)\n  File \"/data/oyj/cstproject/result2/translate/chatgpt/java2python/python_fails_uni_repair/MAXIMUM_SUM_ALTERNATING_SUBSEQUENCE_SUM.py\", line 40, in f_filled\n    dec[0] = inc[0] = arr[0]\nIndexError: list assignment index out of range\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MAXIMUM_SUM_ALTERNATING_SUBSEQUENCE_SUM"
+    },
+    {
+        "stdout": "",
+        "stderr": "Traceback (most recent call last):\n  File \"/data/oyj/cstproject/result2/translate/chatgpt/java2python/python_fails_uni_repair/FIND_MIRROR_IMAGE_POINT_2_D_PLANE.py\", line 47, in <module>\n    filledres = f_filled(*parameters_set)\nNameError: name 'f_filled' is not defined\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_MIRROR_IMAGE_POINT_2_D_PLANE"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LONGEST_PREFIX_ALSO_SUFFIX_1"
+    },
+    {
+        "stdout": "#Results: 6, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "CHECK_REVERSING_SUB_ARRAY_MAKE_ARRAY_SORTED_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "Traceback (most recent call last):\n  File \"/data/oyj/cstproject/result2/translate/chatgpt/java2python/python_fails_uni_repair/SHUFFLE_A_GIVEN_ARRAY.py\", line 52, in <module>\n    if set([filledres,goldres]) <= set([float(\"inf\"),sys.maxsize,2147483647]) or set([filledres,goldres]) <= set([float(\"-inf\"),-sys.maxsize-1,-sys.maxsize,-2147483648]):\nTypeError: unhashable type: 'list'\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "SHUFFLE_A_GIVEN_ARRAY"
+    },
+    {
+        "stdout": "#Results: 0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MAXIMUM_PRODUCT_SUBSET_ARRAY"
+    },
+    {
+        "stdout": "#Results: 0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "LEXICOGRAPHICALLY_LARGEST_SUBSEQUENCE_EVERY_CHARACTER_OCCURS_LEAST_K_TIMES"
+    },
+    {
+        "stdout": "#Results: 6, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "C_PROGRAM_FIND_LARGEST_ELEMENT_ARRAY_1"
+    }
+]

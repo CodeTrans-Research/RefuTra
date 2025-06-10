@@ -1,0 +1,16 @@
+def f_gold ( arr , n , k ) :
+    if k > n :
+        return - 1
+    sum = arr [ 0 ]
+    i=1 
+    while i<k :
+        sum += arr [ i ]
+        i += 1
+    max_sum , max_end = sum , k - 1
+    for i in range ( k , n ) :
+        sum = sum + arr [ i ] - arr [ i - k ]
+        if sum > max_sum :
+            max_sum = sum
+            max_end = i
+    return max_end - k + 1
+

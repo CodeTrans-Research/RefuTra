@@ -1,0 +1,44 @@
+[
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_WHETHER_A_GIVEN_NUMBER_IS_A_POWER_OF_4_OR_NOT_2"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/repair/chatgpt/python2java/java_repair_eval/FIND_MEDIAN_ROW_WISE_SORTED_MATRIX.java:60: error: cannot find symbol\n            int j = upper_bound(m[i], mid);\n                    ^\n  symbol:   method upper_bound(int[],int)\n  location: class FIND_MEDIAN_ROW_WISE_SORTED_MATRIX\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_MEDIAN_ROW_WISE_SORTED_MATRIX"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/repair/chatgpt/python2java/java_repair_eval/CONSTRUCT_LEXICOGRAPHICALLY_SMALLEST_PALINDROME.java:54: error: '(' expected\n        } else if string.charAt( i ) == '*' {\n                 ^\nresult2/repair/chatgpt/python2java/java_repair_eval/CONSTRUCT_LEXICOGRAPHICALLY_SMALLEST_PALINDROME.java:54: error: ')' expected\n        } else if string.charAt( i ) == '*' {\n                                           ^\nresult2/repair/chatgpt/python2java/java_repair_eval/CONSTRUCT_LEXICOGRAPHICALLY_SMALLEST_PALINDROME.java:57: error: '(' expected\n        } else if string.charAt( j ) == '*' {\n                 ^\nresult2/repair/chatgpt/python2java/java_repair_eval/CONSTRUCT_LEXICOGRAPHICALLY_SMALLEST_PALINDROME.java:57: error: ')' expected\n        } else if string.charAt( j ) == '*' {\n                                           ^\n4 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CONSTRUCT_LEXICOGRAPHICALLY_SMALLEST_PALINDROME"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_SERIES_23_45_67_89_UPTO_N_TERMS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_SUM_NODES_GIVEN_PERFECT_BINARY_TREE_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_DIGITS_FACTORIAL_SET_1"
+    }
+]

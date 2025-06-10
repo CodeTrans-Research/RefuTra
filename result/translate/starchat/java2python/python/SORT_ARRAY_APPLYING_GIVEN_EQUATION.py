@@ -1,0 +1,32 @@
+def f_gold(arr, n, A, B, C):
+        for i in range(n):
+            arr[i] = A * arr[i] * arr[i] + B * arr[i] + C
+        maximum = -999999
+        index = -1
+        for i in range(n):
+            if maximum < arr[i]:
+                index = i
+                maximum = arr[i]
+        i = 0
+        j = n - 1
+        new_arr = [0] * n
+        k = 0
+        while i < index and j > index:
+            if arr[i] < arr[j]:
+                new_arr[k] = arr[i]
+                i += 1
+                k += 1
+            else:
+                new_arr[k] = arr[j]
+                j -= 1
+                k += 1
+        while i < index:
+            new_arr[k] = arr[i]
+            i += 1
+            k += 1
+        while j > index:
+            new_arr[k] = arr[j]
+            j -= 1
+            k += 1
+        new_arr[n - 1] = maximum
+        for

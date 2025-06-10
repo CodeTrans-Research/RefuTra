@@ -1,0 +1,2762 @@
+{
+    "FINDING_POWER_PRIME_NUMBER_P_N_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "HORNERS_METHOD_POLYNOMIAL_EVALUATION": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_SUM_PRODUCT_TWO_ARRAYS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MODULAR_EXPONENTIATION_POWER_IN_MODULAR_ARITHMETIC": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_SUM_IARRI_AMONG_ROTATIONS_GIVEN_ARRAY_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_CHECK_INPUT_INTEGER_STRING": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "REMOVE_MINIMUM_ELEMENTS_EITHER_SIDE_2MIN_MAX": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/REMOVE_MINIMUM_ELEMENTS_EITHER_SIDE_2MIN_MAX.py:12: error: Name \"sys\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/REMOVE_MINIMUM_ELEMENTS_EITHER_SIDE_2MIN_MAX.py:13: error: Name \"sys\" is not defined  [name-defined]\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "CHECK_ARRAY_MAJORITY_ELEMENT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "DECIMAL_BINARY_CONVERSION_WITHOUT_USING_ARITHMETIC_OPERATORS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "ELEMENTS_TO_BE_ADDED_SO_THAT_ALL_ELEMENTS_OF_A_RANGE_ARE_PRESENT_IN_ARRAY_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PRINT_A_CLOSEST_STRING_THAT_DOES_NOT_CONTAIN_ADJACENT_DUPLICATES": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "MARKOV_MATRIX": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "j++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 5,
+                "old": "for ( int j = 0; j < m[0].length; j++ ) ",
+                "new": "for (int j=0;j<m[i].length;j++)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "EVEN_FIBONACCI_NUMBERS_SUM": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHANGE_BITS_CAN_MADE_ONE_FLIP": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/CHANGE_BITS_CAN_MADE_ONE_FLIP.py:12: error: Variable \"str\" is not valid as a type  [valid-type]\nresult2/check/starchat/python2java/python_typed/CHANGE_BITS_CAN_MADE_ONE_FLIP.py:12: note: See https://mypy.readthedocs.io/en/stable/common_issues.html#variables-vs-type-aliases\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "DYNAMIC_PROGRAMMING_SET_3_LONGEST_INCREASING_SUBSEQUENCE_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_SUM_SUBARRAY_REMOVING_ONE_ELEMENT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "LONGEST_SUBARRAY_COUNT_1S_ONE_COUNT_0S": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_TO_CHECK_IF_A_MATRIX_IS_SYMMETRIC": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SQUARE_PYRAMIDAL_NUMBER_SUM_SQUARES": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": "    while ( _sum < s ) :",
+                "changetype": "type_OperatorStr"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/SQUARE_PYRAMIDAL_NUMBER_SUM_SQUARES.py:11: error: Unsupported operand types for < (\"int\" and \"str\")  [operator]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "MINIMUM_NUMBER_SUBSETS_DISTINCT_ELEMENTS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_STRING_FOLLOWS_ANBN_PATTERN_NOT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_WHETHER_GIVEN_NUMBER_EVEN_ODD": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_INDEX_PAIRS_EQUAL_ELEMENTS_ARRAY_1": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "TOTAL_NUMBER_OF_NON_DECREASING_NUMBERS_WITH_N_DIGITS_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_PRODUCT_INCREASING_SUBSEQUENCE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_K_TH_GROUP_ODD_POSITIVE_NUMBERS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_NUMBER_OF_WAYS_TO_PARTITION_A_SET_INTO_K_SUBSETS_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "HOW_TO_BEGIN_WITH_COMPETITIVE_PROGRAMMING": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "RECURSIVE_PROGRAM_PRIME_NUMBER": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/RECURSIVE_PROGRAM_PRIME_NUMBER.py:14: error: Name \"true\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "FIND_WHETHER_A_GIVEN_NUMBER_IS_A_POWER_OF_4_OR_NOT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_PRODUCT_SUBSET_ARRAY": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "FRIENDS_PAIRING_PROBLEM_2": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "DISTRIBUTING_M_ITEMS_CIRCLE_SIZE_N_STARTING_K_TH_POSITION": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_CHECK_ISBN": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_SUBARRAY_SUM_ARRAY_CREATED_REPEATED_CONCATENATION": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "STEINS_ALGORITHM_FOR_FINDING_GCD": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_MINIMUM_ELEMENT_IN_A_SORTED_AND_ROTATED_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_THE_MINIMUM_DISTANCE_BETWEEN_TWO_NUMBERS": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "COUNT_POSSIBLE_PATHS_TOP_LEFT_BOTTOM_RIGHT_NXM_MATRIX_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SORT_ARRAY_TWO_HALVES_SORTED": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/SORT_ARRAY_TWO_HALVES_SORTED.py:8: error: Missing return statement  [return]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "FIND_N_TH_ELEMENT_FROM_STERNS_DIATOMIC_SERIES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_AREA_SQUARE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_SUBARRAY_SUM_USING_PREFIX_SUM": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MAXIMUM_SUBARRAY_SUM_USING_PREFIX_SUM.py:10: error: Incompatible types in assignment (expression has type \"float\", variable has type \"int\")  [assignment]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "SORT_ARRAY_APPLYING_GIVEN_EQUATION": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/SORT_ARRAY_APPLYING_GIVEN_EQUATION.py:11: error: Name \"sys\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/SORT_ARRAY_APPLYING_GIVEN_EQUATION.py:12: error: Name \"sys\" is not defined  [name-defined]\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "LONGEST_REPEATED_SUBSEQUENCE_1": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "SUM_PAIRWISE_PRODUCTS_2": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_SUM_IARRI_AMONG_ROTATIONS_GIVEN_ARRAY": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MAXIMUM_SUM_IARRI_AMONG_ROTATIONS_GIVEN_ARRAY.py:9: error: Name \"sys\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "SWAP_TWO_NUMBERS_WITHOUT_USING_TEMPORARY_VARIABLE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_POINTS_INTERSECTION_N_CIRCLES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "LEXICOGRAPHICALLY_MINIMUM_STRING_ROTATION": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/LEXICOGRAPHICALLY_MINIMUM_STRING_ROTATION.py:10: error: List item 0 has incompatible type \"int\"; expected \"str\"  [list-item]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "MAXIMUM_DIFFERENCE_BETWEEN_FREQUENCY_OF_TWO_ELEMENTS_SUCH_THAT_ELEMENT_HAVING_GREATER_FREQUENCY_IS_ALSO_GREATER": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "j++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_init": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 9,
+                "old": "for ( int j = i + 1 ; j < n ; j ++ ) ",
+                "new": "for (int j=0;j<n;j++)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MAXIMUM_DIFFERENCE_BETWEEN_FREQUENCY_OF_TWO_ELEMENTS_SUCH_THAT_ELEMENT_HAVING_GREATER_FREQUENCY_IS_ALSO_GREATER.py:9: error: Name \"defaultdict\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "COUNT_DIGITS_FACTORIAL_SET_1": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": "        digits += math.log10 ( i ) ",
+                "changetype": "type_AssignFloatint"
+            },
+            {
+                "type": "del",
+                "line": 6,
+                "changetype": "type_floatint"
+            },
+            {
+                "type": "add",
+                "line": 6,
+                "content": "        for ( double i = 2 ; i <= n ; i++ ) digits +=  ( Math.log10 ( i ) + 0.5 );",
+                "changetype": "type_floatint"
+            },
+            {
+                "type": "del",
+                "line": 5,
+                "changetype": "type_floatint"
+            },
+            {
+                "type": "add",
+                "line": 5,
+                "content": "        double digits = 0;",
+                "changetype": "type_floatint"
+            },
+            {
+                "type": "del",
+                "line": 2,
+                "changetype": "type_decl"
+            },
+            {
+                "type": "add",
+                "line": 2,
+                "content": "double f_gold(int n){",
+                "changetype": "type_decl"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/COUNT_DIGITS_FACTORIAL_SET_1.py:15: error: Incompatible types in assignment (expression has type \"float\", variable has type \"int\")  [assignment]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "DIVISIBILITY_BY_12_FOR_A_LARGE_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_POSSIBLE_PATHS_TOP_LEFT_BOTTOM_RIGHT_NXM_MATRIX_3": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "i++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 4,
+                "old": "for ( int i = n ; i <= m + n - 1 ; i++ ) ",
+                "new": "for (int i=n;i<m+n-1;i++)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/COUNT_POSSIBLE_PATHS_TOP_LEFT_BOTTOM_RIGHT_NXM_MATRIX_3.py:10: error: Name \"path\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/COUNT_POSSIBLE_PATHS_TOP_LEFT_BOTTOM_RIGHT_NXM_MATRIX_3.py:11: error: Name \"path\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/COUNT_POSSIBLE_PATHS_TOP_LEFT_BOTTOM_RIGHT_NXM_MATRIX_3.py:12: error: Name \"path\" is not defined  [name-defined]\nFound 3 errors in 1 file (checked 1 source file)\n"
+    },
+    "DICE_THROW_PROBLEM": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "j++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content",
+                    "for_init": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 4,
+                "old": "for ( int j = 0; j < x + 1; j++ ) ",
+                "new": "for (int j=1;j<Math.min(m+1,x+1);j++)",
+                "changetype": "for"
+            },
+            {
+                "type": "add",
+                "content": [
+                    "k++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 9,
+                "old": "for ( int k = 1; k <= Math.min(m, j); k++ ) ",
+                "new": "for (int k=1;k<Math.min(m+1,j);k++)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_PROFIT_BY_BUYING_AND_SELLING_A_SHARE_AT_MOST_TWICE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_SUM_SUBSEQUENCE_LEAST_ONE_EVERY_FOUR_CONSECUTIVE_ELEMENTS_PICKED": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "COUNT_WAYS_BUILD_STREET_GIVEN_CONSTRAINTS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_MAXIMUM_AVERAGE_SUBARRAY_OF_K_LENGTH_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "C_PROGRAM_FIND_LARGEST_ELEMENT_ARRAY_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "DYNAMIC_PROGRAMMING_SET_28_MINIMUM_INSERTIONS_TO_FORM_A_PALINDROME": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/DYNAMIC_PROGRAMMING_SET_28_MINIMUM_INSERTIONS_TO_FORM_A_PALINDROME.py:10: error: Name \"sys\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "SEARCH_AN_ELEMENT_IN_A_SORTED_AND_PIVOTED_ARRAY": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "FIND_WHETHER_GIVEN_INTEGER_POWER_3_NOT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "ELEMENTS_TO_BE_ADDED_SO_THAT_ALL_ELEMENTS_OF_A_RANGE_ARE_PRESENT_IN_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_1S_SORTED_BINARY_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_BINARY_STRINGS_K_TIMES_APPEARING_ADJACENT_TWO_SET_BITS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_LENGTH_SUBARRAY_SUM_GREATER_GIVEN_VALUE_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "LCS_FORMED_CONSECUTIVE_SEGMENTS_LEAST_LENGTH_K": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "WRITE_ONE_LINE_C_FUNCTION_TO_FIND_WHETHER_A_NO_IS_POWER_OF_TWO_1": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/WRITE_ONE_LINE_C_FUNCTION_TO_FIND_WHETHER_A_NO_IS_POWER_OF_TWO_1.py:9: error: Incompatible return value type (got \"int\", expected \"bool\")  [return-value]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "MAXIMIZE_VOLUME_CUBOID_GIVEN_SUM_SIDES_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SQUARED_TRIANGULAR_NUMBER_SUM_CUBES": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": "    while ( _sum < s ) :",
+                "changetype": "type_OperatorStr"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/SQUARED_TRIANGULAR_NUMBER_SUM_CUBES.py:11: error: Unsupported operand types for < (\"int\" and \"str\")  [operator]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "MINIMUM_ROTATIONS_UNLOCK_CIRCULAR_LOCK": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SEARCH_ALMOST_SORTED_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "POSSIBLE_FORM_TRIANGLE_ARRAY_VALUES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_NUMBER_WAYS_REACH_GIVEN_SCORE_GAME": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_PRODUCT_K_INTEGERS_ARRAY_POSITIVE_INTEGERS": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "SPLIT_ARRAY_ADD_FIRST_PART_END": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PAIR_WITH_GIVEN_PRODUCT_SET_1_FIND_IF_ANY_PAIR_EXISTS_1": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "STOOGE_SORT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_STEPS_MINIMIZE_N_PER_GIVEN_CONDITION": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NUMBER_N_DIGITS_NON_DECREASING_INTEGERS": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/NUMBER_N_DIGITS_NON_DECREASING_INTEGERS.py:9: error: Incompatible types in assignment (expression has type \"ndarray[Any, dtype[floating[_64Bit]]]\", variable has type \"list[list[int]]\")  [assignment]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "LONGEST_REPEATING_SUBSEQUENCE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMIZE_ARRJ_ARRI_ARRL_ARRK_SUCH_THAT_I_J_K_L": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MAXIMIZE_ARRJ_ARRI_ARRL_ARRK_SUCH_THAT_I_J_K_L.py:11: error: Name \"MIN\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/MAXIMIZE_ARRJ_ARRI_ARRL_ARRK_SUCH_THAT_I_J_K_L.py:12: error: Name \"MIN\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/MAXIMIZE_ARRJ_ARRI_ARRL_ARRK_SUCH_THAT_I_J_K_L.py:13: error: Name \"MIN\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/MAXIMIZE_ARRJ_ARRI_ARRL_ARRK_SUCH_THAT_I_J_K_L.py:14: error: Name \"MIN\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/MAXIMIZE_ARRJ_ARRI_ARRL_ARRK_SUCH_THAT_I_J_K_L.py:15: error: Name \"MIN\" is not defined  [name-defined]\nFound 5 errors in 1 file (checked 1 source file)\n"
+    },
+    "COUNT_NEGATIVE_NUMBERS_IN_A_COLUMN_WISE_ROW_WISE_SORTED_MATRIX": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NEWMAN_CONWAY_SEQUENCE_1": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/NEWMAN_CONWAY_SEQUENCE_1.py:9: error: Name \"array\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "FIND_THREE_ELEMENT_FROM_DIFFERENT_THREE_ARRAYS_SUCH_THAT_THAT_A_B_C_K_1": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "CHECK_REVERSING_SUB_ARRAY_MAKE_ARRAY_SORTED_1": {
+        "change": [
+            {
+                "type": "add",
+                "content": "( i == n - 1 )",
+                "line": -1,
+                "changetype": "ifcond"
+            },
+            {
+                "type": "replace",
+                "old": "( i == n - 1 )",
+                "new": "( i == n )",
+                "line": 11,
+                "changetype": "ifcond"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "REPLACE_CHARACTER_C1_C2_C2_C1_STRING_S": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/REPLACE_CHARACTER_C1_C2_C2_C1_STRING_S.py:12: error: Unsupported operand types for + (\"str\" and \"int\")  [operator]\nresult2/check/starchat/python2java/python_typed/REPLACE_CHARACTER_C1_C2_C2_C1_STRING_S.py:12: note: Right operand is of type \"str | int\"\nresult2/check/starchat/python2java/python_typed/REPLACE_CHARACTER_C1_C2_C2_C1_STRING_S.py:14: error: Unsupported operand types for + (\"str\" and \"int\")  [operator]\nresult2/check/starchat/python2java/python_typed/REPLACE_CHARACTER_C1_C2_C2_C1_STRING_S.py:14: note: Right operand is of type \"str | int\"\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "CHANGE_BITS_CAN_MADE_ONE_FLIP_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_HARMONIC_MEAN_USING_ARITHMETIC_MEAN_GEOMETRIC_MEAN": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "DYNAMIC_PROGRAMMING_SET_8_MATRIX_CHAIN_MULTIPLICATION": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/DYNAMIC_PROGRAMMING_SET_8_MATRIX_CHAIN_MULTIPLICATION.py:11: error: Name \"sys\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "LONGEST_EVEN_LENGTH_SUBSTRING_SUM_FIRST_SECOND_HALF_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_MAXIMUM_PRODUCT_OF_A_TRIPLET_IN_ARRAY": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/FIND_MAXIMUM_PRODUCT_OF_A_TRIPLET_IN_ARRAY.py:11: error: Name \"sys\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "PARTITION_INTO_TWO_SUBARRAYS_OF_LENGTHS_K_AND_N_K_SUCH_THAT_THE_DIFFERENCE_OF_SUMS_IS_MAXIMUM": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "ROW_WISE_COMMON_ELEMENTS_TWO_DIAGONALS_SQUARE_MATRIX": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_INVERSIONS_OF_SIZE_THREE_IN_A_GIVE_ARRAY_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_THE_MAXIMUM_ELEMENT_IN_AN_ARRAY_WHICH_IS_FIRST_INCREASING_AND_THEN_DECREASING": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_WHETHER_TRIANGLE_VALID_NOT_SIDES_GIVEN": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_PAIRWISE_PRODUCTS_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SORT_ARRAY_CONTAIN_1_N_VALUES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_BINOMIAL_COEFFICIENTS": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "j++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 5,
+                "old": "for ( int j = 0; j < n + 2; j++ ) ",
+                "new": "for (int j=0;j<Math.min(i,n)+1;j++)",
+                "changetype": "for"
+            },
+            {
+                "type": "add",
+                "content": [
+                    "i++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 4,
+                "old": "for ( int i = 0; i < n + 2; i++ ) ",
+                "new": "for (int i=0;i<n+1;i++)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "WAYS_TO_WRITE_N_AS_SUM_OF_TWO_OR_MORE_POSITIVE_INTEGERS": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "i++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 5,
+                "old": "for ( int i = 1; i <= n; i++ ) ",
+                "new": "for (int i=1;i<n;i++)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MEDIAN_OF_TWO_SORTED_ARRAYS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SEARCHING_ARRAY_ADJACENT_DIFFER_K": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_FIND_STRING_START_END_GEEKS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_BINARY_DECIMAL_CONVERSION_1": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": "    num = n ;",
+                "changetype": "type_AssignStrint"
+            },
+            {
+                "type": "add",
+                "line": -1,
+                "content": "    len1 = len ( num ) ;",
+                "changetype": "type_ArgLen"
+            },
+            {
+                "type": "add",
+                "line": -1,
+                "content": "        if ( num [ i ] == '1' ) :",
+                "changetype": "type_indexable"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/PROGRAM_BINARY_DECIMAL_CONVERSION_1.py:9: error: Incompatible types in assignment (expression has type \"str\", variable has type \"int\")  [assignment]\nresult2/check/starchat/python2java/python_typed/PROGRAM_BINARY_DECIMAL_CONVERSION_1.py:12: error: Argument 1 to \"len\" has incompatible type \"int\"; expected \"Sized\"  [arg-type]\nresult2/check/starchat/python2java/python_typed/PROGRAM_BINARY_DECIMAL_CONVERSION_1.py:14: error: Value of type \"int\" is not indexable  [index]\nFound 3 errors in 1 file (checked 1 source file)\n"
+    },
+    "HOW_TO_CHECK_IF_A_GIVEN_ARRAY_REPRESENTS_A_BINARY_HEAP": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_POSSIBLE_PATHS_TOP_LEFT_BOTTOM_RIGHT_NXM_MATRIX_2": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_A_TRIPLET_THAT_SUM_TO_A_GIVEN_VALUE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_IF_A_NUMBER_IS_POWER_OF_ANOTHER_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NUMBER_SUBSTRINGS_STRING": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "ZECKENDORFS_THEOREM_NON_NEIGHBOURING_FIBONACCI_REPRESENTATION": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_ONE_EXTRA_CHARACTER_STRING_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "BASIC_AND_EXTENDED_EUCLIDEAN_ALGORITHMS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "DYNAMIC_PROGRAMMING_HIGH_EFFORT_VS_LOW_EFFORT_TASKS_PROBLEM": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_PALINDROME_SUB_STRINGS_STRING": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NUMBER_SUBSEQUENCES_AB_STRING_REPEATED_K_TIMES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_SUM_EVEN_FACTORS_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_SET_BITS_IN_AN_INTEGER_2": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "LONGEST_SUBARRAY_SUM_DIVISIBLE_K": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "SQUARE_ROOT_OF_A_PERFECT_SQUARE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_AVERAGE_SUM_PARTITION_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_TO_FIND_REMAINDER_WITHOUT_USING_MODULO_OR_OPERATOR": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "DIVISIBILITY_BY_7": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NEXT_HIGHER_NUMBER_WITH_SAME_NUMBER_OF_SET_BITS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_PRINT_IDENTITY_MATRIX_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_TRAILING_ZEROES_FACTORIAL_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MIDDLE_OF_THREE_USING_MINIMUM_COMPARISONS_2": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PRIMALITY_TEST_SET_1_INTRODUCTION_AND_SCHOOL_METHOD_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_WHETHER_A_GIVEN_NUMBER_IS_A_POWER_OF_4_OR_NOT_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SMALLEST_POWER_OF_2_GREATER_THAN_OR_EQUAL_TO_N_2": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_THE_FIRST_MISSING_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_SUM_EVEN_INDEX_BINOMIAL_COEFFICIENTS_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "GIVEN_A_SORTED_AND_ROTATED_ARRAY_FIND_IF_THERE_IS_A_PAIR_WITH_A_GIVEN_SUM_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NON_REPEATING_ELEMENT_1": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/NON_REPEATING_ELEMENT_1.py:9: error: Name \"defaultdict\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "SORT_EVEN_NUMBERS_ASCENDING_ORDER_SORT_ODD_NUMBERS_DESCENDING_ORDER_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.py:9: error: List item 0 has incompatible type \"None\"; expected \"int\"  [list-item]\nresult2/check/starchat/python2java/python_typed/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.py:10: error: No overload variant of \"__setitem__\" of \"list\" matches argument types \"int\", \"float\"  [call-overload]\nresult2/check/starchat/python2java/python_typed/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.py:10: note: Possible overload variants:\nresult2/check/starchat/python2java/python_typed/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.py:10: note:     def __setitem__(self, SupportsIndex, int, /) -> None\nresult2/check/starchat/python2java/python_typed/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.py:10: note:     def __setitem__(self, slice, Iterable[int], /) -> None\nresult2/check/starchat/python2java/python_typed/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.py:13: error: Incompatible types in assignment (expression has type \"float\", variable has type \"int\")  [assignment]\nFound 3 errors in 1 file (checked 1 source file)\n"
+    },
+    "NEXT_POWER_OF_2_2": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "BREAK_NUMBER_THREE_PARTS_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_NUMBER_TIMES_STRING_OCCURS_GIVEN_STRING_1": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "i++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 6,
+                "old": "for ( int i = 0; i <= m; i++ ) ",
+                "new": "for (int i=0;i<n+1;i++)",
+                "changetype": "for"
+            },
+            {
+                "type": "add",
+                "content": [
+                    "i++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 9,
+                "old": "for ( int i = 0; i <= n; i++ ) ",
+                "new": "for (int i=0;i<m+1;i++)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_TRIPLET_SUM_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_TO_CHECK_IF_A_GIVEN_NUMBER_IS_LUCKY_ALL_DIGITS_ARE_DIFFERENT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_NUMBER_IS_PERFECT_SQUARE_USING_ADDITIONSUBTRACTION": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NUMBER_N_DIGIT_STEPPING_NUMBERS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "OVERLAPPING_SUM_TWO_ARRAY": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/OVERLAPPING_SUM_TWO_ARRAY.py:9: error: Name \"defaultdict\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "DYNAMIC_PROGRAMMING_SET_37_BOOLEAN_PARENTHESIZATION_PROBLEM": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/DYNAMIC_PROGRAMMING_SET_37_BOOLEAN_PARENTHESIZATION_PROBLEM.py:21: error: Name \"i\" already defined on line 11  [no-redef]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "PRIME_NUMBERS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "LONGEST_EVEN_LENGTH_SUBSTRING_SUM_FIRST_SECOND_HALF": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "j=j+2"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 6,
+                "old": "for ( int j = i + 1; j <= n; j += 2 ) ",
+                "new": "for (int j=i+1;j<n;j=j+2)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_SUM_SUBSEQUENCE_LEAST_K_DISTANT_ELEMENTS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "RECURSIVE_C_PROGRAM_LINEARLY_SEARCH_ELEMENT_GIVEN_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_POSSIBLE_DIFFERENCE_TWO_SUBSETS_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_1": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_1.py:11: error: Incompatible return value type (got \"float\", expected \"int\")  [return-value]\nresult2/check/starchat/python2java/python_typed/MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_1.py:14: error: No overload variant of \"__setitem__\" of \"list\" matches argument types \"int\", \"float\"  [call-overload]\nresult2/check/starchat/python2java/python_typed/MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_1.py:14: note: Possible overload variants:\nresult2/check/starchat/python2java/python_typed/MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_1.py:14: note:     def __setitem__(self, SupportsIndex, int, /) -> None\nresult2/check/starchat/python2java/python_typed/MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_1.py:14: note:     def __setitem__(self, slice, Iterable[int], /) -> None\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "HEXAGONAL_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "N_TH_TERM_SERIES_2_12_36_80_150": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_OF_SUB_STRINGS_THAT_DO_NOT_CONTAIN_ALL_THE_CHARACTERS_FROM_THE_SET_A_B_C_AT_THE_SAME_TIME": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FRIENDS_PAIRING_PROBLEM": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NEXT_POWER_OF_2": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_SET_BITS_IN_AN_INTEGER_3": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_PAIRS_TWO_SORTED_ARRAYS_WHOSE_SUM_EQUAL_GIVEN_VALUE_X": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIRST_ELEMENT_OCCURRING_K_TIMES_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_STRINGS_CAN_FORMED_USING_B_C_GIVEN_CONSTRAINTS_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "K_TH_MISSING_ELEMENT_INCREASING_SEQUENCE_NOT_PRESENT_GIVEN_SEQUENCE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_DERANGEMENTS_PERMUTATION_SUCH_THAT_NO_ELEMENT_APPEARS_IN_ITS_ORIGINAL_POSITION_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_XOR_VALUE_PAIR": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_FIND_CIRCUMFERENCE_CIRCLE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CEILING_IN_A_SORTED_ARRAY_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_LARGE_NUMBER_DIVISIBLE_11_NOT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PYTHON_PROGRAM_FIND_PERIMETER_CIRCUMFERENCE_SQUARE_RECTANGLE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "N_TH_ROOT_NUMBER": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/N_TH_ROOT_NUMBER.py:9: error: Name \"random\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/N_TH_ROOT_NUMBER.py:10: error: Name \"random\" is not defined  [name-defined]\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "SMALLEST_OF_THREE_INTEGERS_WITHOUT_COMPARISON_OPERATORS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_SUBSEQUENCE_SUM_SUCH_THAT_NO_THREE_ARE_CONSECUTIVE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PRINT_MAXIMUM_SHORTEST_DISTANCE": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/PRINT_MAXIMUM_SHORTEST_DISTANCE.py:17: error: Name \"sys\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "GIVEN_P_AND_N_FIND_THE_LARGEST_X_SUCH_THAT_PX_DIVIDES_N_2": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_FIRST_NATURAL_NUMBER_WHOSE_FACTORIAL_DIVISIBLE_X": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_SET_BITS_IN_AN_INTEGER_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NTH_EVEN_LENGTH_PALINDROME": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "j--"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content",
+                    "for_update": "content",
+                    "for_init": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 4,
+                "old": "for ( int j = 0; j < n. length ; j ++ ) ",
+                "new": "for (int j=n.length-1;j>-1;j--)",
+                "changetype": "for"
+            },
+            {
+                "type": "add",
+                "line": -1,
+                "content": "    res = n",
+                "changetype": "type_AssignPrimclct"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/NTH_EVEN_LENGTH_PALINDROME.py:9: error: Incompatible types in assignment (expression has type \"list[int]\", variable has type \"int\")  [assignment]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "TURN_OFF_THE_RIGHTMOST_SET_BIT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FORM_MINIMUM_NUMBER_FROM_GIVEN_SEQUENCE_1": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "j--"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 9,
+                "old": "for ( int j = i - 1; j >= 0 && seq. charAt ( j ) == 'I'; j-- ) ",
+                "new": "for (int j=i-1;j>-2;j--)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NUMBER_SUBSEQUENCES_STRING_DIVISIBLE_N": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_MATRIX_ELEMENT_ABSOLUTE_DIFFERENCE_ROW_COLUMN_NUMBERS_2": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_A_ROTATION_WITH_MAXIMUM_HAMMING_DISTANCE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_DECIMAL_BINARY_CONVERSION_2": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "HOW_TO_TURN_OFF_A_PARTICULAR_BIT_IN_A_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_SUM_PAIRS_SPECIFIC_DIFFERENCE_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_WAYS_DIVIDE_CIRCLE_USING_N_NON_INTERSECTING_CHORDS": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "j=j+2"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 8,
+                "old": "for ( int j = 0; j < i - 2; j += 2 ) ",
+                "new": "for (int j=0;j<i-1;j=j+2)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_DISTINCT_NON_NEGATIVE_PAIRS_X_Y_SATISFY_INEQUALITY_XX_YY_N_2_1": {
+        "change": [
+            {
+                "type": "add",
+                "content": "yCount!=0and(x*x+(yCount-1)*(yCount-1)>=n)",
+                "line": -1,
+                "changetype": "whileloop"
+            },
+            {
+                "type": "replace",
+                "line": 8,
+                "old": "while ( yCount > 0 && ( x * x + ( yCount - 1 ) * ( yCount - 1 ) >= n ) ) ",
+                "new": "while (yCount!=0&&(x*x+(yCount-1)*(yCount-1)>=n))",
+                "changetype": "while"
+            },
+            {
+                "type": "add",
+                "content": "yCount!=0",
+                "line": -1,
+                "changetype": "whileloop"
+            },
+            {
+                "type": "replace",
+                "line": 5,
+                "old": "while ( yCount > 0 ) ",
+                "new": "while (yCount!=0)",
+                "changetype": "while"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NEXT_POWER_OF_2_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CONVERT_STRICTLY_INCREASING_ARRAY_MINIMUM_CHANGES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_COST_TO_FILL_GIVEN_WEIGHT_IN_A_BAG": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MINIMUM_COST_TO_FILL_GIVEN_WEIGHT_IN_A_BAG.py:20: error: Name \"sys\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/MINIMUM_COST_TO_FILL_GIVEN_WEIGHT_IN_A_BAG.py:29: error: Name \"sys\" is not defined  [name-defined]\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "COUNT_PAIRS_DIFFERENCE_EQUAL_K": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_WHETHER_A_GIVEN_NUMBER_IS_A_POWER_OF_4_OR_NOT_2": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SMALLEST_POWER_OF_2_GREATER_THAN_OR_EQUAL_TO_N_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_FIND_SMALLEST_DIFFERENCE_ANGLES_TWO_PARTS_GIVEN_CIRCLE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_ROTATION_COUNT_ROTATED_SORTED_ARRAY_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "WRITE_AN_EFFICIENT_METHOD_TO_CHECK_IF_A_NUMBER_IS_MULTIPLE_OF_3": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_FOR_DEADLOCK_FREE_CONDITION_IN_OPERATING_SYSTEM": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "DIFFERENCE_BETWEEN_HIGHEST_AND_LEAST_FREQUENCIES_IN_AN_ARRAY": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/DIFFERENCE_BETWEEN_HIGHEST_AND_LEAST_FREQUENCIES_IN_AN_ARRAY.py:13: error: Cannot determine type of \"count\"  [has-type]\nresult2/check/starchat/python2java/python_typed/DIFFERENCE_BETWEEN_HIGHEST_AND_LEAST_FREQUENCIES_IN_AN_ARRAY.py:16: error: Cannot determine type of \"max_count\"  [has-type]\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "PROGRAM_OCTAL_DECIMAL_CONVERSION": {
+        "change": [
+            {
+                "type": "add",
+                "content": "temp",
+                "line": -1,
+                "changetype": "whileloop"
+            },
+            {
+                "type": "replace",
+                "line": 4,
+                "old": "while (num > 0) ",
+                "new": "while (temp)",
+                "changetype": "while"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MIDDLE_OF_THREE_USING_MINIMUM_COMPARISONS_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_TWO_GIVEN_CIRCLES_TOUCH_INTERSECT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "ADD_1_TO_A_GIVEN_NUMBER_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_ROTATIONS_DIVISIBLE_8": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNTING_PAIRS_PERSON_CAN_FORM_PAIR_ONE_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_2": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_2.py:12: error: No overload variant of \"__setitem__\" of \"list\" matches argument types \"int\", \"float\"  [call-overload]\nresult2/check/starchat/python2java/python_typed/MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_2.py:12: note: Possible overload variants:\nresult2/check/starchat/python2java/python_typed/MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_2.py:12: note:     def __setitem__(self, SupportsIndex, int, /) -> None\nresult2/check/starchat/python2java/python_typed/MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_2.py:12: note:     def __setitem__(self, slice, Iterable[int], /) -> None\nresult2/check/starchat/python2java/python_typed/MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_2.py:16: error: Incompatible types in assignment (expression has type \"float\", variable has type \"int\")  [assignment]\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "SEARCH_AN_ELEMENT_IN_AN_ARRAY_WHERE_DIFFERENCE_BETWEEN_ADJACENT_ELEMENTS_IS_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_INDEX_OF_AN_EXTRA_ELEMENT_PRESENT_IN_ONE_SORTED_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "LEXICOGRAPHICAL_CONCATENATION_SUBSTRINGS_STRING": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/LEXICOGRAPHICAL_CONCATENATION_SUBSTRINGS_STRING.py:11: error: List item 0 has incompatible type \"int\"; expected \"str\"  [list-item]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "LENGTH_OF_THE_LONGEST_ARITHMATIC_PROGRESSION_IN_A_SORTED_ARRAY": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "COUNT_PAIRS_DIFFERENCE_EQUAL_K_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "DOUBLE_FACTORIAL_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "HEIGHT_COMPLETE_BINARY_TREE_HEAP_N_NODES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_FOR_FACTORIAL_OF_A_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_SUM_PAIRS_SPECIFIC_DIFFERENCE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_ROTATIONS_REQUIRED_GET_STRING": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MINIMUM_ROTATIONS_REQUIRED_GET_STRING.py:9: error: Variable \"str\" is not valid as a type  [valid-type]\nresult2/check/starchat/python2java/python_typed/MINIMUM_ROTATIONS_REQUIRED_GET_STRING.py:9: note: See https://mypy.readthedocs.io/en/stable/common_issues.html#variables-vs-type-aliases\nresult2/check/starchat/python2java/python_typed/MINIMUM_ROTATIONS_REQUIRED_GET_STRING.py:12: error: Variable \"str\" is not valid as a type  [valid-type]\nresult2/check/starchat/python2java/python_typed/MINIMUM_ROTATIONS_REQUIRED_GET_STRING.py:12: note: See https://mypy.readthedocs.io/en/stable/common_issues.html#variables-vs-type-aliases\nresult2/check/starchat/python2java/python_typed/MINIMUM_ROTATIONS_REQUIRED_GET_STRING.py:12: error: Value of type str? is not indexable  [index]\nFound 3 errors in 1 file (checked 1 source file)\n"
+    },
+    "COUNT_BINARY_DIGIT_NUMBERS_SMALLER_N": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/COUNT_BINARY_DIGIT_NUMBERS_SMALLER_N.py:9: error: Name \"collections\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "NUMBER_UNIQUE_RECTANGLES_FORMED_USING_N_UNIT_SQUARES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "LONGEST_SUBSEQUENCE_DIFFERENCE_ADJACENTS_ONE_SET_2": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/LONGEST_SUBSEQUENCE_DIFFERENCE_ADJACENTS_ONE_SET_2.py:9: error: Name \"defaultdict\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "QUERIES_COUNTS_ARRAY_ELEMENTS_VALUES_GIVEN_RANGE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_FIND_SLOPE_LINE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_MINIMUM_DIFFERENCE_PAIR": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "EQUILIBRIUM_INDEX_OF_AN_ARRAY_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_NUMBER_PAIRS_N_B_N_GCD_B_B": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_WEIGHT_PATH_ENDING_ELEMENT_LAST_ROW_MATRIX": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "i++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_init": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 4,
+                "old": "for ( int i = 0; i < N; i++ ) ",
+                "new": "for (int i=1;i<N;i++)",
+                "changetype": "for"
+            },
+            {
+                "type": "add",
+                "content": [
+                    "j++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 6,
+                "old": "for ( int j = 1; j < N; j++ ) ",
+                "new": "for (int j=1;j<Math.min(i+1,N);j++)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MAXIMUM_WEIGHT_PATH_ENDING_ELEMENT_LAST_ROW_MATRIX.py:17: error: unexpected indent  [syntax]\nFound 1 error in 1 file (errors prevented further checking)\n"
+    },
+    "UNIQUE_CELLS_BINARY_MATRIX": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_COUNT_OCCURRENCE_GIVEN_CHARACTER_STRING": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NUMBER_DIGITS_REMOVED_MAKE_NUMBER_DIVISIBLE_3": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "K_TH_LARGEST_SUM_CONTIGUOUS_SUBARRAY": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/K_TH_LARGEST_SUM_CONTIGUOUS_SUBARRAY.py:15: error: Name \"heapq\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/K_TH_LARGEST_SUM_CONTIGUOUS_SUBARRAY.py:20: error: Name \"heapq\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/K_TH_LARGEST_SUM_CONTIGUOUS_SUBARRAY.py:23: error: Name \"heapq\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/K_TH_LARGEST_SUM_CONTIGUOUS_SUBARRAY.py:24: error: Name \"heapq\" is not defined  [name-defined]\nFound 4 errors in 1 file (checked 1 source file)\n"
+    },
+    "SUM_MATRIX_ELEMENT_ABSOLUTE_DIFFERENCE_ROW_COLUMN_NUMBERS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_FIND_REMAINDER_LARGE_NUMBER_DIVIDED_11": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "K_TH_DIGIT_RAISED_POWER_B": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PERMUTE_TWO_ARRAYS_SUM_EVERY_PAIR_GREATER_EQUAL_K": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "RECURSIVELY_BREAK_NUMBER_3_PARTS_GET_MAXIMUM_SUM_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FAST_MULTIPLICATION_METHOD_WITHOUT_USING_MULTIPLICATION_OPERATOR_RUSSIAN_PEASANTS_ALGORITHM": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_IF_A_GIVEN_ARRAY_CAN_REPRESENT_PREORDER_TRAVERSAL_OF_BINARY_SEARCH_TREE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_NUMBER_CHOCOLATES_DISTRIBUTED_EQUALLY_AMONG_K_STUDENTS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_MATRIX_ELEMENT_ELEMENT_INTEGER_DIVISION_ROW_COLUMN_1": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/SUM_MATRIX_ELEMENT_ELEMENT_INTEGER_DIVISION_ROW_COLUMN_1.py:16: error: Name \"ans\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/SUM_MATRIX_ELEMENT_ELEMENT_INTEGER_DIVISION_ROW_COLUMN_1.py:18: error: Name \"ans\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/SUM_MATRIX_ELEMENT_ELEMENT_INTEGER_DIVISION_ROW_COLUMN_1.py:21: error: Name \"ans\" is not defined  [name-defined]\nFound 3 errors in 1 file (checked 1 source file)\n"
+    },
+    "SEARCH_INSERT_AND_DELETE_IN_A_SORTED_ARRAY_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "HOW_TO_PRINT_MAXIMUM_NUMBER_OF_A_USING_GIVEN_FOUR_KEYS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_PAIRWISE_PRODUCTS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_STRING_CAN_OBTAINED_ROTATING_ANOTHER_STRING_2_PLACES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_NUMBER_SUBSETS_DISTINCT_ELEMENTS_1": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MINIMUM_NUMBER_SUBSETS_DISTINCT_ELEMENTS_1.py:11: error: Incompatible types in assignment (expression has type \"dict[int, int]\", variable has type \"list[int]\")  [assignment]\nresult2/check/starchat/python2java/python_typed/MINIMUM_NUMBER_SUBSETS_DISTINCT_ELEMENTS_1.py:15: error: \"list[int]\" has no attribute \"items\"  [attr-defined]\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "WAYS_REMOVE_ONE_ELEMENT_BINARY_STRING_XOR_BECOMES_ZERO": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "TEMPLE_OFFERINGS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES_2": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "SUM_TWO_LARGE_NUMBERS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_SORTED_ROWS_MATRIX": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "ANALYSIS_OF_ALGORITHMS_SET_2_ASYMPTOTIC_ANALYSIS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_AREA_RECTANGLE_PICKING_FOUR_SIDES_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_SUM_EVEN_INDEX_BINOMIAL_COEFFICIENTS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMIZE_THE_SUM_OF_DIGITS_OF_A_AND_B_SUCH_THAT_A_B_N": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_AREA_RECTANGLES_POSSIBLE_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_MINIMUM_DIFFERENCE_PAIR_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SORT_EVEN_PLACED_ELEMENTS_INCREASING_ODD_PLACED_DECREASING_ORDER": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "j++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 15,
+                "old": "for ( int j = 0 ; j < evenArr.length ; j ++ ) ",
+                "new": "for (int j=0;j<evenArr.length;j++)",
+                "changetype": "for"
+            },
+            {
+                "type": "add",
+                "content": [
+                    "j++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 19,
+                "old": "for ( int j = 0 ; j < oddArr.length ; j ++ ) ",
+                "new": "for (int j=0;j<oddArr.length;j++)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_POSSIBLE_DECODINGS_GIVEN_DIGIT_SEQUENCE_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "QUICK_WAY_CHECK_CHARACTERS_STRING": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIBONACCI_MODULO_P": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_THE_ELEMENT_THAT_APPEARS_ONCE_2": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_PAIRS_WHOSE_PRODUCTS_EXIST_IN_ARRAY_1": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "DIAGONALLY_DOMINANT_MATRIX": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SQUARE_ROOT_OF_AN_INTEGER": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/SQUARE_ROOT_OF_AN_INTEGER.py:13: error: Name \"i\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/SQUARE_ROOT_OF_AN_INTEGER.py:14: error: Name \"i\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/SQUARE_ROOT_OF_AN_INTEGER.py:15: error: Name \"i\" is not defined  [name-defined]\nFound 3 errors in 1 file (checked 1 source file)\n"
+    },
+    "CHECK_GIVEN_STRING_ROTATION_PALINDROME": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_VALUE_OF_Y_MOD_2_RAISED_TO_POWER_X": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "AREA_OF_THE_CIRCLE_THAT_HAS_A_SQUARE_AND_A_CIRCLE_INSCRIBED_IN_IT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_REPEATING_ELEMENT_SORTED_ARRAY_SIZE_N": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_THE_NUMBER_OCCURRING_ODD_NUMBER_OF_TIMES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_THE_ELEMENT_THAT_APPEARS_ONCE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NTH_PENTAGONAL_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MIDDLE_OF_THREE_USING_MINIMUM_COMPARISONS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "LOWER_CASE_UPPER_CASE_INTERESTING_FACT": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/LOWER_CASE_UPPER_CASE_INTERESTING_FACT.py:11: error: Unsupported target for indexed assignment (\"str\")  [index]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "COUNT_DISTINCT_NON_NEGATIVE_PAIRS_X_Y_SATISFY_INEQUALITY_XX_YY_N_2": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_CENSOR_WORD_ASTERISKS_SENTENCE": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": "    stars = '*' * len ( word )",
+                "changetype": "type_AssignStrint"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/PROGRAM_CENSOR_WORD_ASTERISKS_SENTENCE.py:11: error: Incompatible types in assignment (expression has type \"str\", variable has type \"int\")  [assignment]\nresult2/check/starchat/python2java/python_typed/PROGRAM_CENSOR_WORD_ASTERISKS_SENTENCE.py:16: error: No overload variant of \"__setitem__\" of \"list\" matches argument types \"Any\", \"int\"  [call-overload]\nresult2/check/starchat/python2java/python_typed/PROGRAM_CENSOR_WORD_ASTERISKS_SENTENCE.py:16: note: Possible overload variants:\nresult2/check/starchat/python2java/python_typed/PROGRAM_CENSOR_WORD_ASTERISKS_SENTENCE.py:16: note:     def __setitem__(self, SupportsIndex, str, /) -> None\nresult2/check/starchat/python2java/python_typed/PROGRAM_CENSOR_WORD_ASTERISKS_SENTENCE.py:16: note:     def __setitem__(self, slice, Iterable[str], /) -> None\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "PROGRAM_FOR_SURFACE_AREA_OF_OCTAHEDRON": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": "    return ( 2 * ( math.sqrt ( 3 ) ) * ( side * side ) )",
+                "changetype": "type_RetFloatint"
+            },
+            {
+                "type": "del",
+                "line": 3,
+                "changetype": "type_floatint"
+            },
+            {
+                "type": "add",
+                "line": 3,
+                "content": "        return ( 2 * (  Math.sqrt ( 3 ) ) * ( side * side ) );",
+                "changetype": "type_floatint"
+            },
+            {
+                "type": "del",
+                "line": 2,
+                "changetype": "type_decl"
+            },
+            {
+                "type": "add",
+                "line": 2,
+                "content": "double f_gold(double side){",
+                "changetype": "type_decl"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/PROGRAM_FOR_SURFACE_AREA_OF_OCTAHEDRON.py:9: error: Incompatible return value type (got \"float\", expected \"int\")  [return-value]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "FIND_SUM_MODULO_K_FIRST_N_NATURAL_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "DIFFERENCE_BETWEEN_HIGHEST_AND_LEAST_FREQUENCIES_IN_AN_ARRAY_1": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/DIFFERENCE_BETWEEN_HIGHEST_AND_LEAST_FREQUENCIES_IN_AN_ARRAY_1.py:9: error: Name \"defaultdict\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "HIGHWAY_BILLBOARD_PROBLEM": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "REMAINDER_7_LARGE_NUMBERS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_PAIR_WITH_GREATEST_PRODUCT_IN_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "DIVISIBILITY_9_USING_BITWISE_OPERATORS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_BINOMIAL_COEFFICIENT_TERM_VALUE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "GCD_ELEMENTS_GIVEN_RANGE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "REARRANGE_ARRAY_MAXIMUM_MINIMUM_FORM_SET_2_O1_EXTRA_SPACE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "EFFICIENT_SEARCH_IN_AN_ARRAY_WHERE_DIFFERENCE_BETWEEN_ADJACENT_IS_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NTH_NON_FIBONACCI_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_WHETHER_GIVEN_NUMBER_EVEN_ODD_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_MAXIMUM_AVERAGE_SUBARRAY_OF_K_LENGTH": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CASSINIS_IDENTITY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MULTIPLY_AN_INTEGER_WITH_3_5": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_MINIMUM_NUMBER_DIVIDED_MAKE_NUMBER_PERFECT_SQUARE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_ARRAY_REPRESENTS_INORDER_BINARY_SEARCH_TREE_NOT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN_2": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_MANHATTAN_DISTANCES_PAIRS_POINTS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SEQUENCES_GIVEN_LENGTH_EVERY_ELEMENT_EQUAL_TWICE_PREVIOUS_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_SERIES_23_45_67_89_UPTO_N_TERMS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "C_PROGRAM_FACTORIAL_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_NODES_K_TH_LEVEL_TREE_REPRESENTED_STRING": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "HOW_TO_AVOID_OVERFLOW_IN_MODULAR_MULTIPLICATION": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_POSSIBLE_SUM_WINDOW_ARRAY_ELEMENTS_WINDOW_ARRAY_UNIQUE": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MAXIMUM_POSSIBLE_SUM_WINDOW_ARRAY_ELEMENTS_WINDOW_ARRAY_UNIQUE.py:15: error: Name \"curr_sum\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/MAXIMUM_POSSIBLE_SUM_WINDOW_ARRAY_ELEMENTS_WINDOW_ARRAY_UNIQUE.py:18: error: Name \"curr_sum\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/MAXIMUM_POSSIBLE_SUM_WINDOW_ARRAY_ELEMENTS_WINDOW_ARRAY_UNIQUE.py:19: error: Name \"curr_sum\" is not defined  [name-defined]\nFound 3 errors in 1 file (checked 1 source file)\n"
+    },
+    "SMALLEST_DIFFERENCE_PAIR_VALUES_TWO_UNSORTED_ARRAYS": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/SMALLEST_DIFFERENCE_PAIR_VALUES_TWO_UNSORTED_ARRAYS.py:15: error: Name \"sys\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "PANGRAM_CHECKING": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": "                        return S [ i ]",
+                "changetype": "type_RetStrint"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D.py:8: error: Missing return statement  [return]\nresult2/check/starchat/python2java/python_typed/FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D.py:11: error: \"str\" has no attribute \"sort\"  [attr-defined]\nresult2/check/starchat/python2java/python_typed/FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D.py:24: error: Incompatible return value type (got \"str\", expected \"int\")  [return-value]\nFound 3 errors in 1 file (checked 1 source file)\n"
+    },
+    "FIND_MEDIAN_ROW_WISE_SORTED_MATRIX": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": "        place = [ 0 ]",
+                "changetype": "type_AssignPrimclct"
+            },
+            {
+                "type": "add",
+                "line": -1,
+                "content": "            place [ 0 ] = place [ 0 ] + j",
+                "changetype": "type_indexable"
+            },
+            {
+                "type": "add",
+                "line": -1,
+                "content": "        if place [ 0 ] < desired :",
+                "changetype": "type_indexable"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/FIND_MEDIAN_ROW_WISE_SORTED_MATRIX.py:9: error: Name \"sys\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/FIND_MEDIAN_ROW_WISE_SORTED_MATRIX.py:10: error: Name \"sys\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/FIND_MEDIAN_ROW_WISE_SORTED_MATRIX.py:19: error: Incompatible types in assignment (expression has type \"list[int]\", variable has type \"int\")  [assignment]\nresult2/check/starchat/python2java/python_typed/FIND_MEDIAN_ROW_WISE_SORTED_MATRIX.py:21: error: Name \"upper_bound\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/FIND_MEDIAN_ROW_WISE_SORTED_MATRIX.py:22: error: Unsupported target for indexed assignment (\"int\")  [index]\nresult2/check/starchat/python2java/python_typed/FIND_MEDIAN_ROW_WISE_SORTED_MATRIX.py:22: error: Value of type \"int\" is not indexable  [index]\nresult2/check/starchat/python2java/python_typed/FIND_MEDIAN_ROW_WISE_SORTED_MATRIX.py:23: error: Value of type \"int\" is not indexable  [index]\nFound 7 errors in 1 file (checked 1 source file)\n"
+    },
+    "PIZZA_CUT_PROBLEM_CIRCLE_DIVISION_LINES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_BINOMIAL_COEFFICIENTS_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_SUBARRAY_WITH_GIVEN_SUM_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_COST_SORT_MATRIX_NUMBERS_0_N2_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MULTIPLY_LARGE_INTEGERS_UNDER_LARGE_MODULO": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_INTEGER_OVERFLOW_MULTIPLICATION": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CENTER_ELEMENT_OF_MATRIX_EQUALS_SUMS_OF_HALF_DIAGONALS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMIZE_SUM_PRODUCT_TWO_ARRAYS_PERMUTATIONS_ALLOWED": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SWAP_TWO_NIBBLES_BYTE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_TIME_WRITE_CHARACTERS_USING_INSERT_DELETE_COPY_OPERATION": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_WHETHER_LARGE_NUMBER_DIVISIBLE_7": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/CHECK_WHETHER_LARGE_NUMBER_DIVISIBLE_7.py:11: error: Incompatible return value type (got \"int\", expected \"bool\")  [return-value]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "COMPUTE_MODULUS_DIVISION_BY_A_POWER_OF_2_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_VALUE_CHOICE_EITHER_DIVIDING_CONSIDERING": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NUMBER_RECTANGLES_NM_GRID": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NUMBER_DIGITS_PRODUCT_TWO_NUMBERS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_WHETHER_ARITHMETIC_PROGRESSION_CAN_FORMED_GIVEN_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIRST_UPPERCASE_LETTER_IN_A_STRING_ITERATIVE_AND_RECURSIVE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_SUM_TWO_NUMBERS_FORMED_DIGITS_ARRAY": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MINIMUM_SUM_TWO_NUMBERS_FORMED_DIGITS_ARRAY.py:13: error: Cannot determine type of \"a\"  [has-type]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "PRIMALITY_TEST_SET_5USING_LUCAS_LEHMER_SERIES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_FACTORS_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_POSITION_GIVEN_NUMBER_AMONG_NUMBERS_MADE_4_7": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_FOR_FACTORIAL_OF_A_NUMBER_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_INDEX_GIVEN_FIBONACCI_NUMBER_CONSTANT_TIME": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_IF_ALL_THE_ELEMENTS_CAN_BE_MADE_OF_SAME_PARITY_BY_INVERTING_ADJACENT_ELEMENTS": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/CHECK_IF_ALL_THE_ELEMENTS_CAN_BE_MADE_OF_SAME_PARITY_BY_INVERTING_ADJACENT_ELEMENTS.py:12: error: Name \"count_odd\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/CHECK_IF_ALL_THE_ELEMENTS_CAN_BE_MADE_OF_SAME_PARITY_BY_INVERTING_ADJACENT_ELEMENTS.py:15: error: Name \"count_odd\" is not defined  [name-defined]\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "MAXIMUM_DISTANCE_TWO_OCCURRENCES_ELEMENT_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_THE_LARGEST_SUBARRAY_WITH_0_SUM": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_SUBARRAY_WITH_GIVEN_SUM": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_NATURAL_NUMBERS_WHOSE_PERMUTATION_GREATER_NUMBER": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "i++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 4,
+                "old": "for ( int i = 1 ; i <= 10 ; i++ ) ",
+                "new": "for (int i=1;i<10;i++)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CALCULATE_ANGLE_HOUR_HAND_MINUTE_HAND": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MODULUS_TWO_FLOAT_DOUBLE_NUMBERS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_TO_FIND_THE_AREA_OF_PENTAGON": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_DIVISORS_1_N_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "HARDY_RAMANUJAN_THEOREM": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_DISTINCT_OCCURRENCES_AS_A_SUBSEQUENCE": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "i++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_init": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 6,
+                "old": "for (int i = 0; i <= m; i++) ",
+                "new": "for (int i=1;i<m+1;i++)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CONSTRUCT_LEXICOGRAPHICALLY_SMALLEST_PALINDROME": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "K_TH_ELEMENT_TWO_SORTED_ARRAYS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_PRINT_SUM_GIVEN_NTH_TERM_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_WHETHER_GIVEN_DEGREES_VERTICES_REPRESENT_GRAPH_TREE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FINDING_POWER_PRIME_NUMBER_P_N": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "WRITE_ONE_LINE_C_FUNCTION_TO_FIND_WHETHER_A_NO_IS_POWER_OF_TWO": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_CONSECUTIVE_REPEATING_CHARACTER_STRING_1": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MAXIMUM_CONSECUTIVE_REPEATING_CHARACTER_STRING_1.py:11: error: Variable \"str\" is not valid as a type  [valid-type]\nresult2/check/starchat/python2java/python_typed/MAXIMUM_CONSECUTIVE_REPEATING_CHARACTER_STRING_1.py:11: note: See https://mypy.readthedocs.io/en/stable/common_issues.html#variables-vs-type-aliases\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "FIND_LAST_DIGIT_FACTORIAL_DIVIDES_FACTORIAL_B": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "K_TH_PRIME_FACTOR_GIVEN_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_LENGTH_PREFIX_ONE_STRING_OCCURS_SUBSEQUENCE_ANOTHER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "WAYS_TRANSFORMING_ONE_STRING_REMOVING_0_CHARACTERS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "STRING_CONTAINING_FIRST_LETTER_EVERY_WORD_GIVEN_STRING_SPACES": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "CHECK_DIVISIBILITY_LARGE_NUMBER_999": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_THE_MISSING_NUMBER_1": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "i++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 4,
+                "old": "for ( i = 2; i <= n + 2; i++ ) ",
+                "new": "for ( i=2;i<n+2;i++)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_POSSIBLE_TRANSFORM_ONE_STRING_ANOTHER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_NUMBER_WAYS_TILE_FLOOR_SIZE_N_X_M_USING_1_X_M_SIZE_TILES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "HOW_TO_CHECK_IF_A_GIVEN_ARRAY_REPRESENTS_A_BINARY_HEAP_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "TRIANGULAR_MATCHSTICK_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_OF_ALL_ELEMENTS_UP_TO_NTH_ROW_IN_A_PASCALS_TRIANGLE_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_SUM_UNIQUE_SUB_ARRAY_SUM_GIVEN_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CALCULATE_MAXIMUM_VALUE_USING_SIGN_TWO_NUMBERS_STRING": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "ARRAY_RANGE_QUERIES_ELEMENTS_FREQUENCY_VALUE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_TRIPLET_SUM_ARRAY_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_NUMBER_OF_OCCURRENCES_OR_FREQUENCY_IN_A_SORTED_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_MINIMUM_NUMBER_SUBSETS_SUBSEQUENCES_CONSECUTIVE_NUMBERS": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "NUMBER_IS_DIVISIBLE_BY_29_OR_NOT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_FREQUENCY_K_MATRIX_SIZE_N_MATRIXI_J_IJ": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_PAIRS_WHOSE_PRODUCTS_EXIST_IN_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SEARCH_INSERT_AND_DELETE_IN_A_SORTED_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SIZE_SUBARRAY_MAXIMUM_SUM": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/SIZE_SUBARRAY_MAXIMUM_SUM.py:9: error: Name \"maxsize\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "FIND_MAXIMUM_PRODUCT_OF_A_TRIPLET_IN_ARRAY_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "DYNAMIC_PROGRAMMING_SET_17_PALINDROME_PARTITIONING": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_NUMBER_PERFECT_SQUARES_TWO_GIVEN_NUMBERS": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/FIND_NUMBER_PERFECT_SQUARES_TWO_GIVEN_NUMBERS.py:16: error: Name \"i\" already defined on line 10  [no-redef]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "EULERS_CRITERION_CHECK_IF_SQUARE_ROOT_UNDER_MODULO_P_EXISTS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "LONGEST_PREFIX_ALSO_SUFFIX_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_CALCULATE_AREA_OCTAGON": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": " ( 2 * ( 1 + Math.sqrt ( 2 ) ) * side * side )",
+                "changetype": "longcomp"
+            },
+            {
+                "type": "replace2",
+                "line": 3,
+                "old": " ( 2 * ( 1 + Math.sqrt ( 2 ) ) * side * side )",
+                "new": " (2*(1+(Math.sqrt(2)))*side*side)",
+                "changetype": "longcomp"
+            },
+            {
+                "type": "add",
+                "line": -1,
+                "content": "    return ( 2 * ( 1 + ( math.sqrt ( 2 ) ) ) * side * side )",
+                "changetype": "type_RetFloatint"
+            },
+            {
+                "type": "del",
+                "line": 2,
+                "changetype": "type_decl"
+            },
+            {
+                "type": "add",
+                "line": 2,
+                "content": "double f_gold(double side){",
+                "changetype": "type_decl"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/PROGRAM_CALCULATE_AREA_OCTAGON.py:9: error: Incompatible return value type (got \"float\", expected \"int\")  [return-value]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "MULTIPLY_TWO_NUMBERS_WITHOUT_USING_MULTIPLY_DIVISION_BITWISE_OPERATORS_AND_NO_LOOPS": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MULTIPLY_TWO_NUMBERS_WITHOUT_USING_MULTIPLY_DIVISION_BITWISE_OPERATORS_AND_NO_LOOPS.py:8: error: Missing return statement  [return]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "MAXIMUM_SUM_2_X_N_GRID_NO_TWO_ELEMENTS_ADJACENT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "STEINS_ALGORITHM_FOR_FINDING_GCD_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NTH_MULTIPLE_NUMBER_FIBONACCI_SERIES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_NUMBER_OF_SQUARES_THAT_CAN_BE_FIT_IN_A_RIGHT_ANGLE_ISOSCELES_TRIANGLE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_MAXIMUM_SUM_POSSIBLE_EQUAL_SUM_THREE_STACKS": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN.py:10: error: Name \"itertools\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "NUMBER_NON_NEGATIVE_INTEGRAL_SOLUTIONS_B_C_N": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SWAP_BITS_IN_A_GIVEN_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_PERIMETER_N_BLOCKS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COMPUTE_AVERAGE_TWO_NUMBERS_WITHOUT_OVERFLOW": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/COMPUTE_AVERAGE_TWO_NUMBERS_WITHOUT_OVERFLOW.py:9: error: Name \"floor\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "MAKE_LARGEST_PALINDROME_CHANGING_K_DIGITS": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "REMOVE_BRACKETS_ALGEBRAIC_STRING_CONTAINING_OPERATORS": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/REMOVE_BRACKETS_ALGEBRAIC_STRING_CONTAINING_OPERATORS.py:10: error: List item 0 has incompatible type \"None\"; expected \"str | int\"  [list-item]\nresult2/check/starchat/python2java/python_typed/REMOVE_BRACKETS_ALGEBRAIC_STRING_CONTAINING_OPERATORS.py:42: error: Argument 1 to \"join\" of \"str\" has incompatible type \"list[str | int]\"; expected \"Iterable[str]\"  [arg-type]\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "COUNT_SUBARRAYS_WITH_SAME_EVEN_AND_ODD_ELEMENTS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_NUMBER_SEGMENTS_LENGTHS_B_C": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_INSERTIONS_SORT_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "EQUILIBRIUM_INDEX_OF_AN_ARRAY": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "LONGEST_INCREASING_SUBSEQUENCE_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_PRODUCT_SUBSET_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_NUMBER_ENDLESS_POINTS": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/FIND_NUMBER_ENDLESS_POINTS.py:9: error: Incompatible types in assignment (expression has type \"ndarray[Any, dtype[floating[_64Bit]]]\", variable has type \"list[list[int]]\")  [assignment]\nresult2/check/starchat/python2java/python_typed/FIND_NUMBER_ENDLESS_POINTS.py:10: error: Incompatible types in assignment (expression has type \"ndarray[Any, dtype[floating[_64Bit]]]\", variable has type \"list[list[int]]\")  [assignment]\nresult2/check/starchat/python2java/python_typed/FIND_NUMBER_ENDLESS_POINTS.py:12: error: Incompatible types in assignment (expression has type \"int\", variable has type \"bool\")  [assignment]\nresult2/check/starchat/python2java/python_typed/FIND_NUMBER_ENDLESS_POINTS.py:15: error: Incompatible types in assignment (expression has type \"int\", variable has type \"bool\")  [assignment]\nresult2/check/starchat/python2java/python_typed/FIND_NUMBER_ENDLESS_POINTS.py:18: error: Incompatible types in assignment (expression has type \"int\", variable has type \"bool\")  [assignment]\nresult2/check/starchat/python2java/python_typed/FIND_NUMBER_ENDLESS_POINTS.py:21: error: Incompatible types in assignment (expression has type \"int\", variable has type \"bool\")  [assignment]\nFound 6 errors in 1 file (checked 1 source file)\n"
+    },
+    "PROGRAM_CALCULATE_VOLUME_OCTAHEDRON": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_NUMBERS_CAN_CONSTRUCTED_USING_TWO_NUMBERS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CALCULATE_VOLUME_DODECAHEDRON": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_SUM_ODD_FACTORS_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROBABILITY_THREE_RANDOMLY_CHOSEN_NUMBERS_AP": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COMPUTE_NCR_P_SET_1_INTRODUCTION_AND_DYNAMIC_PROGRAMMING_SOLUTION": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "j--"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 6,
+                "old": "for ( int j = Math.min(i, r); j >= 0; j-- ) ",
+                "new": "for (int j=Math.min(i,r);j>0;j--)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_GIVEN_CIRCLE_LIES_COMPLETELY_INSIDE_RING_FORMED_TWO_CONCENTRIC_CIRCLES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "REARRANGE_POSITIVE_AND_NEGATIVE_NUMBERS_PUBLISH": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_ENTRIES_EQUAL_TO_X_IN_A_SPECIAL_MATRIX": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_INDEX_PAIRS_EQUAL_ELEMENTS_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_COST_CONNECT_WEIGHTED_NODES_REPRESENTED_ARRAY": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MINIMUM_COST_CONNECT_WEIGHTED_NODES_REPRESENTED_ARRAY.py:9: error: Name \"sys\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "CHECK_IF_X_CAN_GIVE_CHANGE_TO_EVERY_PERSON_IN_THE_QUEUE": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/CHECK_IF_X_CAN_GIVE_CHANGE_TO_EVERY_PERSON_IN_THE_QUEUE.py:19: error: Incompatible return value type (got \"int\", expected \"bool\")  [return-value]\nresult2/check/starchat/python2java/python_typed/CHECK_IF_X_CAN_GIVE_CHANGE_TO_EVERY_PERSON_IN_THE_QUEUE.py:27: error: Incompatible return value type (got \"int\", expected \"bool\")  [return-value]\nresult2/check/starchat/python2java/python_typed/CHECK_IF_X_CAN_GIVE_CHANGE_TO_EVERY_PERSON_IN_THE_QUEUE.py:28: error: Incompatible return value type (got \"int\", expected \"bool\")  [return-value]\nFound 3 errors in 1 file (checked 1 source file)\n"
+    },
+    "NUMBER_OF_PAIRS_IN_AN_ARRAY_HAVING_SUM_EQUAL_TO_PRODUCT": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/NUMBER_OF_PAIRS_IN_AN_ARRAY_HAVING_SUM_EQUAL_TO_PRODUCT.py:18: error: unexpected indent  [syntax]\nFound 1 error in 1 file (errors prevented further checking)\n"
+    },
+    "PROGRAM_CHECK_ARRAY_SORTED_NOT_ITERATIVE_RECURSIVE_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.py:9: error: Name \"defaultdict\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "SUM_OF_ALL_SUBSTRINGS_OF_A_STRING_REPRESENTING_A_NUMBER": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "i++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 7,
+                "old": "for ( int i = 1; i <= n; i++ ) ",
+                "new": "for (int i=1;i<n;i++)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_NUMBER_OF_SQUARES_WHOSE_SUM_EQUALS_TO_GIVEN_NUMBER_N_1": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "x++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 10,
+                "old": "for (int x = 1; x * x <= i; x++) ",
+                "new": "for (int x=1;x<(int)(Math.ceil(Math.sqrt(i)))+1;x++)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MINIMUM_NUMBER_OF_SQUARES_WHOSE_SUM_EQUALS_TO_GIVEN_NUMBER_N_1.py:12: error: Name \"ceil\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/MINIMUM_NUMBER_OF_SQUARES_WHOSE_SUM_EQUALS_TO_GIVEN_NUMBER_N_1.py:12: error: Name \"sqrt\" is not defined  [name-defined]\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "MINIMUM_INCREMENT_K_OPERATIONS_MAKE_ELEMENTS_EQUAL": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_XOR_VALUE_PAIR_1": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/MINIMUM_XOR_VALUE_PAIR_1.py:11: error: Name \"sys\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "RECURSIVELY_BREAK_NUMBER_3_PARTS_GET_MAXIMUM_SUM": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_WORDS_APPEAR_EXACTLY_TWO_TIMES_ARRAY_WORDS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "BINARY_SEARCH": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "GIVEN_LARGE_NUMBER_CHECK_SUBSEQUENCE_DIGITS_DIVISIBLE_8": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_REPETITIVE_ELEMENT_1_N_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_PAIR_MAXIMUM_GCD_ARRAY": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/FIND_PAIR_MAXIMUM_GCD_ARRAY.py:22: error: No overload variant of \"__setitem__\" of \"list\" matches argument types \"float\", \"Any\"  [call-overload]\nresult2/check/starchat/python2java/python_typed/FIND_PAIR_MAXIMUM_GCD_ARRAY.py:22: note: Possible overload variants:\nresult2/check/starchat/python2java/python_typed/FIND_PAIR_MAXIMUM_GCD_ARRAY.py:22: note:     def __setitem__(self, SupportsIndex, int, /) -> None\nresult2/check/starchat/python2java/python_typed/FIND_PAIR_MAXIMUM_GCD_ARRAY.py:22: note:     def __setitem__(self, slice, Iterable[int], /) -> None\nresult2/check/starchat/python2java/python_typed/FIND_PAIR_MAXIMUM_GCD_ARRAY.py:22: error: No overload variant of \"__getitem__\" of \"list\" matches argument type \"float\"  [call-overload]\nresult2/check/starchat/python2java/python_typed/FIND_PAIR_MAXIMUM_GCD_ARRAY.py:22: note:     def __getitem__(self, SupportsIndex, /) -> int\nresult2/check/starchat/python2java/python_typed/FIND_PAIR_MAXIMUM_GCD_ARRAY.py:22: note:     def __getitem__(self, slice, /) -> list[int]\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "CHECK_IF_A_NUMBER_IS_POWER_OF_ANOTHER_NUMBER_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_NUMBER_BINARY_STRINGS_WITHOUT_CONSECUTIVE_1S": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_SUBSTRINGS_WITH_SAME_FIRST_AND_LAST_CHARACTERS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_REPETITIVE_ELEMENT_1_N_1_1": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "NUMBER_VISIBLE_BOXES_PUTTING_ONE_INSIDE_ANOTHER": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/NUMBER_VISIBLE_BOXES_PUTTING_ONE_INSIDE_ANOTHER.py:9: error: Name \"collections\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "FIND_THE_MAXIMUM_SUBARRAY_XOR_IN_A_GIVEN_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_FIBONACCI_NUMBERS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "REMOVE_ARRAY_END_ELEMENT_MAXIMIZE_SUM_PRODUCT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_LENGTH_SUBSEQUENCE_DIFFERENCE_ADJACENT_ELEMENTS_EITHER_0_1": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "LONGEST_SUBSEQUENCE_SUCH_THAT_DIFFERENCE_BETWEEN_ADJACENTS_IS_ONE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUBARRAYS_DISTINCT_ELEMENTS": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "TILING_WITH_DOMINOES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_TOTAL_SET_BITS_IN_ALL_NUMBERS_FROM_1_TO_N": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "C_PROGRAM_CONCATENATE_STRING_GIVEN_NUMBER_TIMES": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": "    return s",
+                "changetype": "type_RetStrint"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/C_PROGRAM_CONCATENATE_STRING_GIVEN_NUMBER_TIMES.py:12: error: Incompatible return value type (got \"str\", expected \"int\")  [return-value]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "DYNAMIC_PROGRAMMING_SET_14_MAXIMUM_SUM_INCREASING_SUBSEQUENCE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_ARRAYS_CONSECUTIVE_ELEMENT_DIFFERENT_VALUES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_CALCULATE_VOLUME_ELLIPSOID": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "TRIANGULAR_NUMBERS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "LEXICOGRAPHICALLY_NEXT_STRING": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_COST_MAKE_ARRAY_SIZE_1_REMOVING_LARGER_PAIRS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_PALINDROMIC_SUBSEQUENCE_GIVEN_STRING": {
+        "change": [
+            {
+                "type": "add",
+                "content": [
+                    "L++"
+                ],
+                "line": -1,
+                "changetype": "forloop",
+                "errtype": {
+                    "for_cond": "content"
+                }
+            },
+            {
+                "type": "replace",
+                "line": 8,
+                "old": "for ( int L = 2; L <= N + 1; L++ ) ",
+                "new": "for (int L=2;L<N+1;L++)",
+                "changetype": "for"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_LARGE_NUMBER_DIVISIBLE_9_NOT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "DYNAMIC_PROGRAMMING_SET_36_CUT_A_ROPE_TO_MAXIMIZE_PRODUCT_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_CHARACTERS_STRING_DISTANCE_ENGLISH_ALPHABETS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_GAMES_PLAYED_WINNER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SMALLEST_OF_THREE_INTEGERS_WITHOUT_COMPARISON_OPERATORS_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_SERIES_12_32_52_2N_12": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "NUMBER_DIGITS_PRODUCT_TWO_NUMBERS_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_EVEN_LENGTH_BINARY_SEQUENCES_WITH_SAME_SUM_OF_FIRST_AND_SECOND_HALF_BITS_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_ROTATIONS_DIVISIBLE_4": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "SUM_SERIES_0_6_0_06_0_006_0_0006_N_TERMS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_SUM_BITONIC_SUBARRAY": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "LONGEST_INCREASING_ODD_EVEN_SUBSEQUENCE": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "CHECK_LARGE_NUMBER_DIVISIBLE_4_NOT": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/CHECK_LARGE_NUMBER_DIVISIBLE_4_NOT.py:13: error: Unsupported left operand type for - (\"str\")  [operator]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "DISTRIBUTING_ITEMS_PERSON_CANNOT_TAKE_TWO_ITEMS_TYPE_1": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/DISTRIBUTING_ITEMS_PERSON_CANNOT_TAKE_TWO_ITEMS_TYPE_1.py:9: error: Name \"defaultdict\" is not defined  [name-defined]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "NUMBER_INDEXES_EQUAL_ELEMENTS_GIVEN_RANGE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_MAXIMUM_DOT_PRODUCT_TWO_ARRAYS_INSERTION_0S": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_FLIP_REQUIRED_MAKE_BINARY_MATRIX_SYMMETRIC_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "HYPERCUBE_GRAPH": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "CHECK_VALID_SEQUENCE_DIVISIBLE_M_1": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/CHECK_VALID_SEQUENCE_DIVISIBLE_M_1.py:12: error: Incompatible return value type (got \"int\", expected \"bool\")  [return-value]\nresult2/check/starchat/python2java/python_typed/CHECK_VALID_SEQUENCE_DIVISIBLE_M_1.py:13: error: Incompatible return value type (got \"int\", expected \"bool\")  [return-value]\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "FIND_EXPRESSION_DUPLICATE_PARENTHESIS_NOT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MAXIMUM_CONSECUTIVE_NUMBERS_PRESENT_ARRAY": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "LONGEST_COMMON_SUBSTRING": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "DETECT_IF_TWO_INTEGERS_HAVE_OPPOSITE_SIGNS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "MINIMUM_SUM_CHOOSING_MINIMUM_PAIRS_ARRAY": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "HOW_CAN_WE_SUM_THE_DIGITS_OF_A_GIVEN_NUMBER_IN_SINGLE_STATEMENT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "ADD_1_TO_A_GIVEN_NUMBER": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "LEONARDO_NUMBER_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "LARGEST_SUBSEQUENCE_GCD_GREATER_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_NEGATIVE_NUMBERS_IN_A_COLUMN_WISE_ROW_WISE_SORTED_MATRIX_1": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "MAXIMUM_DIFFERENCE_SUM_ELEMENTS_TWO_ROWS_MATRIX": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_LARGEST_PRIME_FACTOR_NUMBER": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/FIND_LARGEST_PRIME_FACTOR_NUMBER.py:16: error: Incompatible types in assignment (expression has type \"float\", variable has type \"int\")  [assignment]\nFound 1 error in 1 file (checked 1 source file)\n"
+    },
+    "CHECK_IF_STRING_REMAINS_PALINDROME_AFTER_REMOVING_GIVEN_NUMBER_OF_CHARACTERS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "EFFICIENT_WAY_CHECK_WHETHER_N_TH_FIBONACCI_NUMBER_MULTIPLE_10": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "PROGRAM_DISTANCE_TWO_POINTS_EARTH": {
+        "change": [],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/PROGRAM_DISTANCE_TWO_POINTS_EARTH.py:9: error: Name \"radians\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/PROGRAM_DISTANCE_TWO_POINTS_EARTH.py:10: error: Name \"radians\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/PROGRAM_DISTANCE_TWO_POINTS_EARTH.py:11: error: Name \"radians\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/PROGRAM_DISTANCE_TWO_POINTS_EARTH.py:12: error: Name \"radians\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/PROGRAM_DISTANCE_TWO_POINTS_EARTH.py:15: error: Name \"sin\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/PROGRAM_DISTANCE_TWO_POINTS_EARTH.py:15: error: Name \"cos\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/PROGRAM_DISTANCE_TWO_POINTS_EARTH.py:16: error: Name \"asin\" is not defined  [name-defined]\nresult2/check/starchat/python2java/python_typed/PROGRAM_DISTANCE_TWO_POINTS_EARTH.py:16: error: Name \"sqrt\" is not defined  [name-defined]\nFound 8 errors in 1 file (checked 1 source file)\n"
+    },
+    "ARRAY_ELEMENT_MOVED_K_USING_SINGLE_MOVES": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_OPERATIONS_MAKE_STRINGAB_FREE": {
+        "change": [
+            {
+                "type": "add",
+                "content": "( s.charAt(i) == 'a' )",
+                "line": -1,
+                "changetype": "ifcond"
+            },
+            {
+                "type": "replace",
+                "old": "( s.charAt(i) == 'a' )",
+                "new": "s.charAt( ~ i ) == 'a'",
+                "line": 5,
+                "changetype": "ifcond"
+            }
+        ],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "AREA_SQUARE_CIRCUMSCRIBED_CIRCLE": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "FIND_SUM_NODES_GIVEN_PERFECT_BINARY_TREE_1": {
+        "change": [
+            {
+                "type": "add",
+                "line": -1,
+                "content": "    leafNodeCount = math.pow ( 2 , l - 1 )",
+                "changetype": "type_AssignFloatint"
+            },
+            {
+                "type": "add",
+                "line": -1,
+                "content": "    sumLastLevel = ( ( leafNodeCount * ( leafNodeCount + 1 ) ) / 2 )",
+                "changetype": "type_AssignFloatint"
+            },
+            {
+                "type": "del",
+                "line": 4,
+                "changetype": "type_floatint"
+            },
+            {
+                "type": "add",
+                "line": 4,
+                "content": "        double sumLastLevel = 0;",
+                "changetype": "type_floatint"
+            },
+            {
+                "type": "del",
+                "line": 6,
+                "changetype": "type_floatint"
+            },
+            {
+                "type": "add",
+                "line": 6,
+                "content": "        double sum = sumLastLevel * l;",
+                "changetype": "type_floatint"
+            },
+            {
+                "type": "del",
+                "line": 3,
+                "changetype": "type_floatint"
+            },
+            {
+                "type": "add",
+                "line": 3,
+                "content": "        double leafNodeCount =  Math.pow ( 2, l - 1 );",
+                "changetype": "type_floatint"
+            },
+            {
+                "type": "del",
+                "line": 2,
+                "changetype": "type_decl"
+            },
+            {
+                "type": "add",
+                "line": 2,
+                "content": "double f_gold(double l){",
+                "changetype": "type_decl"
+            }
+        ],
+        "mypyoutput": "result2/check/starchat/python2java/python_typed/FIND_SUM_NODES_GIVEN_PERFECT_BINARY_TREE_1.py:9: error: Incompatible types in assignment (expression has type \"float\", variable has type \"int\")  [assignment]\nresult2/check/starchat/python2java/python_typed/FIND_SUM_NODES_GIVEN_PERFECT_BINARY_TREE_1.py:11: error: Incompatible types in assignment (expression has type \"float\", variable has type \"int\")  [assignment]\nFound 2 errors in 1 file (checked 1 source file)\n"
+    },
+    "NON_REPEATING_ELEMENT": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "COUNT_PAIRS_TWO_SORTED_ARRAYS_WHOSE_SUM_EQUAL_GIVEN_VALUE_X_1": {
+        "change": [
+            "ASTERROR"
+        ],
+        "mypyoutput": ""
+    },
+    "POSITIVE_ELEMENTS_EVEN_NEGATIVE_ODD_POSITIONS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    },
+    "BREAK_NUMBER_THREE_PARTS": {
+        "change": [],
+        "mypyoutput": "Success: no issues found in 1 source file\n"
+    }
+}

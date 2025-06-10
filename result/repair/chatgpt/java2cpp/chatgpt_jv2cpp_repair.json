@@ -1,0 +1,37 @@
+[
+    {
+        "stdout": "",
+        "stderr": "CompError!result/chatgpt/c++_repair_eval_3/DIVIDE_LARGE_NUMBER_REPRESENTED_STRING.cpp: In function 'std::string f_filled(std::string, int)':\nresult/chatgpt/c++_repair_eval_3/DIVIDE_LARGE_NUMBER_REPRESENTED_STRING.cpp:33:33: error: conversion from 'const char*' to non-scalar type 'std::vector<char>' requested\n   33 | vector<char> num =  number.c_str();\n      |                     ~~~~~~~~~~~~^~\nresult/chatgpt/c++_repair_eval_3/DIVIDE_LARGE_NUMBER_REPRESENTED_STRING.cpp:36:19: error: cannot convert 'std::vector<char>' to 'const char*'\n   36 |     while (strlen(num) > idx) {\n      |                   ^~~\n      |                   |\n      |                   std::vector<char>\nIn file included from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/cstring:43,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/stdc++.h:121,\n                 from result/chatgpt/c++_repair_eval_3/DIVIDE_LARGE_NUMBER_REPRESENTED_STRING.cpp:14:\nD:/study/mingw64/x86_64-w64-mingw32/include/string.h:64:37: note:   initializing argument 1 of 'size_t strlen(const char*)'\n   64 |   size_t __cdecl strlen(const char *_Str);\n      |                         ~~~~~~~~~~~~^~~~\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "DIVIDE_LARGE_NUMBER_REPRESENTED_STRING"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LCS_FORMED_CONSECUTIVE_SEGMENTS_LEAST_LENGTH_K"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LONGEST_REPEATING_SUBSEQUENCE"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_AREA_RECTANGLE_PICKING_FOUR_SIDES_ARRAY"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_TIME_WRITE_CHARACTERS_USING_INSERT_DELETE_COPY_OPERATION"
+    }
+]

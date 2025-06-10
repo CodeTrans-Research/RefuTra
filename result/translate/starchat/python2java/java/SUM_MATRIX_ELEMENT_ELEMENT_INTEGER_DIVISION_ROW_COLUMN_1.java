@@ -1,0 +1,18 @@
+public static int f_gold ( int n ) {
+        int ans = 0, temp = 0, num = 1;
+        for ( int i = 1; i <= n; i++ ) {
+            if ( temp < n ) {
+                temp = i - 1;
+                while ( temp < n ) {
+                    if ( temp + i <= n ) {
+                        ans += i * num;
+                    } else {
+                        ans += ( n - temp ) * num;
+                    }
+                    temp += i;
+                    num++;
+                }
+            }
+        }
+        return ans;
+    }

@@ -1,0 +1,9 @@
+def f_gold ( A , arr_size , sum ) :
+    l , r = 0 , 0
+    for i in range ( arr_size - 2 ) :
+        for j in range ( i + 1 , arr_size - 1 ) :
+            for k in range ( j + 1 , arr_size ) :
+                if A [ i ] + A [ j ] + A [ k ] == sum :
+                    print ( "Triplet is %d, %d, %d" % ( A [ i ] , A [ j ] , A [ k ] ) )
+                    return True
+    return False

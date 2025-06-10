@@ -1,0 +1,191 @@
+[
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_PALINDROME_SUB_STRINGS_STRING"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_PALINDROMIC_SUBSEQUENCE_GIVEN_STRING"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_SUBARRAYS_WITH_SAME_EVEN_AND_ODD_ELEMENTS"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DYNAMIC_PROGRAMMING_SET_37_BOOLEAN_PARENTHESIZATION_PROBLEM"
+    },
+    {
+        "stdout": "",
+        "stderr": "CompError!result/starchat/c++_repair_eval_3/FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D_1.cpp: In function 'int f_filled(int*, int)':\nresult/starchat/c++_repair_eval_3/FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D_1.cpp:46:22: error: invalid types 'int[int]' for array subscript\n   46 |             um[arr[i][j]] = {i, j};\n      |                      ^\nresult/starchat/c++_repair_eval_3/FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D_1.cpp:52:34: error: invalid types 'int[int]' for array subscript\n   52 |             int diff = abs(arr[i][j] - arr[i][i]);\n      |                                  ^\nresult/starchat/c++_repair_eval_3/FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D_1.cpp:52:46: error: invalid types 'int[int]' for array subscript\n   52 |             int diff = abs(arr[i][j] - arr[i][i]);\n      |                                              ^\nresult/starchat/c++_repair_eval_3/FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D_1.cpp:55:46: error: invalid types 'int[int]' for array subscript\n   55 |                     ans = max(ans, max(arr[i][j], arr[i][i]));\n      |                                              ^\nresult/starchat/c++_repair_eval_3/FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D_1.cpp:55:57: error: invalid types 'int[int]' for array subscript\n   55 |                     ans = max(ans, max(arr[i][j], arr[i][i]));\n      |                                                         ^\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D_1"
+    },
+    {
+        "stdout": "#Results: 4, 10",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_MAXIMUM_DOT_PRODUCT_TWO_ARRAYS_INSERTION_0S"
+    },
+    {
+        "stdout": "",
+        "stderr": "CompError!result/starchat/c++_repair_eval_3/FIND_MINIMUM_DIFFERENCE_PAIR.cpp: In function 'int f_filled(int*, int)':\nresult/starchat/c++_repair_eval_3/FIND_MINIMUM_DIFFERENCE_PAIR.cpp:31:1: warning: control reaches end of non-void function [-Wreturn-type]\n   31 | }\n      | ^\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_MINIMUM_DIFFERENCE_PAIR"
+    },
+    {
+        "stdout": "#Results: 1, 10",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_MINIMUM_DIFFERENCE_PAIR_1"
+    },
+    {
+        "stdout": "#Results: 9, 10",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_MINIMUM_NUMBER_OF_COINS_THAT_MAKE_A_CHANGE_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "CompError!result/starchat/c++_repair_eval_3/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.cpp: In function 'int f_filled(int*, int, int)':\nresult/starchat/c++_repair_eval_3/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.cpp:42:34: error: invalid types 'int[int]' for array subscript\n   42 |       if ( i == 0 ) leftMax [ i ][ j ] = INT_MIN ;\n      |                                  ^\nresult/starchat/c++_repair_eval_3/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.cpp:43:25: error: invalid types 'int[int]' for array subscript\n   43 |       else leftMax [ i ][ j ] = max ( leftMax [ i - 1 ][ j ], arr [ i - 1 ][ j ] ) ;\n      |                         ^\nresult/starchat/c++_repair_eval_3/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.cpp:43:56: error: invalid types 'int[int]' for array subscript\n   43 |       else leftMax [ i ][ j ] = max ( leftMax [ i - 1 ][ j ], arr [ i - 1 ][ j ] ) ;\n      |                                                        ^\nresult/starchat/c++_repair_eval_3/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.cpp:43:76: error: invalid types 'int[int]' for array subscript\n   43 |       else leftMax [ i ][ j ] = max ( leftMax [ i - 1 ][ j ], arr [ i - 1 ][ j ] ) ;\n      |                                                                            ^\nresult/starchat/c++_repair_eval_3/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.cpp:53:25: error: invalid types 'int[int]' for array subscript\n   53 |       if ( leftMax [ i ][ j ] < arr [ i ][ j ] && rightMin > arr [ i ][ j ] ) return i ;\n      |                         ^\nresult/starchat/c++_repair_eval_3/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.cpp:53:42: error: invalid types 'int[int]' for array subscript\n   53 |       if ( leftMax [ i ][ j ] < arr [ i ][ j ] && rightMin > arr [ i ][ j ] ) return i ;\n      |                                          ^\nresult/starchat/c++_repair_eval_3/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.cpp:53:71: error: invalid types 'int[int]' for array subscript\n   53 |       if ( leftMax [ i ][ j ] < arr [ i ][ j ] && rightMin > arr [ i ][ j ] ) return i ;\n      |                                                                       ^\nresult/starchat/c++_repair_eval_3/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.cpp:54:43: error: invalid types 'int[int]' for array subscript\n   54 |       rightMin = min ( rightMin, arr [ i ][ j ] ) ;\n      |                                           ^\nresult/starchat/c++_repair_eval_3/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.cpp: In function 'int main()':\nresult/starchat/c++_repair_eval_3/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.cpp:66:20: error: too few arguments to function 'int f_filled(int*, int, int)'\n   66 |         if(f_filled(&param0[i].front(),param1[i]) == f_gold(&param0[i].front(),param1[i]))\n      |            ~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nresult/starchat/c++_repair_eval_3/FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT.cpp:33:5: note: declared here\n   33 | int f_filled(int arr [],int n,int m){\n      |     ^~~~~~~~\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_THE_ELEMENT_BEFORE_WHICH_ALL_THE_ELEMENTS_ARE_SMALLER_THAN_IT_AND_AFTER_WHICH_ALL_ARE_GREATER_THAN_IT"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_THE_MISSING_NUMBER_1"
+    },
+    {
+        "stdout": "#Results: 5, 10",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FORM_MINIMUM_NUMBER_FROM_GIVEN_SEQUENCE_1"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LENGTH_OF_THE_LONGEST_ARITHMATIC_PROGRESSION_IN_A_SORTED_ARRAY"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LONGEST_SUBSEQUENCE_SUCH_THAT_DIFFERENCE_BETWEEN_ADJACENTS_IS_ONE"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_POSSIBLE_DIFFERENCE_TWO_SUBSETS_ARRAY_1"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_PRODUCT_SUBSET_ARRAY"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_PROFIT_BY_BUYING_AND_SELLING_A_SHARE_AT_MOST_TWICE"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUBARRAY_SUM_USING_PREFIX_SUM"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUBSEQUENCE_SUM_SUCH_THAT_NO_THREE_ARE_CONSECUTIVE"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_VALUE_CHOICE_EITHER_DIVIDING_CONSIDERING"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_1"
+    },
+    {
+        "stdout": "#Results: 2, 10",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MINIMUM_NUMBER_SUBSETS_DISTINCT_ELEMENTS"
+    },
+    {
+        "stdout": "",
+        "stderr": "CompError!result/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp: In function 'int f_filled(int*, int)':\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:30:16: error: conversion from 'int' to non-scalar type 'std::set<int>' requested\n   30 | set<int> ans = 0;\n      |                ^\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:31:41: error: no 'operator++(int)' declared for postfix '++' [-fpermissive]\n   31 |     for (auto x:mp) if (x.second==1) ans++;\n      |                                      ~~~^~\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:32:13: error: no match for 'operator-' (operand types are 'int' and 'std::set<int>')\n   32 |     return n-ans;\n      |            ~^~~~\n      |            | |\n      |            | std::set<int>\n      |            int\nIn file included from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/string:48,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/locale_classes.h:40,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/ios_base.h:41,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ios:44,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ostream:40,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/iostream:41,\n                 from result/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:8:\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/stl_iterator.h:618:5: note: candidate: 'template<class _IteratorL, class _IteratorR> constexpr decltype ((__y.base() - __x.base())) std::operator-(const reverse_iterator<_Iterator>&, const reverse_iterator<_IteratorR>&)'\n  618 |     operator-(const reverse_iterator<_IteratorL>& __x,\n      |     ^~~~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/stl_iterator.h:618:5: note:   template argument deduction/substitution failed:\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:32:14: note:   mismatched types 'const std::reverse_iterator<_Iterator>' and 'int'\n   32 |     return n-ans;\n      |              ^~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/stl_iterator.h:1789:5: note: candidate: 'template<class _IteratorL, class _IteratorR> constexpr decltype ((__x.base() - __y.base())) std::operator-(const move_iterator<_IteratorL>&, const move_iterator<_IteratorR>&)'\n 1789 |     operator-(const move_iterator<_IteratorL>& __x,\n      |     ^~~~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/stl_iterator.h:1789:5: note:   template argument deduction/substitution failed:\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:32:14: note:   mismatched types 'const std::move_iterator<_IteratorL>' and 'int'\n   32 |     return n-ans;\n      |              ^~~\nIn file included from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ccomplex:39,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/stdc++.h:127,\n                 from result/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:14:\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/complex:370:5: note: candidate: 'template<class _Tp> std::complex<_Tp> std::operator-(const complex<_Tp>&, const complex<_Tp>&)'\n  370 |     operator-(const complex<_Tp>& __x, const complex<_Tp>& __y)\n      |     ^~~~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/complex:370:5: note:   template argument deduction/substitution failed:\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:32:14: note:   mismatched types 'const std::complex<_Tp>' and 'int'\n   32 |     return n-ans;\n      |              ^~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/complex:379:5: note: candidate: 'template<class _Tp> std::complex<_Tp> std::operator-(const complex<_Tp>&, const _Tp&)'\n  379 |     operator-(const complex<_Tp>& __x, const _Tp& __y)\n      |     ^~~~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/complex:379:5: note:   template argument deduction/substitution failed:\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:32:14: note:   mismatched types 'const std::complex<_Tp>' and 'int'\n   32 |     return n-ans;\n      |              ^~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/complex:388:5: note: candidate: 'template<class _Tp> std::complex<_Tp> std::operator-(const _Tp&, const complex<_Tp>&)'\n  388 |     operator-(const _Tp& __x, const complex<_Tp>& __y)\n      |     ^~~~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/complex:388:5: note:   template argument deduction/substitution failed:\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:32:14: note:   'std::set<int>' is not derived from 'const std::complex<_Tp>'\n   32 |     return n-ans;\n      |              ^~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/complex:465:5: note: candidate: 'template<class _Tp> std::complex<_Tp> std::operator-(const complex<_Tp>&)'\n  465 |     operator-(const complex<_Tp>& __x)\n      |     ^~~~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/complex:465:5: note:   candidate expects 1 argument, 2 provided\nIn file included from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/valarray:605,\n                 from D:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/x86_64-w64-mingw32/bits/stdc++.h:166:\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/valarray_after.h:406:5: note: candidate: 'template<class _Dom1, class _Dom2> std::_Expr<std::__detail::_BinClos<std::__minus, std::_Expr, std::_Expr, _Dom1, _Dom2>, typename std::__fun<std::__minus, typename _Dom1::value_type>::result_type> std::operator-(const _Expr<_Dom1, typename _Dom1::value_type>&, const _Expr<_Dom2, typename _Dom2::value_type>&)'\n  406 |     _DEFINE_EXPR_BINARY_OPERATOR(-, struct std::__minus)\n      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/valarray_after.h:406:5: note:   template argument deduction/substitution failed:\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:32:14: note:   mismatched types 'const std::_Expr<_Dom1, typename _Dom1::value_type>' and 'int'\n   32 |     return n-ans;\n      |              ^~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/valarray_after.h:406:5: note: candidate: 'template<class _Dom> std::_Expr<std::__detail::_BinClos<std::__minus, std::_Expr, std::_Constant, _Dom, typename _Dom::value_type>, typename std::__fun<std::__minus, typename _Dom1::value_type>::result_type> std::operator-(const _Expr<_Dom1, typename _Dom1::value_type>&, const typename _Dom::value_type&)'\n  406 |     _DEFINE_EXPR_BINARY_OPERATOR(-, struct std::__minus)\n      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/valarray_after.h:406:5: note:   template argument deduction/substitution failed:\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:32:14: note:   mismatched types 'const std::_Expr<_Dom1, typename _Dom1::value_type>' and 'int'\n   32 |     return n-ans;\n      |              ^~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/valarray_after.h:406:5: note: candidate: 'template<class _Dom> std::_Expr<std::__detail::_BinClos<std::__minus, std::_Constant, std::_Expr, typename _Dom::value_type, _Dom>, typename std::__fun<std::__minus, typename _Dom1::value_type>::result_type> std::operator-(const typename _Dom::value_type&, const _Expr<_Dom1, typename _Dom1::value_type>&)'\n  406 |     _DEFINE_EXPR_BINARY_OPERATOR(-, struct std::__minus)\n      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/valarray_after.h:406:5: note:   template argument deduction/substitution failed:\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:32:14: note:   'std::set<int>' is not derived from 'const std::_Expr<_Dom1, typename _Dom1::value_type>'\n   32 |     return n-ans;\n      |              ^~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/valarray_after.h:406:5: note: candidate: 'template<class _Dom> std::_Expr<std::__detail::_BinClos<std::__minus, std::_Expr, std::_ValArray, _Dom, typename _Dom::value_type>, typename std::__fun<std::__minus, typename _Dom1::value_type>::result_type> std::operator-(const _Expr<_Dom1, typename _Dom1::value_type>&, const valarray<typename _Dom::value_type>&)'\n  406 |     _DEFINE_EXPR_BINARY_OPERATOR(-, struct std::__minus)\n      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/valarray_after.h:406:5: note:   template argument deduction/substitution failed:\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:32:14: note:   mismatched types 'const std::_Expr<_Dom1, typename _Dom1::value_type>' and 'int'\n   32 |     return n-ans;\n      |              ^~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/valarray_after.h:406:5: note: candidate: 'template<class _Dom> std::_Expr<std::__detail::_BinClos<std::__minus, std::_ValArray, std::_Expr, typename _Dom::value_type, _Dom>, typename std::__fun<std::__minus, typename _Dom1::value_type>::result_type> std::operator-(const valarray<typename _Dom::value_type>&, const _Expr<_Dom1, typename _Dom1::value_type>&)'\n  406 |     _DEFINE_EXPR_BINARY_OPERATOR(-, struct std::__minus)\n      |     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/valarray_after.h:406:5: note:   template argument deduction/substitution failed:\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:32:14: note:   'std::set<int>' is not derived from 'const std::_Expr<_Dom1, typename _Dom1::value_type>'\n   32 |     return n-ans;\n      |              ^~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/valarray:1197:1: note: candidate: 'template<class _Tp> std::_Expr<std::__detail::_BinClos<std::__minus, std::_ValArray, std::_ValArray, _Tp, _Tp>, typename std::__fun<std::__minus, _Tp>::result_type> std::operator-(const valarray<_Tp>&, const valarray<_Tp>&)'\n 1197 | _DEFINE_BINARY_OPERATOR(-, __minus)\n      | ^~~~~~~~~~~~~~~~~~~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/valarray:1197:1: note:   template argument deduction/substitution failed:\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:32:14: note:   mismatched types 'const std::valarray<_Tp>' and 'int'\n   32 |     return n-ans;\n      |              ^~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/valarray:1197:1: note: candidate: 'template<class _Tp> std::_Expr<std::__detail::_BinClos<std::__minus, std::_ValArray, std::_Constant, _Tp, _Tp>, typename std::__fun<std::__minus, _Tp>::result_type> std::operator-(const valarray<_Tp>&, const typename valarray<_Tp>::value_type&)'\n 1197 | _DEFINE_BINARY_OPERATOR(-, __minus)\n      | ^~~~~~~~~~~~~~~~~~~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/valarray:1197:1: note:   template argument deduction/substitution failed:\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:32:14: note:   mismatched types 'const std::valarray<_Tp>' and 'int'\n   32 |     return n-ans;\n      |              ^~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/valarray:1197:1: note: candidate: 'template<class _Tp> std::_Expr<std::__detail::_BinClos<std::__minus, std::_Constant, std::_ValArray, _Tp, _Tp>, typename std::__fun<std::__minus, _Tp>::result_type> std::operator-(const typename valarray<_Tp>::value_type&, const valarray<_Tp>&)'\n 1197 | _DEFINE_BINARY_OPERATOR(-, __minus)\n      | ^~~~~~~~~~~~~~~~~~~~~~~\nD:/study/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/valarray:1197:1: note:   template argument deduction/substitution failed:\nresult/starchat/c++_repair_eval_3/MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY.cpp:32:14: note:   'std::set<int>' is not derived from 'const std::valarray<_Tp>'\n   32 |     return n-ans;\n      |              ^~~\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MINIMUM_OPERATION_MAKE_ELEMENTS_EQUAL_ARRAY"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "NUMBER_WHICH_HAS_THE_MAXIMUM_NUMBER_OF_DISTINCT_PRIME_FACTORS_IN_RANGE_M_TO_N"
+    },
+    {
+        "stdout": "",
+        "stderr": "CompError!result/starchat/c++_repair_eval_3/PROGRAM_TO_FIND_THE_AREA_OF_PENTAGON.cpp: In function 'float f_filled(float)':\nresult/starchat/c++_repair_eval_3/PROGRAM_TO_FIND_THE_AREA_OF_PENTAGON.cpp:25:22: error: 'math' was not declared in this scope\n   25 |       area =  float((math.sqrt(5*(5+2*(math.sqrt(5))))*a*a))/4;\n      |                      ^~~~\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "PROGRAM_TO_FIND_THE_AREA_OF_PENTAGON"
+    },
+    {
+        "stdout": "#Results: 10, 10",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SPACE_OPTIMIZED_DP_SOLUTION_0_1_KNAPSACK_PROBLEM_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "CompError!result/starchat/c++_repair_eval_3/SUBARRAYS_DISTINCT_ELEMENTS.cpp: In function 'int f_filled(std::vector<int>, int)':\nresult/starchat/c++_repair_eval_3/SUBARRAYS_DISTINCT_ELEMENTS.cpp:34:4: error: structured binding declaration cannot have type 'int'\n   34 | int[] s;\n      |    ^~\nresult/starchat/c++_repair_eval_3/SUBARRAYS_DISTINCT_ELEMENTS.cpp:34:4: note: type must be cv-qualified 'auto' or reference to cv-qualified 'auto'\nresult/starchat/c++_repair_eval_3/SUBARRAYS_DISTINCT_ELEMENTS.cpp:34:4: error: empty structured binding declaration\nresult/starchat/c++_repair_eval_3/SUBARRAYS_DISTINCT_ELEMENTS.cpp:34:7: error: expected initializer before 's'\n   34 | int[] s;\n      |       ^\nresult/starchat/c++_repair_eval_3/SUBARRAYS_DISTINCT_ELEMENTS.cpp:38:25: error: 's' was not declared in this scope\n   38 |         while (j < n &&!s.count(arr[j])) {\n      |                         ^\nresult/starchat/c++_repair_eval_3/SUBARRAYS_DISTINCT_ELEMENTS.cpp:43:9: error: 's' was not declared in this scope\n   43 |         s.erase(arr[i]);\n      |         ^\nresult/starchat/c++_repair_eval_3/SUBARRAYS_DISTINCT_ELEMENTS.cpp: In function 'int main()':\nresult/starchat/c++_repair_eval_3/SUBARRAYS_DISTINCT_ELEMENTS.cpp:54:21: error: could not convert '&(& param0.std::vector<std::vector<int> >::operator[](((std::vector<std::vector<int> >::size_type)i)))->std::vector<int>::front()' from '__gnu_cxx::__alloc_traits<std::allocator<int>, int>::value_type*' {aka 'int*'} to 'std::vector<int>'\n   54 |         if(f_filled(&param0[i].front(),param1[i]) == f_gold(&param0[i].front(),param1[i]))\n      |                     ^~~~~~~~~~~~~~~~~~\n      |                     |\n      |                     __gnu_cxx::__alloc_traits<std::allocator<int>, int>::value_type* {aka int*}\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "SUBARRAYS_DISTINCT_ELEMENTS"
+    }
+]

@@ -1,0 +1,19 @@
+def f_gold(a, b):
+        if a == 0:
+            return b
+        if b == 0:
+            return a
+        k = 0
+        while ((a | b) & 1) == 0:
+            k += 1
+            a >>= 1
+            b >>= 1
+        while (a & 1) == 0:
+            a >>= 1
+        while (b & 1) == 0:
+            b >>= 1
+        while a > b:
+            temp = a
+            a = b
+            b = temp
+        return a << k

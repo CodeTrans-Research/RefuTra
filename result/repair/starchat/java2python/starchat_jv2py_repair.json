@@ -1,0 +1,233 @@
+[
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_DISTINCT_OCCURRENCES_AS_A_SUBSEQUENCE"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CALCULATE_VOLUME_DODECAHEDRON"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_TO_FIND_THE_AREA_OF_PENTAGON"
+    },
+    {
+        "stdout": "20 20 67 -54 22 -42 -22 -48 -20 34 -50 -22 -30 -94 -54 22 -42 -22 -48 -20 34 -50 -22 -30 -94 62 -24 70 -54 -38 84 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 62 20 8 18 54 64 88 74 58 30 96 4 24 67 99 53 35 61 85 9 45 93 65 87 99 31 77 69 62 20 8 18 54 64 88 74 58 30 96 4 24 67 99 53 35 61 85 9 45 93 65 87 99 31 77 69 54 88 43 84 62 34 93 -28 -6 -28 -6 18 42 98 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 1 0 0 10 42 10 42 46 88 4 -88 2 -16 -74 -18 -60 86 88 -2 82 -8 54 -84 -4 32 88 4 -88 2 -16 -74 -18 -60 86 88 -2 82 -8 54 -84 -4 32 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 80 52 56 68 48 40 64 44 4 20 69 9 97 73 25 80 52 56 68 48 40 64 44 4 20 69 9 97 73 25 66 46 64 72 79 24 #Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SEGREGATE_EVEN_ODD_NUMBERS_SET_3"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_PALINDROMIC_SUBSEQUENCE_GIVEN_STRING"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUBARRAY_SUM_ARRAY_CREATED_REPEATED_CONCATENATION"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_THE_MISSING_NUMBER_1"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_CALCULATE_VOLUME_OCTAHEDRON"
+    },
+    {
+        "stdout": "",
+        "stderr": "Traceback (most recent call last):\n  File \"/data/oyj/cstproject/result2/repair/starchat/java2python/python_repair_eval/COUNT_POSSIBLE_GROUPS_SIZE_2_3_SUM_MULTIPLE_3.py\", line 56, in <module>\n    filledres = f_filled(*parameters_set)\n  File \"/data/oyj/cstproject/result2/repair/starchat/java2python/python_repair_eval/COUNT_POSSIBLE_GROUPS_SIZE_2_3_SUM_MULTIPLE_3.py\", line 30, in f_filled\n    res =  (((c[0]*(c[0]-1))>>1))+(((c___0*(c___0-1))>>1))\nNameError: name 'c___0' is not defined\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_POSSIBLE_GROUPS_SIZE_2_3_SUM_MULTIPLE_3"
+    },
+    {
+        "stdout": "#Results: 6, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MINIMUM_PRODUCT_SUBSET_ARRAY"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_SUM_EVEN_INDEX_BINOMIAL_COEFFICIENTS"
+    },
+    {
+        "stdout": "#Results: 0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MAXIMUM_SUM_PAIRS_SPECIFIC_DIFFERENCE_1"
+    },
+    {
+        "stdout": "The third Largest element is 58\nThe Third Largest element is 58\nThe third Largest element is 58\nThe Third Largest element is 58\nThe third Largest element is -9223372036854775807\nThe Third Largest element is -9223372036854775807\nThe third Largest element is 77\nThe Third Largest element is 77\nInvalid Input\n Invalid Input \nInvalid Input\n Invalid Input \nThe third Largest element is 89\nThe Third Largest element is 89\nThe third Largest element is 88\nThe Third Largest element is 88\nThe third Largest element is -9223372036854775807\nThe Third Largest element is -9223372036854775807\nThe third Largest element is 88\nThe Third Largest element is 88\n#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "THIRD_LARGEST_ELEMENT_ARRAY_DISTINCT_ELEMENTS"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_BINOMIAL_COEFFICIENT_TERM_VALUE"
+    },
+    {
+        "stdout": "#Results: 8, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MINIMUM_NUMBER_OF_JUMPS_TO_REACH_END_OF_A_GIVEN_ARRAY_2"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_ROTATIONS_UNLOCK_CIRCULAR_LOCK"
+    },
+    {
+        "stdout": "#Results: 9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MAXIMUM_PRODUCT_SUBSET_ARRAY"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "HOW_TO_CHECK_IF_A_GIVEN_ARRAY_REPRESENTS_A_BINARY_HEAP_1"
+    },
+    {
+        "stdout": "#Results: 9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "PROGRAM_DECIMAL_BINARY_CONVERSION_2"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "LENGTH_OF_THE_LONGEST_ARITHMATIC_PROGRESSION_IN_A_SORTED_ARRAY"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PRIME_NUMBERS"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_BINOMIAL_COEFFICIENTS"
+    },
+    {
+        "stdout": "#Results: 2, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MINIMUM_NUMBER_SUBSETS_DISTINCT_ELEMENTS"
+    },
+    {
+        "stdout": "",
+        "stderr": "Traceback (most recent call last):\n  File \"/data/oyj/cstproject/result2/repair/starchat/java2python/python_repair_eval/FIND_A_ROTATION_WITH_MAXIMUM_HAMMING_DISTANCE.py\", line 66, in <module>\n    filledres = f_filled(*parameters_set)\n  File \"/data/oyj/cstproject/result2/repair/starchat/java2python/python_repair_eval/FIND_A_ROTATION_WITH_MAXIMUM_HAMMING_DISTANCE.py\", line 42, in f_filled\n    if (brr[j]!=arr[k]):\nNameError: name 'k' is not defined\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_A_ROTATION_WITH_MAXIMUM_HAMMING_DISTANCE"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MINIMUM_COST_MAKE_ARRAY_SIZE_1_REMOVING_LARGER_PAIRS"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUBARRAY_SUM_USING_PREFIX_SUM"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MULTIPLY_AN_INTEGER_WITH_3_5"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "DICE_THROW_PROBLEM"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_SQUARES_BINOMIAL_COEFFICIENTS"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_TRAILING_ZEROES_FACTORIAL_NUMBER"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PRIMALITY_TEST_SET_1_INTRODUCTION_AND_SCHOOL_METHOD_1"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MARKOV_MATRIX"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_GIVEN_CIRCLE_LIES_COMPLETELY_INSIDE_RING_FORMED_TWO_CONCENTRIC_CIRCLES"
+    }
+]

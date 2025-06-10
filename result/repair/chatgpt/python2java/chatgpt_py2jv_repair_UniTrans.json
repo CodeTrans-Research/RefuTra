@@ -1,0 +1,471 @@
+[
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHANGE_BITS_CAN_MADE_ONE_FLIP_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/SORT_ARRAY_APPLYING_GIVEN_EQUATION.java:43: error: illegal start of type\nstatic for (int l = 0; l < n; l++) { //<Buggy Line>\n       ^\nresult2/translate/chatgpt/python2java/java_fails_uni_repair2/SORT_ARRAY_APPLYING_GIVEN_EQUATION.java:43: error: > or ',' expected\nstatic for (int l = 0; l < n; l++) { //<Buggy Line>\n                            ^\nresult2/translate/chatgpt/python2java/java_fails_uni_repair2/SORT_ARRAY_APPLYING_GIVEN_EQUATION.java:43: error: <identifier> expected\nstatic for (int l = 0; l < n; l++) { //<Buggy Line>\n                               ^\n3 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "SORT_ARRAY_APPLYING_GIVEN_EQUATION"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/SQUARE_ROOT_OF_A_PERFECT_SQUARE.java:51: error: method f_filled in class SQUARE_ROOT_OF_A_PERFECT_SQUARE cannot be applied to given types;\n        if(Math.abs(1 - (0.0000001 + Math.abs(f_gold(param0.get(i))) )/ (Math.abs(f_filled(param0.get(i))) + 0.0000001)) < 0.001F)\n                                                                                  ^\n  required: int\n  found:    Float\n  reason: argument mismatch; Float cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "SQUARE_ROOT_OF_A_PERFECT_SQUARE"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/PROGRAM_CHECK_ISBN.java:37: error: no suitable method found for parseInt(char)\n        if (0 <= Integer.parseInt(isbn.charAt(i)) && Integer.parseInt(isbn.charAt(i)) <= 9) {\n                        ^\n    method Integer.parseInt(String,int) is not applicable\n      (actual and formal argument lists differ in length)\n    method Integer.parseInt(CharSequence,int,int,int) is not applicable\n      (actual and formal argument lists differ in length)\n    method Integer.parseInt(String) is not applicable\n      (argument mismatch; char cannot be converted to String)\nresult2/translate/chatgpt/python2java/java_fails_uni_repair2/PROGRAM_CHECK_ISBN.java:37: error: no suitable method found for parseInt(char)\n        if (0 <= Integer.parseInt(isbn.charAt(i)) && Integer.parseInt(isbn.charAt(i)) <= 9) {\n                                                            ^\n    method Integer.parseInt(String,int) is not applicable\n      (actual and formal argument lists differ in length)\n    method Integer.parseInt(CharSequence,int,int,int) is not applicable\n      (actual and formal argument lists differ in length)\n    method Integer.parseInt(String) is not applicable\n      (argument mismatch; char cannot be converted to String)\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "PROGRAM_CHECK_ISBN"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "COUNT_DIGITS_FACTORIAL_SET_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT.java:42: error: incompatible types: unexpected return value\n        if (length == 1 && num.charAt(0) == '0') return true;\n                                                        ^\nresult2/translate/chatgpt/python2java/java_fails_uni_repair2/CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT.java:63: error: incompatible types: unexpected return value\n        return (sum % 13 == 0);\n               ^\nresult2/translate/chatgpt/python2java/java_fails_uni_repair2/CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT.java:63: error: incompatible types: boolean cannot be converted to void\n        return (sum % 13 == 0);\n                         ^\nresult2/translate/chatgpt/python2java/java_fails_uni_repair2/CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT.java:81: error: 'void' type not allowed here\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n                   ^\n4 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CHECK_LARGE_NUMBER_DIVISIBLE_13_NOT"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for length 3\n\tat LONGEST_SUBSEQUENCE_DIFFERENCE_ADJACENTS_ONE_SET_2.f_filled(LONGEST_SUBSEQUENCE_DIFFERENCE_ADJACENTS_ONE_SET_2.java:34)\n\tat LONGEST_SUBSEQUENCE_DIFFERENCE_ADJACENTS_ONE_SET_2.main(LONGEST_SUBSEQUENCE_DIFFERENCE_ADJACENTS_ONE_SET_2.java:74)\n",
+        "state": "RuntimeError",
+        "WhyError": "RuntimeError_",
+        "filename": "LONGEST_SUBSEQUENCE_DIFFERENCE_ADJACENTS_ONE_SET_2"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/NTH_EVEN_LENGTH_PALINDROME.java:45: error: int cannot be dereferenced\n        if(f_filled(param0.get(i)).equals(f_gold(param0.get(i))))\n                                  ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "NTH_EVEN_LENGTH_PALINDROME"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/MARKOV_MATRIX.java:55: error: method f_filled in class MARKOV_MATRIX cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: int[][]\n  found:    double[][]\n  reason: argument mismatch; double[][] cannot be converted to int[][]\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MARKOV_MATRIX"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "WRITE_AN_EFFICIENT_METHOD_TO_CHECK_IF_A_NUMBER_IS_MULTIPLE_OF_3"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S.java:55: error: cannot find symbol\n            System.out.print(startindex + \" to \" + (startindex + maxsize - 1));\n                             ^\n  symbol:   variable startindex\n  location: class LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S\nresult2/translate/chatgpt/python2java/java_fails_uni_repair2/LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S.java:55: error: cannot find symbol\n            System.out.print(startindex + \" to \" + (startindex + maxsize - 1));\n                                                    ^\n  symbol:   variable startindex\n  location: class LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S\nresult2/translate/chatgpt/python2java/java_fails_uni_repair2/LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S.java:85: error: 'void' type not allowed here\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n                   ^\n3 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "LARGEST_SUBARRAY_WITH_EQUAL_NUMBER_OF_0S_AND_1S"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/PARTITION_INTO_TWO_SUBARRAYS_OF_LENGTHS_K_AND_N_K_SUCH_THAT_THE_DIFFERENCE_OF_SUMS_IS_MAXIMUM.java:49: error: incompatible types: int cannot be converted to int[]\n    int[] M = Math.max(k, N - k);\n                      ^\nresult2/translate/chatgpt/python2java/java_fails_uni_repair2/PARTITION_INTO_TWO_SUBARRAYS_OF_LENGTHS_K_AND_N_K_SUCH_THAT_THE_DIFFERENCE_OF_SUMS_IS_MAXIMUM.java:50: error: bad operand types for binary operator '<'\n    for (int i = 0; i < M; i++) {\n                      ^\n  first type:  int\n  second type: int[]\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "PARTITION_INTO_TWO_SUBARRAYS_OF_LENGTHS_K_AND_N_K_SUCH_THAT_THE_DIFFERENCE_OF_SUMS_IS_MAXIMUM"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/PROGRAM_PRINT_SUM_GIVEN_NTH_TERM_1.java:37: error: method f_filled in class PROGRAM_PRINT_SUM_GIVEN_NTH_TERM_1 cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: int\n  found:    Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "PROGRAM_PRINT_SUM_GIVEN_NTH_TERM_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/MULTIPLY_LARGE_INTEGERS_UNDER_LARGE_MODULO.java:77: error: method f_filled in class MULTIPLY_LARGE_INTEGERS_UNDER_LARGE_MODULO cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i),param2.get(i)) == f_gold(param0.get(i),param1.get(i),param2.get(i)))\n           ^\n  required: int,int,int\n  found:    Long,Long,Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MULTIPLY_LARGE_INTEGERS_UNDER_LARGE_MODULO"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/COUNT_ROTATIONS_DIVISIBLE_8.java:66: error: ')' expected\n        threeDigit = (Integer.parseInt(String.valueOf(n.charAt(i))) * 100 + Integer.parseInt(String.valueOf(n.charAt(i + 1))) * 10 + Integer.parseInt(String.valueOf(n.charAt(i + 2))); //<Buggy Line>\n                                                                                                                                                                                      ^\nresult2/translate/chatgpt/python2java/java_fails_uni_repair2/COUNT_ROTATIONS_DIVISIBLE_8.java:71: error: ')' expected\n    threeDigit = (Integer.parseInt(String.valueOf(n.charAt(l - 1))) * 100 + Integer.parseInt(String.valueOf(n.charAt(0))) * 10 + Integer.parseInt(String.valueOf(n.charAt(1)));\n                                                                                                                                                                              ^\nresult2/translate/chatgpt/python2java/java_fails_uni_repair2/COUNT_ROTATIONS_DIVISIBLE_8.java:75: error: ')' expected\n    threeDigit = (Integer.parseInt(String.valueOf(n.charAt(l - 2))) * 100 + Integer.parseInt(String.valueOf(n.charAt(l - 1))) * 10 + Integer.parseInt(String.valueOf(n.charAt(0)));\n                                                                                                                                                                                  ^\n3 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_ROTATIONS_DIVISIBLE_8"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/CHECK_DIVISIBILITY_LARGE_NUMBER_999.java:39: error: illegal start of expression\npublic static void main(String args[]) {\n^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CHECK_DIVISIBILITY_LARGE_NUMBER_999"
+    },
+    {
+        "stdout": "#Results:9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MAXIMUM_AVERAGE_SUM_PARTITION_ARRAY"
+    },
+    {
+        "stdout": "#Results:8, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "NTH_MULTIPLE_NUMBER_FIBONACCI_SERIES"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "PROGRAM_CENSOR_WORD_ASTERISKS_SENTENCE"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/FIND_LARGEST_PRIME_FACTOR_NUMBER.java:65: error: method f_filled in class FIND_LARGEST_PRIME_FACTOR_NUMBER cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: int\n  found:    Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_LARGEST_PRIME_FACTOR_NUMBER"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/COUNT_OPERATIONS_MAKE_STRINGAB_FREE.java:60: error: method f_filled in class COUNT_OPERATIONS_MAKE_STRINGAB_FREE cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: String\n  found:    char[]\n  reason: argument mismatch; char[] cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_OPERATIONS_MAKE_STRINGAB_FREE"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/HOW_TO_AVOID_OVERFLOW_IN_MODULAR_MULTIPLICATION.java:77: error: method f_filled in class HOW_TO_AVOID_OVERFLOW_IN_MODULAR_MULTIPLICATION cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i),param2.get(i)) == f_gold(param0.get(i),param1.get(i),param2.get(i)))\n           ^\n  required: int,int,int\n  found:    Long,Long,Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "HOW_TO_AVOID_OVERFLOW_IN_MODULAR_MULTIPLICATION"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_IF_A_NUMBER_IS_POWER_OF_ANOTHER_NUMBER_1"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "SUM_SERIES_23_45_67_89_UPTO_N_TERMS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/CHECK_WHETHER_LARGE_NUMBER_DIVISIBLE_7.java:76: error: incomparable types: int and boolean\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n                                   ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CHECK_WHETHER_LARGE_NUMBER_DIVISIBLE_7"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/FIND_HARMONIC_MEAN_USING_ARITHMETIC_MEAN_GEOMETRIC_MEAN.java:22: error: illegal start of type\nstatic import java.lang.Math;\n       ^\nresult2/translate/chatgpt/python2java/java_fails_uni_repair2/FIND_HARMONIC_MEAN_USING_ARITHMETIC_MEAN_GEOMETRIC_MEAN.java:22: error: <identifier> expected\nstatic import java.lang.Math;\n                            ^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_HARMONIC_MEAN_USING_ARITHMETIC_MEAN_GEOMETRIC_MEAN"
+    },
+    {
+        "stdout": "",
+        "stderr": "loop",
+        "state": "Loop",
+        "WhyError": "Loop_",
+        "filename": "GIVEN_A_SORTED_AND_ROTATED_ARRAY_FIND_IF_THERE_IS_A_PAIR_WITH_A_GIVEN_SUM_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN.java:37: error: next() in <anonymous N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN$1> cannot implement next() in Iterator\n         Integer next() {\n                 ^\n  attempting to assign weaker access privileges; was public\n  where E is a type-variable:\n    E extends Object declared in interface Iterator\nresult2/translate/chatgpt/python2java/java_fails_uni_repair2/N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN.java:33: error: hasNext() in <anonymous N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN$1> cannot implement hasNext() in Iterator\n         boolean hasNext() {\n                 ^\n  attempting to assign weaker access privileges; was public\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "N_TH_NUMBER_WHOSE_SUM_OF_DIGITS_IS_TEN"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_WHETHER_A_GIVEN_NUMBER_IS_A_POWER_OF_4_OR_NOT_2"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.NumberFormatException: For input string: \"M\"\n\tat java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)\n\tat java.base/java.lang.Integer.parseInt(Integer.java:665)\n\tat java.base/java.lang.Integer.valueOf(Integer.java:992)\n\tat COUNT_ROTATIONS_DIVISIBLE_4.f_filled(COUNT_ROTATIONS_DIVISIBLE_4.java:44)\n\tat COUNT_ROTATIONS_DIVISIBLE_4.main(COUNT_ROTATIONS_DIVISIBLE_4.java:71)\n",
+        "state": "RuntimeError",
+        "WhyError": "RuntimeError_",
+        "filename": "COUNT_ROTATIONS_DIVISIBLE_4"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.NumberFormatException: For input string: \"j\"\n\tat java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)\n\tat java.base/java.lang.Integer.parseInt(Integer.java:665)\n\tat java.base/java.lang.Integer.parseInt(Integer.java:781)\n\tat LONGEST_EVEN_LENGTH_SUBSTRING_SUM_FIRST_SECOND_HALF_1.f_filled(LONGEST_EVEN_LENGTH_SUBSTRING_SUM_FIRST_SECOND_HALF_1.java:42)\n\tat LONGEST_EVEN_LENGTH_SUBSTRING_SUM_FIRST_SECOND_HALF_1.main(LONGEST_EVEN_LENGTH_SUBSTRING_SUM_FIRST_SECOND_HALF_1.java:75)\n",
+        "state": "RuntimeError",
+        "WhyError": "RuntimeError_",
+        "filename": "LONGEST_EVEN_LENGTH_SUBSTRING_SUM_FIRST_SECOND_HALF_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/NUMBER_IS_DIVISIBLE_BY_29_OR_NOT.java:47: error: method f_filled in class NUMBER_IS_DIVISIBLE_BY_29_OR_NOT cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: int\n  found:    Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "NUMBER_IS_DIVISIBLE_BY_29_OR_NOT"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/CALCULATE_ANGLE_HOUR_HAND_MINUTE_HAND.java:68: error: method f_filled in class CALCULATE_ANGLE_HOUR_HAND_MINUTE_HAND cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: int,int\n  found:    Double,Double\n  reason: argument mismatch; Double cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CALCULATE_ANGLE_HOUR_HAND_MINUTE_HAND"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/FIND_VALUE_OF_Y_MOD_2_RAISED_TO_POWER_X.java:50: error: method f_filled in class FIND_VALUE_OF_Y_MOD_2_RAISED_TO_POWER_X cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: int,int\n  found:    Long,Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_VALUE_OF_Y_MOD_2_RAISED_TO_POWER_X"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.NumberFormatException: For input string: \"N\"\n\tat java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)\n\tat java.base/java.lang.Integer.parseInt(Integer.java:665)\n\tat java.base/java.lang.Integer.parseInt(Integer.java:781)\n\tat CHECK_LARGE_NUMBER_DIVISIBLE_4_NOT.f_filled(CHECK_LARGE_NUMBER_DIVISIBLE_4_NOT.java:31)\n\tat CHECK_LARGE_NUMBER_DIVISIBLE_4_NOT.main(CHECK_LARGE_NUMBER_DIVISIBLE_4_NOT.java:51)\n",
+        "state": "RuntimeError",
+        "WhyError": "RuntimeError_",
+        "filename": "CHECK_LARGE_NUMBER_DIVISIBLE_4_NOT"
+    },
+    {
+        "stdout": "#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "COUNT_ARRAYS_CONSECUTIVE_ELEMENT_DIFFERENT_VALUES"
+    },
+    {
+        "stdout": "#Results:9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "MAKE_LARGEST_PALINDROME_CHANGING_K_DIGITS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/MODULUS_TWO_FLOAT_DOUBLE_NUMBERS.java:66: error: method f_filled in class MODULUS_TWO_FLOAT_DOUBLE_NUMBERS cannot be applied to given types;\n        if(Math.abs(1 - (0.0000001 + Math.abs(f_gold(param0.get(i),param1.get(i))) )/ (Math.abs(f_filled(param0.get(i),param1.get(i))) + 0.0000001)) < 0.001)\n                                                                                                ^\n  required: int,int\n  found:    Double,Double\n  reason: argument mismatch; Double cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MODULUS_TWO_FLOAT_DOUBLE_NUMBERS"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MULTIPLY_TWO_NUMBERS_WITHOUT_USING_MULTIPLY_DIVISION_BITWISE_OPERATORS_AND_NO_LOOPS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/COUNT_POSSIBLE_DECODINGS_GIVEN_DIGIT_SEQUENCE_1.java:74: error: method f_filled in class COUNT_POSSIBLE_DECODINGS_GIVEN_DIGIT_SEQUENCE_1 cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: String,int\n  found:    char[],Integer\n  reason: argument mismatch; char[] cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_POSSIBLE_DECODINGS_GIVEN_DIGIT_SEQUENCE_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/CONSTRUCT_LEXICOGRAPHICALLY_SMALLEST_PALINDROME.java:91: error: method f_filled in class CONSTRUCT_LEXICOGRAPHICALLY_SMALLEST_PALINDROME cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)).equals(f_gold(param0.get(i),param1.get(i))))\n           ^\n  required: String,int\n  found:    char[],Integer\n  reason: argument mismatch; char[] cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CONSTRUCT_LEXICOGRAPHICALLY_SMALLEST_PALINDROME"
+    },
+    {
+        "stdout": "#Results:7, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_A_ROTATION_WITH_MAXIMUM_HAMMING_DISTANCE"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/COUNT_WORDS_APPEAR_EXACTLY_TWO_TIMES_ARRAY_WORDS.java:74: error: method f_filled in class COUNT_WORDS_APPEAR_EXACTLY_TWO_TIMES_ARRAY_WORDS cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: String,int\n  found:    String[],Integer\n  reason: argument mismatch; String[] cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_WORDS_APPEAR_EXACTLY_TWO_TIMES_ARRAY_WORDS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/CHECK_INTEGER_OVERFLOW_MULTIPLICATION.java:59: error: method f_filled in class CHECK_INTEGER_OVERFLOW_MULTIPLICATION cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)).equals(f_gold(param0.get(i),param1.get(i))))\n           ^\n  required: int,int\n  found:    Long,Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "CHECK_INTEGER_OVERFLOW_MULTIPLICATION"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/MAXIMUM_VALUE_CHOICE_EITHER_DIVIDING_CONSIDERING.java:51: error: cannot find symbol\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  symbol:   method f_filled(Integer)\n  location: class MAXIMUM_VALUE_CHOICE_EITHER_DIVIDING_CONSIDERING\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MAXIMUM_VALUE_CHOICE_EITHER_DIVIDING_CONSIDERING"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/COUNT_OF_SUB_STRINGS_THAT_DO_NOT_CONTAIN_ALL_THE_CHARACTERS_FROM_THE_SET_A_B_C_AT_THE_SAME_TIME.java:84: error: method f_filled in class COUNT_OF_SUB_STRINGS_THAT_DO_NOT_CONTAIN_ALL_THE_CHARACTERS_FROM_THE_SET_A_B_C_AT_THE_SAME_TIME cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: String,int\n  found:    char[],Integer\n  reason: argument mismatch; char[] cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_OF_SUB_STRINGS_THAT_DO_NOT_CONTAIN_ALL_THE_CHARACTERS_FROM_THE_SET_A_B_C_AT_THE_SAME_TIME"
+    },
+    {
+        "stdout": "#Results:9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "PRIMALITY_TEST_SET_5USING_LUCAS_LEHMER_SERIES"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.NumberFormatException: For input string: \"D\"\n\tat java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)\n\tat java.base/java.lang.Integer.parseInt(Integer.java:665)\n\tat java.base/java.lang.Integer.parseInt(Integer.java:781)\n\tat PROGRAM_FIND_REMAINDER_LARGE_NUMBER_DIVIDED_11.f_filled(PROGRAM_FIND_REMAINDER_LARGE_NUMBER_DIVIDED_11.java:30)\n\tat PROGRAM_FIND_REMAINDER_LARGE_NUMBER_DIVIDED_11.main(PROGRAM_FIND_REMAINDER_LARGE_NUMBER_DIVIDED_11.java:51)\n",
+        "state": "RuntimeError",
+        "WhyError": "RuntimeError_",
+        "filename": "PROGRAM_FIND_REMAINDER_LARGE_NUMBER_DIVIDED_11"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/HOW_TO_BEGIN_WITH_COMPETITIVE_PROGRAMMING.java:70: error: method f_filled in class HOW_TO_BEGIN_WITH_COMPETITIVE_PROGRAMMING cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i),param2.get(i)) == f_gold(param0.get(i),param1.get(i),param2.get(i)))\n           ^\n  required: int[],int\n  found:    int[],Integer,Integer\n  reason: actual and formal argument lists differ in length\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "HOW_TO_BEGIN_WITH_COMPETITIVE_PROGRAMMING"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D.java:100: error: method f_filled in class FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: char[],int\n  found:    int[],Integer\n  reason: argument mismatch; int[] cannot be converted to char[]\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_LARGEST_D_IN_ARRAY_SUCH_THAT_A_B_C_D"
+    },
+    {
+        "stdout": "#Results:10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CHECK_WHETHER_TRIANGLE_VALID_NOT_SIDES_GIVEN"
+    },
+    {
+        "stdout": "#Results:2, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "COUNT_WAYS_BUILD_STREET_GIVEN_CONSTRAINTS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/MAXIMUM_AREA_RECTANGLE_PICKING_FOUR_SIDES_ARRAY.java:66: error: method f_filled in class MAXIMUM_AREA_RECTANGLE_PICKING_FOUR_SIDES_ARRAY cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: int[],int\n  found:    Integer[],Integer\n  reason: argument mismatch; Integer[] cannot be converted to int[]\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MAXIMUM_AREA_RECTANGLE_PICKING_FOUR_SIDES_ARRAY"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/BREAK_NUMBER_THREE_PARTS.java:55: error: method f_filled in class BREAK_NUMBER_THREE_PARTS cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: int\n  found:    Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "BREAK_NUMBER_THREE_PARTS"
+    },
+    {
+        "stdout": "#Results:2, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "TOTAL_NUMBER_OF_NON_DECREASING_NUMBERS_WITH_N_DIGITS_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/PROGRAM_FIND_SLOPE_LINE.java:70: error: method f_filled in class PROGRAM_FIND_SLOPE_LINE cannot be applied to given types;\n        if(Math.abs(1 - (0.0000001 + Math.abs(f_gold(param0.get(i),param1.get(i),param2.get(i),param3.get(i))) )/ (Math.abs(f_filled(param0.get(i),param1.get(i),param2.get(i),param3.get(i))) + 0.0000001)) < 0.001F)\n                                                                                                                            ^\n  required: int,int,int,int\n  found:    Float,Float,Float,Float\n  reason: argument mismatch; Float cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "PROGRAM_FIND_SLOPE_LINE"
+    },
+    {
+        "stdout": "#Results:9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "DICE_THROW_PROBLEM"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/WAYS_TRANSFORMING_ONE_STRING_REMOVING_0_CHARACTERS.java:107: error: method f_filled in class WAYS_TRANSFORMING_ONE_STRING_REMOVING_0_CHARACTERS cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: char[],char[]\n  found:    String,String\n  reason: argument mismatch; String cannot be converted to char[]\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "WAYS_TRANSFORMING_ONE_STRING_REMOVING_0_CHARACTERS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/MAXIMUM_SUM_SUBARRAY_REMOVING_ONE_ELEMENT.java:59: error: variable i is already defined in method f_filled(int[],int)\n    for (int i = 1; i < n - 1; i++) {\n             ^\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "MAXIMUM_SUM_SUBARRAY_REMOVING_ONE_ELEMENT"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/PERMUTE_TWO_ARRAYS_SUM_EVERY_PAIR_GREATER_EQUAL_K.java:87: error: method f_filled in class PERMUTE_TWO_ARRAYS_SUM_EVERY_PAIR_GREATER_EQUAL_K cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i),param2.get(i),param3.get(i)) == f_gold(param0.get(i),param1.get(i),param2.get(i),param3.get(i)))\n           ^\n  required: int[],int[],int,int\n  found:    Integer[],int[],Integer,Integer\n  reason: argument mismatch; Integer[] cannot be converted to int[]\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "PERMUTE_TWO_ARRAYS_SUM_EVERY_PAIR_GREATER_EQUAL_K"
+    },
+    {
+        "stdout": "",
+        "stderr": "Exception in thread \"main\" java.lang.NullPointerException: Cannot invoke \"java.lang.Integer.intValue()\" because the return value of \"java.util.HashMap.get(Object)\" is null\n\tat LONGEST_SUBARRAY_SUM_DIVISIBLE_K.f_filled(LONGEST_SUBARRAY_SUM_DIVISIBLE_K.java:50)\n\tat LONGEST_SUBARRAY_SUM_DIVISIBLE_K.main(LONGEST_SUBARRAY_SUM_DIVISIBLE_K.java:95)\n",
+        "state": "RuntimeError",
+        "WhyError": "RuntimeError_",
+        "filename": "LONGEST_SUBARRAY_SUM_DIVISIBLE_K"
+    },
+    {
+        "stdout": "Median is 9\nMedian is 97\nMedian is 99\nMedian is 97\nMedian is 98\nMedian is 76\nMedian is 98\nMedian is 97\nMedian is 98\nMedian is 98\n#Results:0, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "FIND_MEDIAN_ROW_WISE_SORTED_MATRIX"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/FIND_SUM_NODES_GIVEN_PERFECT_BINARY_TREE_1.java:22: error: illegal start of type\nstatic import java.lang.Math;\n       ^\nresult2/translate/chatgpt/python2java/java_fails_uni_repair2/FIND_SUM_NODES_GIVEN_PERFECT_BINARY_TREE_1.java:22: error: <identifier> expected\nstatic import java.lang.Math;\n                            ^\n2 errors\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_SUM_NODES_GIVEN_PERFECT_BINARY_TREE_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/FIND_NUMBER_ENDLESS_POINTS.java:106: error: method f_filled in class FIND_NUMBER_ENDLESS_POINTS cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: int[][],int\n  found:    boolean[][],Integer\n  reason: argument mismatch; boolean[][] cannot be converted to int[][]\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_NUMBER_ENDLESS_POINTS"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/BREAK_NUMBER_THREE_PARTS_1.java:41: error: method f_filled in class BREAK_NUMBER_THREE_PARTS_1 cannot be applied to given types;\n        if(f_filled(param0.get(i)) == f_gold(param0.get(i)))\n           ^\n  required: int\n  found:    Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "BREAK_NUMBER_THREE_PARTS_1"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/COUNT_PALINDROME_SUB_STRINGS_STRING.java:97: error: method f_filled in class COUNT_PALINDROME_SUB_STRINGS_STRING cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: String,int\n  found:    char[],Integer\n  reason: argument mismatch; char[] cannot be converted to String\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "COUNT_PALINDROME_SUB_STRINGS_STRING"
+    },
+    {
+        "stdout": "",
+        "stderr": "result2/translate/chatgpt/python2java/java_fails_uni_repair2/FIND_LAST_DIGIT_FACTORIAL_DIVIDES_FACTORIAL_B.java:66: error: method f_filled in class FIND_LAST_DIGIT_FACTORIAL_DIVIDES_FACTORIAL_B cannot be applied to given types;\n        if(f_filled(param0.get(i),param1.get(i)) == f_gold(param0.get(i),param1.get(i)))\n           ^\n  required: int,int\n  found:    Long,Long\n  reason: argument mismatch; Long cannot be converted to int\n1 error\nerror: compilation failed\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_LAST_DIGIT_FACTORIAL_DIVIDES_FACTORIAL_B"
+    }
+]

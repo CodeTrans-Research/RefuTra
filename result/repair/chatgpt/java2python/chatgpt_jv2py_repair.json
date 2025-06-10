@@ -1,0 +1,51 @@
+[
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "MAXIMUM_SUBARRAY_SUM_ARRAY_CREATED_REPEATED_CONCATENATION"
+    },
+    {
+        "stdout": "#Results: 9, 10\n",
+        "stderr": "",
+        "state": "ComputeError",
+        "WhyError": "ComputeError_",
+        "filename": "PROGRAM_DECIMAL_BINARY_CONVERSION_2"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "BREAK_NUMBER_THREE_PARTS_1"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "CALCULATE_VOLUME_DODECAHEDRON"
+    },
+    {
+        "stdout": "#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "PROGRAM_TO_FIND_THE_AREA_OF_PENTAGON"
+    },
+    {
+        "stdout": "",
+        "stderr": "Traceback (most recent call last):\n  File \"/data/oyj/cstproject/result2/repair/chatgpt/java2python/python_repair_eval/FIND_A_ROTATION_WITH_MAXIMUM_HAMMING_DISTANCE.py\", line 71, in <module>\n    filledres = f_filled(*parameters_set)\n  File \"/data/oyj/cstproject/result2/repair/chatgpt/java2python/python_repair_eval/FIND_A_ROTATION_WITH_MAXIMUM_HAMMING_DISTANCE.py\", line 46, in f_filled\n    if (brr[j]!=arr[k]):\nNameError: name 'k' is not defined\n",
+        "state": "CompileError",
+        "WhyError": "CompileError_",
+        "filename": "FIND_A_ROTATION_WITH_MAXIMUM_HAMMING_DISTANCE"
+    },
+    {
+        "stdout": "Sum found between indexes 3 and 4\nSum found between indexes\n3 and 4\nNo subarray found\nNo subarray found\nSum found between indexes 0 and 29\nSum found between indexes\n0 and 29\nSum found between indexes 8 and 10\nSum found between indexes\n8 and 10\nNo subarray found\nNo subarray found\nSum found between indexes 0 and 16\nSum found between indexes\n0 and 16\nSum found between indexes 9 and 9\nSum found between indexes\n9 and 9\nSum found between indexes 0 and 0\nSum found between indexes\n0 and 0\nSum found between indexes 0 and 0\nSum found between indexes\n0 and 0\nSum found between indexes 10 and 13\nSum found between indexes\n10 and 13\n#Results: 10, 10\n",
+        "stderr": "",
+        "state": "Correct",
+        "WhyError": "",
+        "filename": "FIND_SUBARRAY_WITH_GIVEN_SUM_1"
+    }
+]
