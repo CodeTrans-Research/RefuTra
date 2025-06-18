@@ -1,4 +1,4 @@
-# PsvChecker
+# RefuTra
 A static checker to examine semantic unpreservation on code transpilation among Java, Python and C++
 
 ## Required Packages
@@ -15,14 +15,14 @@ The project contains source code of tool, dataset and main results. There are fo
 
 - **dataset**: Contains parallel corpus for Java to CPP, Java to Python and Python to Java extracted from TransCoder. Also contains dataset used in BatFix.
 - **result**: Contains result of transpilation and check and repair result of tools.
-- **src**: Contains source code of tool. The main code is in src/psvchecker/check.py
+- **src**: Contains source code of tool. The main code is in src/RefuTra/check.py
 - **supplement**: Contains some manually reviewed results, including details of false positives, inconsistencies in the original dataset, and the influence of noise in dataset of BatFix (corresponding to the section Threats to Validity in the paper).
 
 ## Running the Main Program
 
-Run the main file **src/psvchecker/check.py** to run the tool:
+Run the main file **src/RefuTra/check.py** to run the tool:
 
-`python3 src/psvchecker/check.py --src_lang "$1" --tgt_lang "$2" --src_code "$3" --tgt_code "$4" --typed_path "$5" --repair_path "$6" --changelog "$7"`
+`python3 src/RefuTra/check.py --src_lang "$1" --tgt_lang "$2" --src_code "$3" --tgt_code "$4" --typed_path "$5" --repair_path "$6" --changelog "$7"`
 
 $1: Source language, $2: Target language. One can input 'Java', 'Python' or 'CPP'.
 
